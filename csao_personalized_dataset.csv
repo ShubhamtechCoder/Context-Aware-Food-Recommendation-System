@@ -1,0 +1,1201 @@
+user_id,top_ordered_item,avg_cart_item_count,preferred_category,order_party_type,user_region,restaurant_cuisine_type,restaurant_item_popularity,cart_total_value,cart_item_count,cart_cuisine_type,meal_time_segment,day_of_week_type,occasion_type,seasonal_preference,user_item_affinity,item_cooccurrence_score,user_category_affinity,item_price_tier,dietary_type,label_addon_added
+78,Gulab Jamun,1,Desserts,solo,South_Delhi,South_Indian,0.204,423,2,Desserts,dinner,weekday,none,summer,0.405,5,0.671,low,veg,1
+105,Nachos,1,Fast_Food,solo,Gurgaon,South_Indian,0.184,467,2,Fast_Food,breakfast,weekday,none,summer,0.198,2,0.514,low,veg,0
+34,Spring Roll,4,Chinese,group,Gurgaon,Desserts,0.167,338,1,Chinese,dinner,weekend,none,monsoon,0.602,1,0.321,medium,veg,1
+107,Ice Cream,3,Desserts,group,West_Delhi,Desserts,0.645,356,1,Desserts,lunch,weekday,none,summer,0.189,2,0.314,low,dairy,0
+12,Hakka Noodles,3,Chinese,group,West_Delhi,Fast_Food,0.374,328,1,Chinese,dinner,weekend,none,monsoon,0.413,0,0.604,low,veg,0
+0,Pepsi,1,Beverages,solo,South_Delhi,Desserts,0.441,381,2,Beverages,breakfast,weekend,anniversary,summer,0.443,1,0.705,low,egg,0
+176,Manchurian,2,Chinese,solo,Navi_Mumbai,Desserts,0.345,502,3,Chinese,lunch,weekday,festival,monsoon,0.612,0,0.743,low,egg,0
+178,Burger,3,Fast_Food,group,Navi_Mumbai,Chinese,0.295,440,2,Fast_Food,lunch,weekday,none,summer,0.521,2,0.69,medium,egg,0
+24,Gulab Jamun,2,Desserts,solo,South_Delhi,South_Indian,0.136,350,1,Desserts,lunch,weekday,none,winter,0.291,2,0.402,high,veg,0
+46,Cheesy Dip,1,Fast_Food,solo,Gurgaon,Fast_Food,0.56,420,2,Fast_Food,lunch,weekday,none,winter,0.346,0,0.662,low,nonveg,0
+83,Roti,1,North_Indian,solo,Navi_Mumbai,Beverages,0.474,377,2,North_Indian,lunch,weekday,none,summer,0.178,5,0.768,low,veg,1
+107,Choco Lava Cake,3,Desserts,group,West_Delhi,Fast_Food,0.259,357,2,Desserts,dinner,weekday,none,winter,0.253,3,0.547,medium,nonveg,0
+156,Kheer,2,Desserts,solo,Navi_Mumbai,Chinese,0.106,437,1,Desserts,breakfast,weekday,none,monsoon,0.167,3,0.823,medium,veg,0
+118,Choco Lava Cake,3,Desserts,group,Noida,North_Indian,0.418,315,1,Desserts,breakfast,weekend,festival,summer,0.326,1,0.232,low,nonveg,0
+152,Pepsi,1,Beverages,solo,Navi_Mumbai,North_Indian,0.395,485,3,Beverages,dinner,weekday,none,winter,0.317,1,0.824,medium,veg,0
+22,Dosa,1,South_Indian,solo,South_Delhi,North_Indian,0.089,414,2,South_Indian,dinner,weekend,festival,monsoon,0.59,0,0.25,low,veg,1
+27,Lassi,2,Beverages,solo,Navi_Mumbai,Chinese,0.267,571,4,Beverages,lunch,weekend,none,monsoon,0.133,1,0.756,low,veg,0
+163,Choco Lava Cake,2,Desserts,solo,West_Delhi,North_Indian,0.267,515,4,Desserts,dinner,weekday,none,winter,0.129,3,0.502,medium,veg,0
+158,Rasgulla,1,Desserts,solo,South_Delhi,Beverages,0.368,336,1,Desserts,lunch,weekday,none,summer,0.35,3,0.2,low,nonveg,0
+188,Sambar,2,South_Indian,solo,South_Delhi,Fast_Food,0.386,509,3,South_Indian,lunch,weekday,none,winter,0.314,0,0.67,high,veg,1
+162,Fried Rice,2,Chinese,solo,South_Delhi,North_Indian,0.265,605,4,Chinese,dinner,weekday,none,winter,0.766,5,0.513,low,veg,1
+8,Paneer Tikka,2,North_Indian,solo,West_Delhi,South_Indian,0.1,437,2,North_Indian,dinner,weekday,none,summer,0.631,5,0.639,high,veg,0
+96,Idli,2,South_Indian,solo,Navi_Mumbai,Fast_Food,0.178,548,3,South_Indian,breakfast,weekend,none,monsoon,0.29,6,0.272,medium,nonveg,0
+111,Roti,1,North_Indian,solo,South_Delhi,Chinese,0.409,348,2,North_Indian,lunch,weekend,none,winter,0.126,3,0.305,high,nonveg,0
+180,Vada,1,South_Indian,solo,West_Delhi,Fast_Food,0.214,264,1,South_Indian,lunch,weekend,none,winter,0.373,0,0.209,medium,veg,1
+112,Fries,3,Fast_Food,group,Gurgaon,Beverages,0.282,490,3,Fast_Food,dinner,weekday,none,monsoon,0.382,4,0.379,medium,veg,1
+112,Garlic Bread,3,Fast_Food,group,Gurgaon,Beverages,0.096,360,1,Fast_Food,lunch,weekday,none,monsoon,0.128,6,0.662,low,dairy,1
+171,Paneer Tikka,1,North_Indian,solo,Gurgaon,Fast_Food,0.229,561,4,North_Indian,lunch,weekend,none,summer,0.238,0,0.378,low,egg,0
+60,Brownie,1,Desserts,solo,Noida,North_Indian,0.272,320,1,Desserts,lunch,weekend,festival,monsoon,0.354,0,0.457,low,veg,0
+5,Fries,1,Fast_Food,solo,Navi_Mumbai,Fast_Food,0.176,366,2,Fast_Food,dinner,weekday,none,summer,0.256,1,0.622,medium,dairy,0
+193,Upma,2,South_Indian,solo,Navi_Mumbai,Chinese,0.174,370,2,South_Indian,lunch,weekday,none,winter,0.174,3,0.667,low,veg,1
+131,Choco Lava Cake,1,Desserts,solo,Noida,South_Indian,0.3,291,1,Desserts,snacks,weekend,festival,winter,0.372,12,0.364,high,nonveg,1
+193,Upma,2,South_Indian,solo,Navi_Mumbai,Desserts,0.626,354,2,South_Indian,breakfast,weekday,festival,summer,0.378,11,0.541,low,nonveg,0
+89,Garlic Bread,2,Fast_Food,solo,West_Delhi,Desserts,0.471,338,1,Fast_Food,dinner,weekday,none,summer,0.281,0,0.383,low,veg,0
+107,Brownie,3,Desserts,group,West_Delhi,Fast_Food,0.278,349,2,Desserts,dinner,weekday,none,monsoon,0.505,1,0.35,low,veg,0
+80,Milkshake,3,Beverages,group,Navi_Mumbai,Fast_Food,0.024,335,2,Beverages,lunch,weekday,festival,monsoon,0.378,7,0.661,medium,veg,0
+133,Papad,1,North_Indian,solo,Gurgaon,Desserts,0.484,519,3,North_Indian,lunch,weekend,none,monsoon,0.546,8,0.213,low,veg,1
+76,Cold Coffee,3,Beverages,group,Gurgaon,Beverages,0.128,370,2,Beverages,lunch,weekday,none,monsoon,0.406,1,0.61,low,nonveg,0
+15,Salad,1,North_Indian,solo,Noida,North_Indian,0.716,269,1,North_Indian,dinner,weekday,none,winter,0.185,15,0.789,low,veg,1
+179,Dal Makhani,1,North_Indian,solo,Navi_Mumbai,Fast_Food,0.191,490,4,North_Indian,lunch,weekday,none,monsoon,0.463,4,0.18,low,veg,0
+30,Fries,2,Fast_Food,solo,West_Delhi,Desserts,0.161,371,1,Fast_Food,dinner,weekday,none,winter,0.466,1,0.072,medium,veg,0
+68,Choco Lava Cake,1,Desserts,solo,Gurgaon,Fast_Food,0.069,629,4,Desserts,dinner,weekday,festival,monsoon,0.249,0,0.558,high,veg,0
+122,Lassi,1,Beverages,solo,Noida,Desserts,0.299,471,2,Beverages,dinner,weekday,none,winter,0.199,0,0.188,low,veg,0
+161,Cold Coffee,2,Beverages,solo,West_Delhi,Chinese,0.312,434,2,Beverages,snacks,weekend,none,winter,0.615,2,0.15,low,dairy,0
+158,Ice Cream,1,Desserts,solo,South_Delhi,Beverages,0.282,262,1,Desserts,snacks,weekday,none,winter,0.201,1,0.321,low,veg,0
+57,Chilli Paneer,1,Chinese,solo,Navi_Mumbai,North_Indian,0.091,495,3,Chinese,lunch,weekday,none,summer,0.167,1,0.663,low,dairy,0
+8,Dal Makhani,2,North_Indian,solo,West_Delhi,Beverages,0.256,423,3,North_Indian,lunch,weekday,none,winter,0.153,1,0.792,medium,dairy,1
+174,Fried Rice,2,Chinese,solo,Gurgaon,Desserts,0.095,303,1,Chinese,snacks,weekend,none,monsoon,0.661,1,0.587,low,veg,0
+31,Vada,1,South_Indian,solo,South_Delhi,Chinese,0.332,298,1,South_Indian,dinner,weekend,none,monsoon,0.521,9,0.737,medium,veg,1
+1,Cheesy Dip,4,Fast_Food,group,Gurgaon,Fast_Food,0.375,611,4,Fast_Food,dinner,weekday,none,winter,0.191,5,0.609,low,veg,1
+116,Paneer Tikka,3,North_Indian,group,Navi_Mumbai,North_Indian,0.517,298,1,North_Indian,lunch,weekend,none,winter,0.512,0,0.343,high,veg,1
+131,Kheer,1,Desserts,solo,Noida,Desserts,0.055,311,1,Desserts,dinner,weekend,birthday,monsoon,0.244,0,0.372,low,dairy,0
+181,Vada,1,South_Indian,solo,South_Delhi,Chinese,0.112,558,4,South_Indian,breakfast,weekday,none,winter,0.516,1,0.57,low,veg,0
+81,Ice Cream,2,Desserts,solo,West_Delhi,Beverages,0.201,570,4,Desserts,snacks,weekend,none,summer,0.211,2,0.462,low,dairy,0
+101,Chilli Paneer,2,Chinese,solo,Gurgaon,Chinese,0.076,346,1,Chinese,dinner,weekend,none,monsoon,0.066,0,0.302,high,veg,1
+147,Pepsi,2,Beverages,solo,Navi_Mumbai,Beverages,0.139,551,4,Beverages,dinner,weekend,none,summer,0.076,0,0.732,low,veg,1
+24,Brownie,2,Desserts,solo,South_Delhi,Desserts,0.204,447,3,Desserts,dinner,weekday,none,monsoon,0.178,4,0.658,medium,dairy,1
+113,Nachos,3,Fast_Food,group,Navi_Mumbai,Desserts,0.402,372,2,Fast_Food,dinner,weekday,birthday,winter,0.41,0,0.75,medium,veg,1
+135,Pizza,1,Fast_Food,solo,Noida,North_Indian,0.298,491,3,Fast_Food,lunch,weekday,none,monsoon,0.584,8,0.746,high,veg,1
+119,Paneer Tikka,2,North_Indian,solo,Noida,North_Indian,0.167,278,1,North_Indian,breakfast,weekday,none,summer,0.288,0,0.395,medium,egg,0
+2,Roti,2,North_Indian,solo,West_Delhi,Fast_Food,0.68,459,3,North_Indian,dinner,weekday,none,summer,0.349,2,0.649,high,veg,1
+81,Rasgulla,2,Desserts,solo,West_Delhi,Chinese,0.287,344,1,Desserts,lunch,weekday,none,monsoon,0.333,1,0.073,low,veg,0
+3,Papad,2,North_Indian,solo,South_Delhi,Fast_Food,0.245,311,1,North_Indian,snacks,weekday,none,winter,0.387,8,0.487,low,egg,1
+193,Sambar,2,South_Indian,solo,Navi_Mumbai,Beverages,0.535,427,2,South_Indian,snacks,weekday,birthday,monsoon,0.495,8,0.418,medium,nonveg,1
+13,Fried Rice,1,Chinese,solo,Navi_Mumbai,Beverages,0.572,419,2,Chinese,dinner,weekday,none,monsoon,0.4,0,0.829,low,nonveg,0
+127,Garlic Bread,3,Fast_Food,group,Noida,Chinese,0.188,499,3,Fast_Food,lunch,weekday,none,winter,0.486,5,0.707,medium,veg,1
+140,Fried Rice,4,Chinese,group,Noida,North_Indian,0.26,477,3,Chinese,lunch,weekday,none,monsoon,0.663,1,0.194,high,veg,0
+171,Salad,1,North_Indian,solo,Gurgaon,Fast_Food,0.173,315,1,North_Indian,lunch,weekend,none,summer,0.383,2,0.589,low,veg,1
+174,Spring Roll,2,Chinese,solo,Gurgaon,North_Indian,0.231,425,1,Chinese,lunch,weekday,none,summer,0.363,4,0.48,low,veg,1
+84,Choco Lava Cake,1,Desserts,solo,South_Delhi,Desserts,0.342,507,3,Desserts,lunch,weekday,festival,winter,0.096,3,0.525,low,nonveg,1
+82,Biryani,1,North_Indian,solo,Gurgaon,Desserts,0.537,433,2,North_Indian,snacks,weekday,none,summer,0.257,0,0.726,medium,nonveg,0
+10,Cheesy Dip,1,Fast_Food,solo,Navi_Mumbai,Fast_Food,0.129,448,3,Fast_Food,dinner,weekend,festival,winter,0.328,2,0.345,medium,nonveg,0
+105,Burger,1,Fast_Food,solo,Gurgaon,Chinese,0.104,264,1,Fast_Food,lunch,weekend,none,monsoon,0.105,1,0.685,medium,veg,0
+67,Kheer,3,Desserts,group,Noida,Desserts,0.284,384,2,Desserts,lunch,weekday,none,monsoon,0.615,1,0.33,medium,veg,0
+10,Fries,1,Fast_Food,solo,Navi_Mumbai,Chinese,0.544,486,3,Fast_Food,lunch,weekend,none,monsoon,0.166,0,0.34,low,nonveg,0
+183,Chutney,3,South_Indian,group,West_Delhi,Desserts,0.572,413,2,South_Indian,lunch,weekend,none,winter,0.182,1,0.563,low,veg,1
+153,Cheesy Dip,2,Fast_Food,solo,Gurgaon,Desserts,0.312,399,2,Fast_Food,snacks,weekend,none,winter,0.368,3,0.74,high,veg,0
+15,Roti,1,North_Indian,solo,Noida,Beverages,0.664,419,2,North_Indian,lunch,weekday,birthday,winter,0.071,0,0.531,medium,nonveg,0
+161,Milkshake,2,Beverages,solo,West_Delhi,South_Indian,0.243,578,3,Beverages,dinner,weekday,none,summer,0.126,2,0.746,low,veg,0
+108,Choco Lava Cake,1,Desserts,solo,West_Delhi,South_Indian,0.154,338,1,Desserts,dinner,weekend,none,monsoon,0.445,3,0.562,low,veg,0
+158,Ice Cream,1,Desserts,solo,South_Delhi,Beverages,0.185,327,1,Desserts,dinner,weekend,none,summer,0.447,0,0.646,medium,nonveg,1
+138,Fries,1,Fast_Food,solo,South_Delhi,Chinese,0.272,347,2,Fast_Food,lunch,weekend,none,summer,0.486,3,0.585,low,veg,0
+28,Chutney,2,South_Indian,solo,Navi_Mumbai,South_Indian,0.336,397,2,South_Indian,dinner,weekend,none,summer,0.407,1,0.243,medium,nonveg,1
+178,Fries,3,Fast_Food,group,Navi_Mumbai,South_Indian,0.291,515,3,Fast_Food,lunch,weekday,none,winter,0.257,12,0.074,medium,veg,1
+108,Kheer,1,Desserts,solo,West_Delhi,Fast_Food,0.537,423,2,Desserts,lunch,weekday,none,summer,0.148,0,0.571,medium,veg,1
+9,Rasgulla,2,Desserts,solo,Navi_Mumbai,North_Indian,0.31,492,2,Desserts,breakfast,weekend,none,winter,0.409,12,0.729,high,nonveg,0
+123,Chutney,1,South_Indian,solo,Noida,North_Indian,0.451,408,2,South_Indian,snacks,weekday,none,monsoon,0.49,2,0.568,low,veg,0
+166,Burger,1,Fast_Food,solo,Noida,Fast_Food,0.23,329,1,Fast_Food,breakfast,weekend,none,winter,0.369,1,0.286,medium,dairy,0
+126,Milkshake,3,Beverages,group,South_Delhi,South_Indian,0.105,369,2,Beverages,lunch,weekday,none,monsoon,0.491,6,0.732,low,veg,1
+119,Dal Makhani,2,North_Indian,solo,Noida,Chinese,0.292,615,4,North_Indian,breakfast,weekday,none,summer,0.359,6,0.509,high,veg,0
+10,Burger,1,Fast_Food,solo,Navi_Mumbai,Chinese,0.161,350,1,Fast_Food,breakfast,weekend,birthday,winter,0.096,6,0.59,high,veg,1
+42,Chilli Paneer,1,Chinese,solo,Gurgaon,Beverages,0.091,450,2,Chinese,snacks,weekday,none,summer,0.138,0,0.356,medium,nonveg,0
+127,Cheesy Dip,3,Fast_Food,group,Noida,Desserts,0.393,346,2,Fast_Food,snacks,weekday,birthday,winter,0.631,4,0.601,low,nonveg,0
+148,Milkshake,1,Beverages,solo,Noida,Fast_Food,0.108,366,2,Beverages,snacks,weekend,none,winter,0.667,2,0.347,medium,nonveg,0
+161,Lassi,2,Beverages,solo,West_Delhi,Chinese,0.297,542,4,Beverages,breakfast,weekday,festival,winter,0.355,1,0.277,low,nonveg,0
+104,Raita,3,North_Indian,group,West_Delhi,Beverages,0.335,369,1,North_Indian,dinner,weekday,none,monsoon,0.054,0,0.194,high,veg,1
+53,Raita,3,North_Indian,group,West_Delhi,Desserts,0.485,317,1,North_Indian,breakfast,weekday,none,summer,0.273,0,0.361,medium,nonveg,0
+114,Dal Makhani,2,North_Indian,solo,Gurgaon,North_Indian,0.32,430,2,North_Indian,breakfast,weekend,none,winter,0.204,1,0.645,medium,veg,1
+12,Spring Roll,3,Chinese,group,West_Delhi,Chinese,0.443,552,4,Chinese,dinner,weekday,none,summer,0.247,1,0.864,high,veg,1
+186,Ice Cream,3,Desserts,group,Navi_Mumbai,South_Indian,0.361,428,2,Desserts,dinner,weekend,none,monsoon,0.471,6,0.216,medium,veg,0
+24,Choco Lava Cake,2,Desserts,solo,South_Delhi,Chinese,0.322,334,1,Desserts,snacks,weekday,birthday,monsoon,0.135,0,0.583,high,nonveg,1
+155,Rasgulla,1,Desserts,solo,Noida,Chinese,0.541,347,1,Desserts,snacks,weekday,none,summer,0.262,2,0.421,medium,nonveg,0
+155,Kheer,1,Desserts,solo,Noida,Desserts,0.282,434,3,Desserts,lunch,weekday,none,summer,0.659,0,0.455,medium,veg,0
+198,Garlic Bread,3,Fast_Food,group,Noida,Desserts,0.129,320,2,Fast_Food,dinner,weekday,none,monsoon,0.184,1,0.609,low,veg,1
+40,Choco Lava Cake,1,Desserts,solo,West_Delhi,Fast_Food,0.272,506,3,Desserts,dinner,weekday,festival,summer,0.258,2,0.627,low,nonveg,0
+55,Choco Lava Cake,3,Desserts,group,Gurgaon,Chinese,0.109,390,2,Desserts,breakfast,weekend,anniversary,summer,0.6,0,0.101,medium,nonveg,0
+14,Sambar,1,South_Indian,solo,South_Delhi,North_Indian,0.44,395,1,South_Indian,breakfast,weekday,festival,summer,0.169,1,0.575,high,dairy,0
+178,Fries,3,Fast_Food,group,Navi_Mumbai,Chinese,0.273,437,2,Fast_Food,snacks,weekend,none,winter,0.104,13,0.858,medium,veg,1
+61,Burger,1,Fast_Food,solo,South_Delhi,Chinese,0.111,298,1,Fast_Food,lunch,weekday,birthday,winter,0.186,3,0.229,low,veg,0
+150,Vada,3,South_Indian,group,West_Delhi,Chinese,0.217,450,3,South_Indian,snacks,weekend,none,winter,0.443,5,0.633,medium,veg,0
+33,Spring Roll,3,Chinese,group,Gurgaon,South_Indian,0.412,268,1,Chinese,dinner,weekday,none,summer,0.683,0,0.504,low,veg,0
+22,Sambar,1,South_Indian,solo,South_Delhi,Fast_Food,0.439,309,1,South_Indian,lunch,weekend,none,monsoon,0.521,0,0.803,high,veg,0
+122,Tea,1,Beverages,solo,Noida,Fast_Food,0.191,520,3,Beverages,breakfast,weekend,none,winter,0.186,0,0.947,low,egg,0
+187,Burger,2,Fast_Food,solo,Navi_Mumbai,Beverages,0.121,251,1,Fast_Food,lunch,weekend,none,summer,0.603,1,0.431,low,dairy,0
+122,Cold Coffee,1,Beverages,solo,Noida,Fast_Food,0.365,459,3,Beverages,dinner,weekend,none,summer,0.121,0,0.169,low,veg,0
+21,Idli,1,South_Indian,solo,Navi_Mumbai,North_Indian,0.278,422,2,South_Indian,lunch,weekend,none,summer,0.062,4,0.597,medium,veg,0
+21,Upma,1,South_Indian,solo,Navi_Mumbai,North_Indian,0.526,426,2,South_Indian,breakfast,weekday,none,summer,0.112,0,0.56,low,dairy,0
+143,Roti,1,North_Indian,solo,Noida,Chinese,0.163,408,2,North_Indian,lunch,weekday,birthday,monsoon,0.531,3,0.659,low,veg,0
+91,Pizza,2,Fast_Food,solo,Noida,Desserts,0.516,495,4,Fast_Food,snacks,weekend,none,summer,0.227,4,0.545,medium,nonveg,0
+88,Sambar,3,South_Indian,group,West_Delhi,Beverages,0.294,434,3,South_Indian,breakfast,weekend,none,winter,0.371,0,0.153,low,veg,0
+184,Manchurian,1,Chinese,solo,Navi_Mumbai,North_Indian,0.422,357,2,Chinese,snacks,weekday,none,monsoon,0.86,1,0.498,medium,veg,0
+106,Sandwich,2,Fast_Food,solo,Navi_Mumbai,Beverages,0.285,436,2,Fast_Food,lunch,weekend,none,monsoon,0.368,0,0.581,high,nonveg,0
+61,Pizza,1,Fast_Food,solo,South_Delhi,North_Indian,0.244,412,2,Fast_Food,snacks,weekday,none,winter,0.52,2,0.675,low,nonveg,0
+70,Coke,3,Beverages,group,South_Delhi,Desserts,0.077,374,1,Beverages,dinner,weekday,none,summer,0.353,1,0.515,low,dairy,0
+16,Vada,1,South_Indian,solo,Gurgaon,Desserts,0.254,501,2,South_Indian,lunch,weekday,none,monsoon,0.539,3,0.515,high,veg,0
+190,Garlic Bread,1,Fast_Food,solo,South_Delhi,Chinese,0.202,336,1,Fast_Food,lunch,weekday,none,monsoon,0.226,8,0.451,medium,veg,0
+37,Pepsi,1,Beverages,solo,Gurgaon,Fast_Food,0.203,363,2,Beverages,snacks,weekday,none,monsoon,0.102,2,0.605,medium,dairy,1
+176,Fried Rice,2,Chinese,solo,Navi_Mumbai,Fast_Food,0.866,468,3,Chinese,lunch,weekend,none,monsoon,0.239,0,0.339,medium,veg,0
+44,Papad,1,North_Indian,solo,Gurgaon,South_Indian,0.363,349,1,North_Indian,lunch,weekday,none,monsoon,0.231,2,0.507,medium,veg,0
+95,Kheer,2,Desserts,solo,West_Delhi,Fast_Food,0.043,409,3,Desserts,lunch,weekday,none,monsoon,0.096,1,0.314,high,veg,0
+7,Cheesy Dip,3,Fast_Food,group,South_Delhi,Fast_Food,0.711,404,2,Fast_Food,lunch,weekday,none,winter,0.309,9,0.626,medium,veg,1
+36,Upma,1,South_Indian,solo,West_Delhi,Chinese,0.472,523,3,South_Indian,breakfast,weekday,none,monsoon,0.149,1,0.51,medium,dairy,0
+122,Lassi,1,Beverages,solo,Noida,Fast_Food,0.339,514,4,Beverages,lunch,weekday,none,monsoon,0.091,4,0.286,medium,veg,0
+155,Choco Lava Cake,1,Desserts,solo,Noida,South_Indian,0.26,586,4,Desserts,lunch,weekday,none,summer,0.437,3,0.33,low,egg,0
+180,Sambar,1,South_Indian,solo,West_Delhi,Chinese,0.302,304,1,South_Indian,snacks,weekend,none,summer,0.335,4,0.624,medium,veg,1
+128,Milkshake,1,Beverages,solo,Gurgaon,South_Indian,0.194,410,2,Beverages,snacks,weekend,none,monsoon,0.278,4,0.26,low,nonveg,1
+2,Papad,2,North_Indian,solo,West_Delhi,Chinese,0.054,401,2,North_Indian,lunch,weekday,festival,monsoon,0.546,0,0.438,high,veg,0
+80,Pepsi,3,Beverages,group,Navi_Mumbai,Chinese,0.318,511,3,Beverages,dinner,weekend,none,summer,0.235,3,0.395,low,veg,0
+5,Nachos,1,Fast_Food,solo,Navi_Mumbai,Desserts,0.08,438,2,Fast_Food,dinner,weekday,festival,monsoon,0.128,1,0.518,low,nonveg,1
+184,Manchurian,1,Chinese,solo,Navi_Mumbai,Desserts,0.193,441,3,Chinese,lunch,weekday,none,monsoon,0.436,0,0.69,high,veg,0
+140,Spring Roll,4,Chinese,group,Noida,Chinese,0.451,354,1,Chinese,dinner,weekday,none,winter,0.303,2,0.504,low,nonveg,0
+28,Chutney,2,South_Indian,solo,Navi_Mumbai,Desserts,0.463,298,1,South_Indian,dinner,weekday,none,winter,0.419,1,0.617,low,veg,0
+27,Lassi,2,Beverages,solo,Navi_Mumbai,North_Indian,0.252,428,3,Beverages,dinner,weekday,none,summer,0.039,6,0.902,high,dairy,1
+168,Brownie,1,Desserts,solo,Navi_Mumbai,Chinese,0.197,510,3,Desserts,snacks,weekday,none,summer,0.408,7,0.815,low,veg,0
+73,Cheesy Dip,3,Fast_Food,group,Gurgaon,Chinese,0.279,404,2,Fast_Food,lunch,weekday,none,monsoon,0.123,2,0.301,medium,nonveg,0
+53,Raita,3,North_Indian,group,West_Delhi,Beverages,0.105,501,3,North_Indian,lunch,weekday,none,winter,0.361,0,0.691,medium,nonveg,0
+46,Fries,1,Fast_Food,solo,Gurgaon,Fast_Food,0.542,339,2,Fast_Food,snacks,weekday,none,winter,0.416,1,0.608,low,veg,0
+17,Papad,2,North_Indian,solo,West_Delhi,South_Indian,0.32,449,2,North_Indian,lunch,weekday,festival,summer,0.246,0,0.541,medium,nonveg,0
+81,Ice Cream,2,Desserts,solo,West_Delhi,North_Indian,0.369,455,2,Desserts,lunch,weekend,none,winter,0.612,2,0.303,low,veg,1
+42,Manchurian,1,Chinese,solo,Gurgaon,South_Indian,0.434,373,1,Chinese,dinner,weekday,festival,winter,0.427,0,0.758,low,dairy,1
+102,Chilli Paneer,1,Chinese,solo,Navi_Mumbai,Beverages,0.416,456,2,Chinese,dinner,weekday,none,winter,0.53,0,0.537,low,veg,0
+8,Raita,2,North_Indian,solo,West_Delhi,Fast_Food,0.347,495,3,North_Indian,dinner,weekend,none,monsoon,0.209,4,0.678,low,veg,1
+15,Roti,1,North_Indian,solo,Noida,Fast_Food,0.789,431,2,North_Indian,dinner,weekend,birthday,summer,0.319,2,0.568,medium,veg,0
+87,Nachos,2,Fast_Food,solo,Gurgaon,Chinese,0.354,603,4,Fast_Food,snacks,weekday,none,winter,0.381,0,0.167,medium,nonveg,0
+56,Tea,1,Beverages,solo,Navi_Mumbai,North_Indian,0.116,491,3,Beverages,dinner,weekday,none,monsoon,0.343,1,0.298,high,nonveg,0
+192,Dal Makhani,3,North_Indian,group,Gurgaon,Beverages,0.091,326,2,North_Indian,lunch,weekday,none,monsoon,0.385,1,0.633,medium,nonveg,0
+13,Spring Roll,1,Chinese,solo,Navi_Mumbai,Chinese,0.421,368,1,Chinese,breakfast,weekday,none,summer,0.297,3,0.438,low,dairy,0
+197,Dosa,3,South_Indian,group,South_Delhi,South_Indian,0.544,376,1,South_Indian,snacks,weekday,none,summer,0.249,0,0.285,low,veg,0
+162,Spring Roll,2,Chinese,solo,South_Delhi,Beverages,0.202,444,2,Chinese,dinner,weekday,none,summer,0.299,1,0.737,medium,veg,0
+66,Manchurian,1,Chinese,solo,Noida,Beverages,0.184,358,2,Chinese,snacks,weekend,none,monsoon,0.364,1,0.693,low,nonveg,1
+87,Fries,2,Fast_Food,solo,Gurgaon,Chinese,0.512,288,1,Fast_Food,snacks,weekday,none,monsoon,0.374,5,0.53,low,veg,0
+175,Sandwich,1,Fast_Food,solo,South_Delhi,South_Indian,0.107,454,3,Fast_Food,breakfast,weekday,anniversary,winter,0.407,0,0.41,low,veg,0
+130,Salad,2,North_Indian,solo,West_Delhi,Desserts,0.326,454,2,North_Indian,lunch,weekday,none,winter,0.416,0,0.546,medium,veg,0
+190,Fries,1,Fast_Food,solo,South_Delhi,Beverages,0.336,358,1,Fast_Food,snacks,weekday,none,winter,0.566,1,0.576,low,veg,1
+93,Paneer Tikka,2,North_Indian,solo,West_Delhi,South_Indian,0.463,508,3,North_Indian,dinner,weekend,festival,winter,0.677,0,0.333,medium,dairy,1
+97,Rasgulla,2,Desserts,solo,Noida,Fast_Food,0.189,458,3,Desserts,dinner,weekday,none,monsoon,0.629,4,0.79,high,nonveg,0
+99,Pepsi,1,Beverages,solo,West_Delhi,South_Indian,0.044,285,1,Beverages,lunch,weekday,none,summer,0.342,6,0.377,medium,veg,0
+19,Nachos,1,Fast_Food,solo,Noida,Desserts,0.254,525,3,Fast_Food,snacks,weekday,festival,monsoon,0.578,0,0.358,low,veg,0
+59,Roti,1,North_Indian,solo,West_Delhi,North_Indian,0.354,313,1,North_Indian,dinner,weekday,none,summer,0.267,0,0.602,low,dairy,0
+80,Cold Coffee,3,Beverages,group,Navi_Mumbai,Chinese,0.274,315,1,Beverages,breakfast,weekday,none,winter,0.239,1,0.15,low,dairy,0
+77,Choco Lava Cake,1,Desserts,solo,West_Delhi,Desserts,0.167,557,4,Desserts,lunch,weekday,festival,monsoon,0.497,1,0.275,low,dairy,0
+140,Chilli Paneer,4,Chinese,group,Noida,South_Indian,0.154,460,2,Chinese,dinner,weekday,none,summer,0.352,5,0.717,medium,dairy,1
+163,Rasgulla,2,Desserts,solo,West_Delhi,South_Indian,0.636,345,1,Desserts,snacks,weekday,none,summer,0.124,10,0.462,low,veg,0
+51,Manchurian,3,Chinese,group,Noida,North_Indian,0.147,318,1,Chinese,lunch,weekend,none,winter,0.303,2,0.41,high,veg,0
+196,Gulab Jamun,2,Desserts,solo,Noida,Beverages,0.657,472,3,Desserts,snacks,weekend,none,monsoon,0.269,0,0.538,high,veg,1
+101,Fried Rice,2,Chinese,solo,Gurgaon,South_Indian,0.138,346,1,Chinese,dinner,weekday,none,summer,0.357,1,0.827,medium,nonveg,0
+42,Hakka Noodles,1,Chinese,solo,Gurgaon,Desserts,0.307,492,2,Chinese,dinner,weekday,none,winter,0.359,6,0.676,low,dairy,1
+101,Fried Rice,2,Chinese,solo,Gurgaon,Beverages,0.122,314,1,Chinese,dinner,weekday,birthday,winter,0.478,0,0.392,high,nonveg,0
+1,Pizza,4,Fast_Food,group,Gurgaon,Fast_Food,0.056,418,2,Fast_Food,lunch,weekend,festival,monsoon,0.09,1,0.301,medium,veg,0
+113,Fries,3,Fast_Food,group,Navi_Mumbai,Chinese,0.196,335,2,Fast_Food,lunch,weekend,birthday,winter,0.142,4,0.588,medium,veg,0
+117,Dal Makhani,1,North_Indian,solo,Navi_Mumbai,South_Indian,0.24,401,2,North_Indian,lunch,weekday,none,summer,0.309,0,0.458,low,veg,0
+78,Gulab Jamun,1,Desserts,solo,South_Delhi,South_Indian,0.391,477,3,Desserts,lunch,weekday,none,winter,0.259,4,0.559,high,veg,1
+194,Biryani,1,North_Indian,solo,Gurgaon,Fast_Food,0.24,536,3,North_Indian,snacks,weekend,festival,winter,0.634,6,0.647,high,veg,1
+109,Garlic Bread,1,Fast_Food,solo,South_Delhi,Fast_Food,0.219,278,1,Fast_Food,lunch,weekend,none,monsoon,0.333,2,0.49,low,egg,1
+182,Salad,3,North_Indian,group,Gurgaon,Beverages,0.264,373,1,North_Indian,dinner,weekday,none,summer,0.695,3,0.676,high,veg,0
+75,Fried Rice,2,Chinese,solo,South_Delhi,North_Indian,0.486,478,2,Chinese,lunch,weekend,none,monsoon,0.638,5,0.52,medium,veg,0
+118,Brownie,3,Desserts,group,Noida,Fast_Food,0.7,386,2,Desserts,dinner,weekend,none,summer,0.18,0,0.453,medium,nonveg,0
+36,Dosa,1,South_Indian,solo,West_Delhi,Desserts,0.455,391,2,South_Indian,lunch,weekday,festival,winter,0.275,0,0.427,medium,veg,0
+154,Sandwich,4,Fast_Food,group,South_Delhi,Desserts,0.568,319,1,Fast_Food,snacks,weekday,none,monsoon,0.089,1,0.79,medium,dairy,0
+34,Fried Rice,4,Chinese,group,Gurgaon,Desserts,0.28,305,1,Chinese,lunch,weekday,birthday,winter,0.561,5,0.79,high,veg,1
+123,Sambar,1,South_Indian,solo,Noida,Chinese,0.065,365,2,South_Indian,snacks,weekday,festival,winter,0.23,1,0.745,low,nonveg,0
+129,Cheesy Dip,2,Fast_Food,solo,West_Delhi,Desserts,0.568,396,2,Fast_Food,lunch,weekend,none,winter,0.241,2,0.554,low,veg,0
+180,Vada,1,South_Indian,solo,West_Delhi,Desserts,0.312,353,1,South_Indian,lunch,weekday,none,monsoon,0.511,5,0.638,medium,egg,1
+32,Biryani,1,North_Indian,solo,South_Delhi,Desserts,0.688,425,2,North_Indian,lunch,weekday,festival,monsoon,0.557,8,0.553,medium,dairy,1
+115,Coke,3,Beverages,group,Noida,North_Indian,0.138,301,1,Beverages,lunch,weekend,none,monsoon,0.349,3,0.41,medium,veg,1
+181,Idli,1,South_Indian,solo,South_Delhi,South_Indian,0.421,305,2,South_Indian,lunch,weekend,none,monsoon,0.337,5,0.543,low,veg,1
+36,Dosa,1,South_Indian,solo,West_Delhi,North_Indian,0.437,437,3,South_Indian,breakfast,weekday,none,summer,0.629,1,0.638,medium,dairy,0
+54,Pepsi,2,Beverages,solo,Navi_Mumbai,Desserts,0.579,273,1,Beverages,snacks,weekend,birthday,summer,0.403,4,0.411,low,veg,1
+101,Fried Rice,2,Chinese,solo,Gurgaon,Fast_Food,0.247,413,2,Chinese,dinner,weekday,none,winter,0.302,5,0.799,high,veg,1
+120,Spring Roll,3,Chinese,group,West_Delhi,Beverages,0.26,389,2,Chinese,dinner,weekday,birthday,monsoon,0.418,2,0.765,medium,dairy,1
+81,Ice Cream,2,Desserts,solo,West_Delhi,South_Indian,0.142,474,2,Desserts,lunch,weekday,none,summer,0.515,2,0.531,low,nonveg,0
+186,Rasgulla,3,Desserts,group,Navi_Mumbai,South_Indian,0.279,464,2,Desserts,lunch,weekday,festival,monsoon,0.461,2,0.275,low,nonveg,0
+0,Lassi,1,Beverages,solo,South_Delhi,Beverages,0.1,460,2,Beverages,dinner,weekday,birthday,winter,0.259,3,0.338,medium,veg,0
+187,Pizza,2,Fast_Food,solo,Navi_Mumbai,Beverages,0.125,325,2,Fast_Food,snacks,weekend,none,summer,0.313,8,0.197,medium,nonveg,1
+23,Lassi,1,Beverages,solo,Noida,Beverages,0.469,327,1,Beverages,snacks,weekday,none,monsoon,0.426,3,0.163,high,dairy,0
+123,Chutney,1,South_Indian,solo,Noida,North_Indian,0.514,328,1,South_Indian,snacks,weekday,none,winter,0.135,8,0.625,low,veg,0
+144,Pizza,1,Fast_Food,solo,Noida,Desserts,0.562,397,2,Fast_Food,dinner,weekday,birthday,summer,0.27,0,0.772,medium,nonveg,1
+18,Chutney,2,South_Indian,solo,South_Delhi,North_Indian,0.497,389,2,South_Indian,dinner,weekday,none,winter,0.634,0,0.724,medium,nonveg,0
+46,Cheesy Dip,1,Fast_Food,solo,Gurgaon,North_Indian,0.391,217,1,Fast_Food,dinner,weekday,anniversary,summer,0.244,0,0.559,medium,veg,0
+188,Dosa,2,South_Indian,solo,South_Delhi,North_Indian,0.077,358,1,South_Indian,dinner,weekday,none,winter,0.049,1,0.407,low,veg,0
+192,Raita,3,North_Indian,group,Gurgaon,Beverages,0.135,584,4,North_Indian,lunch,weekend,none,monsoon,0.332,1,0.342,medium,veg,0
+114,Paneer Tikka,2,North_Indian,solo,Gurgaon,Chinese,0.163,422,2,North_Indian,lunch,weekday,birthday,summer,0.078,1,0.186,medium,nonveg,0
+150,Sambar,3,South_Indian,group,West_Delhi,Beverages,0.361,446,3,South_Indian,lunch,weekend,none,winter,0.191,0,0.214,medium,nonveg,0
+75,Spring Roll,2,Chinese,solo,South_Delhi,South_Indian,0.27,513,3,Chinese,lunch,weekday,festival,monsoon,0.478,1,0.082,low,nonveg,0
+43,Tea,3,Beverages,group,Navi_Mumbai,Chinese,0.164,464,3,Beverages,lunch,weekday,none,winter,0.514,0,0.416,low,nonveg,0
+177,Gulab Jamun,1,Desserts,solo,South_Delhi,Desserts,0.129,372,2,Desserts,lunch,weekday,none,summer,0.577,1,0.298,high,veg,0
+77,Ice Cream,1,Desserts,solo,West_Delhi,Beverages,0.448,407,2,Desserts,snacks,weekend,none,winter,0.496,1,0.51,low,nonveg,0
+81,Kheer,2,Desserts,solo,West_Delhi,South_Indian,0.525,389,1,Desserts,lunch,weekday,none,summer,0.465,2,0.849,medium,veg,0
+183,Dosa,3,South_Indian,group,West_Delhi,North_Indian,0.062,454,3,South_Indian,dinner,weekend,none,monsoon,0.574,1,0.563,low,veg,0
+143,Papad,1,North_Indian,solo,Noida,Desserts,0.221,345,1,North_Indian,dinner,weekday,none,monsoon,0.1,0,0.516,low,egg,0
+182,Biryani,3,North_Indian,group,Gurgaon,Beverages,0.319,544,3,North_Indian,dinner,weekday,festival,winter,0.298,1,0.328,low,nonveg,0
+29,Raita,1,North_Indian,solo,South_Delhi,Fast_Food,0.143,479,3,North_Indian,snacks,weekend,none,summer,0.251,0,0.689,medium,veg,0
+39,Ice Cream,2,Desserts,solo,West_Delhi,Desserts,0.1,476,3,Desserts,snacks,weekday,none,monsoon,0.17,0,0.443,high,nonveg,0
+121,Garlic Bread,3,Fast_Food,group,South_Delhi,South_Indian,0.196,311,1,Fast_Food,dinner,weekday,none,summer,0.465,5,0.697,low,nonveg,1
+55,Kheer,3,Desserts,group,Gurgaon,Chinese,0.154,276,1,Desserts,snacks,weekday,festival,monsoon,0.468,3,0.205,high,veg,0
+120,Spring Roll,3,Chinese,group,West_Delhi,Fast_Food,0.303,342,1,Chinese,lunch,weekday,anniversary,winter,0.412,4,0.358,high,nonveg,0
+177,Brownie,1,Desserts,solo,South_Delhi,Chinese,0.144,303,1,Desserts,dinner,weekday,none,winter,0.419,0,0.415,low,veg,0
+107,Brownie,3,Desserts,group,West_Delhi,Beverages,0.605,395,2,Desserts,snacks,weekday,none,summer,0.649,4,0.557,high,veg,0
+178,Cheesy Dip,3,Fast_Food,group,Navi_Mumbai,North_Indian,0.374,509,3,Fast_Food,snacks,weekday,none,winter,0.279,1,0.572,low,veg,0
+136,Ice Cream,2,Desserts,solo,South_Delhi,Beverages,0.278,372,1,Desserts,lunch,weekday,none,winter,0.413,2,0.352,high,nonveg,1
+63,Lassi,1,Beverages,solo,West_Delhi,Beverages,0.239,334,2,Beverages,lunch,weekday,none,winter,0.083,5,0.67,medium,veg,1
+161,Tea,2,Beverages,solo,West_Delhi,Fast_Food,0.316,410,1,Beverages,dinner,weekday,none,winter,0.127,0,0.74,high,nonveg,1
+48,Pizza,2,Fast_Food,solo,West_Delhi,South_Indian,0.314,454,3,Fast_Food,lunch,weekday,none,winter,0.406,13,0.605,high,dairy,1
+111,Paneer Tikka,1,North_Indian,solo,South_Delhi,Fast_Food,0.602,349,1,North_Indian,snacks,weekday,none,winter,0.212,7,0.68,low,nonveg,1
+188,Upma,2,South_Indian,solo,South_Delhi,Fast_Food,0.757,654,4,South_Indian,lunch,weekday,festival,monsoon,0.46,6,0.217,medium,nonveg,1
+26,Kheer,1,Desserts,solo,Gurgaon,Chinese,0.223,321,1,Desserts,dinner,weekday,none,winter,0.559,2,0.13,low,veg,1
+37,Coke,1,Beverages,solo,Gurgaon,North_Indian,0.567,338,2,Beverages,lunch,weekday,festival,monsoon,0.343,8,0.673,high,veg,1
+17,Paneer Tikka,2,North_Indian,solo,West_Delhi,Desserts,0.071,494,3,North_Indian,lunch,weekday,none,winter,0.283,6,0.289,medium,dairy,1
+36,Chutney,1,South_Indian,solo,West_Delhi,Chinese,0.202,433,2,South_Indian,dinner,weekday,none,summer,0.16,2,0.408,low,veg,0
+74,Fried Rice,2,Chinese,solo,West_Delhi,South_Indian,0.065,234,1,Chinese,lunch,weekday,none,monsoon,0.364,1,0.575,high,dairy,0
+39,Rasgulla,2,Desserts,solo,West_Delhi,South_Indian,0.051,364,1,Desserts,dinner,weekday,none,winter,0.432,1,0.348,high,dairy,0
+15,Salad,1,North_Indian,solo,Noida,Chinese,0.456,361,1,North_Indian,lunch,weekend,festival,summer,0.188,2,0.463,medium,veg,0
+118,Gulab Jamun,3,Desserts,group,Noida,Beverages,0.1,352,2,Desserts,breakfast,weekday,none,monsoon,0.632,4,0.437,medium,nonveg,1
+76,Pepsi,3,Beverages,group,Gurgaon,Beverages,0.135,374,1,Beverages,lunch,weekend,none,summer,0.024,0,0.724,medium,dairy,1
+115,Lassi,3,Beverages,group,Noida,Desserts,0.138,329,1,Beverages,dinner,weekday,anniversary,summer,0.115,1,0.458,medium,veg,0
+93,Raita,2,North_Indian,solo,West_Delhi,Chinese,0.304,340,1,North_Indian,dinner,weekday,none,summer,0.149,8,0.454,medium,nonveg,1
+74,Fried Rice,2,Chinese,solo,West_Delhi,Fast_Food,0.367,452,3,Chinese,lunch,weekend,none,winter,0.21,4,0.525,medium,nonveg,0
+43,Coke,3,Beverages,group,Navi_Mumbai,Beverages,0.428,352,1,Beverages,lunch,weekend,festival,summer,0.288,2,0.609,low,nonveg,1
+192,Dal Makhani,3,North_Indian,group,Gurgaon,Beverages,0.08,419,2,North_Indian,snacks,weekday,none,winter,0.665,1,0.293,medium,nonveg,0
+133,Raita,1,North_Indian,solo,Gurgaon,Beverages,0.381,565,4,North_Indian,snacks,weekend,none,winter,0.292,0,0.728,low,nonveg,0
+188,Sambar,2,South_Indian,solo,South_Delhi,Chinese,0.296,553,4,South_Indian,breakfast,weekend,none,winter,0.375,0,0.44,low,veg,0
+134,Fried Rice,3,Chinese,group,West_Delhi,Chinese,0.272,366,2,Chinese,snacks,weekend,none,monsoon,0.636,0,0.211,low,veg,0
+144,Burger,1,Fast_Food,solo,Noida,Chinese,0.172,409,2,Fast_Food,lunch,weekday,none,summer,0.191,3,0.222,medium,nonveg,0
+150,Upma,3,South_Indian,group,West_Delhi,Desserts,0.074,496,3,South_Indian,lunch,weekday,none,monsoon,0.308,1,0.202,medium,veg,0
+29,Roti,1,North_Indian,solo,South_Delhi,Fast_Food,0.551,347,1,North_Indian,lunch,weekend,none,winter,0.323,4,0.641,medium,veg,1
+85,Ice Cream,1,Desserts,solo,Gurgaon,South_Indian,0.522,513,3,Desserts,dinner,weekday,none,monsoon,0.55,3,0.515,medium,dairy,0
+100,Lassi,1,Beverages,solo,Gurgaon,Fast_Food,0.279,530,3,Beverages,lunch,weekday,none,winter,0.212,1,0.277,medium,veg,0
+145,Chutney,1,South_Indian,solo,Noida,South_Indian,0.24,425,2,South_Indian,snacks,weekend,anniversary,monsoon,0.169,2,0.17,high,veg,0
+71,Tea,1,Beverages,solo,Navi_Mumbai,Beverages,0.308,301,1,Beverages,snacks,weekday,none,winter,0.715,7,0.442,low,dairy,0
+34,Fried Rice,4,Chinese,group,Gurgaon,Chinese,0.47,459,2,Chinese,lunch,weekend,anniversary,monsoon,0.251,1,0.462,low,nonveg,0
+136,Ice Cream,2,Desserts,solo,South_Delhi,South_Indian,0.307,475,3,Desserts,lunch,weekday,none,winter,0.584,0,0.433,high,dairy,0
+113,Sandwich,3,Fast_Food,group,Navi_Mumbai,Desserts,0.308,559,3,Fast_Food,lunch,weekday,none,winter,0.432,10,0.232,low,nonveg,0
+195,Dal Makhani,1,North_Indian,solo,Gurgaon,South_Indian,0.353,566,4,North_Indian,dinner,weekday,none,summer,0.337,12,0.693,medium,dairy,0
+190,Nachos,1,Fast_Food,solo,South_Delhi,North_Indian,0.258,334,1,Fast_Food,dinner,weekday,none,monsoon,0.324,6,0.257,high,nonveg,1
+145,Sambar,1,South_Indian,solo,Noida,North_Indian,0.466,432,2,South_Indian,dinner,weekday,none,winter,0.504,2,0.185,low,nonveg,0
+96,Dosa,2,South_Indian,solo,Navi_Mumbai,South_Indian,0.287,464,3,South_Indian,lunch,weekend,none,monsoon,0.291,0,0.342,low,nonveg,0
+139,Dal Makhani,4,North_Indian,group,West_Delhi,Beverages,0.424,517,3,North_Indian,dinner,weekday,festival,winter,0.616,3,0.738,high,dairy,0
+146,Sambar,2,South_Indian,solo,Noida,Beverages,0.227,469,3,South_Indian,snacks,weekend,none,monsoon,0.153,0,0.56,low,veg,1
+194,Roti,1,North_Indian,solo,Gurgaon,Chinese,0.306,329,1,North_Indian,snacks,weekend,none,summer,0.434,0,0.343,high,veg,0
+80,Pepsi,3,Beverages,group,Navi_Mumbai,Desserts,0.165,500,3,Beverages,dinner,weekday,none,monsoon,0.57,0,0.46,low,nonveg,0
+88,Vada,3,South_Indian,group,West_Delhi,Fast_Food,0.165,603,4,South_Indian,lunch,weekday,none,winter,0.051,0,0.59,high,nonveg,0
+48,Pizza,2,Fast_Food,solo,West_Delhi,Desserts,0.268,535,3,Fast_Food,lunch,weekday,none,winter,0.484,0,0.334,low,veg,0
+159,Biryani,2,North_Indian,solo,South_Delhi,Beverages,0.34,313,1,North_Indian,lunch,weekday,anniversary,summer,0.355,2,0.739,low,veg,1
+59,Dal Makhani,1,North_Indian,solo,West_Delhi,Beverages,0.29,380,2,North_Indian,dinner,weekday,festival,summer,0.402,3,0.735,medium,nonveg,1
+57,Hakka Noodles,1,Chinese,solo,Navi_Mumbai,Chinese,0.429,329,1,Chinese,snacks,weekday,none,winter,0.206,2,0.791,medium,veg,0
+32,Paneer Tikka,1,North_Indian,solo,South_Delhi,Desserts,0.307,303,1,North_Indian,dinner,weekday,none,monsoon,0.116,12,0.661,medium,veg,1
+175,Garlic Bread,1,Fast_Food,solo,South_Delhi,Beverages,0.452,269,1,Fast_Food,dinner,weekday,none,summer,0.649,0,0.456,low,nonveg,0
+191,Lassi,3,Beverages,group,Navi_Mumbai,Beverages,0.286,589,4,Beverages,lunch,weekday,none,monsoon,0.625,6,0.428,low,dairy,0
+12,Spring Roll,3,Chinese,group,West_Delhi,South_Indian,0.182,376,2,Chinese,lunch,weekday,none,monsoon,0.64,15,0.439,medium,egg,0
+180,Chutney,1,South_Indian,solo,West_Delhi,Chinese,0.248,303,1,South_Indian,breakfast,weekday,none,monsoon,0.115,6,0.464,medium,veg,1
+66,Hakka Noodles,1,Chinese,solo,Noida,Desserts,0.218,350,1,Chinese,lunch,weekday,anniversary,summer,0.61,3,0.611,low,nonveg,0
+185,Pepsi,2,Beverages,solo,Gurgaon,Beverages,0.668,615,4,Beverages,dinner,weekend,none,monsoon,0.388,0,0.392,low,veg,0
+56,Lassi,1,Beverages,solo,Navi_Mumbai,North_Indian,0.335,528,4,Beverages,dinner,weekend,none,monsoon,0.04,1,0.846,low,dairy,0
+46,Pizza,1,Fast_Food,solo,Gurgaon,Chinese,0.478,445,2,Fast_Food,snacks,weekend,none,summer,0.595,2,0.547,medium,nonveg,0
+125,Cold Coffee,2,Beverages,solo,South_Delhi,Beverages,0.075,419,2,Beverages,lunch,weekend,none,summer,0.454,2,0.821,low,veg,1
+78,Ice Cream,1,Desserts,solo,South_Delhi,North_Indian,0.279,335,1,Desserts,lunch,weekday,none,monsoon,0.3,3,0.437,low,egg,0
+157,Paneer Tikka,3,North_Indian,group,South_Delhi,Fast_Food,0.256,380,1,North_Indian,lunch,weekend,none,summer,0.704,1,0.812,high,veg,0
+101,Manchurian,2,Chinese,solo,Gurgaon,Fast_Food,0.079,512,3,Chinese,dinner,weekend,none,winter,0.672,8,0.298,low,veg,1
+145,Vada,1,South_Indian,solo,Noida,South_Indian,0.053,418,2,South_Indian,lunch,weekday,none,winter,0.503,2,0.26,medium,nonveg,0
+42,Fried Rice,1,Chinese,solo,Gurgaon,North_Indian,0.395,397,2,Chinese,snacks,weekday,none,monsoon,0.236,0,0.684,medium,dairy,1
+118,Ice Cream,3,Desserts,group,Noida,Desserts,0.129,351,2,Desserts,lunch,weekday,none,monsoon,0.049,3,0.762,high,veg,0
+129,Cheesy Dip,2,Fast_Food,solo,West_Delhi,North_Indian,0.203,370,1,Fast_Food,lunch,weekday,none,summer,0.177,0,0.635,low,dairy,0
+95,Rasgulla,2,Desserts,solo,West_Delhi,Fast_Food,0.074,302,1,Desserts,lunch,weekday,none,monsoon,0.173,0,0.572,low,dairy,0
+130,Papad,2,North_Indian,solo,West_Delhi,Chinese,0.383,409,3,North_Indian,breakfast,weekday,none,monsoon,0.53,3,0.798,low,nonveg,0
+97,Choco Lava Cake,2,Desserts,solo,Noida,North_Indian,0.524,358,2,Desserts,lunch,weekend,none,winter,0.257,4,0.37,medium,veg,0
+18,Upma,2,South_Indian,solo,South_Delhi,North_Indian,0.477,472,2,South_Indian,lunch,weekday,none,summer,0.221,10,0.669,low,veg,0
+81,Ice Cream,2,Desserts,solo,West_Delhi,Beverages,0.579,462,2,Desserts,dinner,weekday,none,winter,0.467,0,0.489,low,veg,1
+36,Sambar,1,South_Indian,solo,West_Delhi,South_Indian,0.045,391,1,South_Indian,snacks,weekday,none,monsoon,0.601,0,0.67,medium,veg,0
+12,Hakka Noodles,3,Chinese,group,West_Delhi,Chinese,0.129,576,4,Chinese,lunch,weekday,none,winter,0.539,0,0.475,low,nonveg,0
+53,Salad,3,North_Indian,group,West_Delhi,Desserts,0.498,445,3,North_Indian,dinner,weekday,none,summer,0.266,2,0.365,medium,veg,0
+78,Gulab Jamun,1,Desserts,solo,South_Delhi,Chinese,0.404,340,1,Desserts,snacks,weekday,none,winter,0.13,0,0.089,high,veg,0
+182,Raita,3,North_Indian,group,Gurgaon,South_Indian,0.322,399,2,North_Indian,dinner,weekday,none,monsoon,0.187,2,0.256,medium,veg,0
+24,Ice Cream,2,Desserts,solo,South_Delhi,Beverages,0.261,318,1,Desserts,lunch,weekday,none,winter,0.333,1,0.517,medium,nonveg,0
+88,Sambar,3,South_Indian,group,West_Delhi,South_Indian,0.116,342,1,South_Indian,snacks,weekday,none,summer,0.186,2,0.512,low,veg,0
+9,Ice Cream,2,Desserts,solo,Navi_Mumbai,Chinese,0.12,395,1,Desserts,snacks,weekday,none,summer,0.249,1,0.263,high,veg,0
+109,Burger,1,Fast_Food,solo,South_Delhi,Chinese,0.506,584,4,Fast_Food,breakfast,weekday,none,monsoon,0.384,1,0.782,high,nonveg,1
+170,Paneer Tikka,2,North_Indian,solo,Gurgaon,Desserts,0.263,346,2,North_Indian,dinner,weekday,none,winter,0.194,0,0.756,low,dairy,1
+79,Cold Coffee,1,Beverages,solo,Gurgaon,South_Indian,0.278,343,1,Beverages,dinner,weekday,none,summer,0.59,1,0.466,medium,veg,1
+142,Spring Roll,2,Chinese,solo,South_Delhi,South_Indian,0.369,388,1,Chinese,dinner,weekday,none,summer,0.169,0,0.401,medium,nonveg,0
+136,Kheer,2,Desserts,solo,South_Delhi,Beverages,0.164,312,1,Desserts,breakfast,weekend,anniversary,monsoon,0.226,2,0.606,medium,veg,0
+178,Pizza,3,Fast_Food,group,Navi_Mumbai,Desserts,0.319,296,1,Fast_Food,snacks,weekday,none,monsoon,0.475,4,0.154,low,veg,1
+47,Spring Roll,2,Chinese,solo,Gurgaon,South_Indian,0.266,387,2,Chinese,dinner,weekend,none,summer,0.529,6,0.827,medium,veg,1
+164,Kheer,1,Desserts,solo,Navi_Mumbai,South_Indian,0.368,418,2,Desserts,dinner,weekday,none,summer,0.335,0,0.543,low,nonveg,0
+5,Nachos,1,Fast_Food,solo,Navi_Mumbai,North_Indian,0.359,446,3,Fast_Food,dinner,weekend,none,monsoon,0.076,1,0.426,low,dairy,0
+38,Lassi,2,Beverages,solo,South_Delhi,Beverages,0.432,340,1,Beverages,dinner,weekday,none,monsoon,0.43,4,0.287,high,veg,1
+21,Chutney,1,South_Indian,solo,Navi_Mumbai,Beverages,0.034,442,2,South_Indian,snacks,weekday,none,summer,0.589,0,0.398,low,dairy,0
+137,Nachos,2,Fast_Food,solo,Navi_Mumbai,Fast_Food,0.395,449,1,Fast_Food,dinner,weekend,festival,monsoon,0.188,0,0.813,low,nonveg,0
+1,Nachos,4,Fast_Food,group,Gurgaon,Fast_Food,0.246,525,3,Fast_Food,lunch,weekday,none,winter,0.376,2,0.534,high,veg,0
+26,Ice Cream,1,Desserts,solo,Gurgaon,Fast_Food,0.097,296,1,Desserts,lunch,weekday,none,monsoon,0.311,0,0.817,high,nonveg,1
+132,Paneer Tikka,1,North_Indian,solo,Noida,Beverages,0.457,363,2,North_Indian,lunch,weekend,anniversary,summer,0.582,0,0.71,low,veg,0
+36,Dosa,1,South_Indian,solo,West_Delhi,South_Indian,0.438,377,1,South_Indian,dinner,weekday,none,winter,0.32,12,0.189,medium,veg,1
+45,Nachos,2,Fast_Food,solo,West_Delhi,Chinese,0.26,316,2,Fast_Food,dinner,weekday,none,summer,0.643,1,0.118,medium,veg,0
+6,Fried Rice,1,Chinese,solo,South_Delhi,North_Indian,0.496,309,1,Chinese,snacks,weekend,none,monsoon,0.188,2,0.719,high,veg,0
+76,Lassi,3,Beverages,group,Gurgaon,Desserts,0.577,417,2,Beverages,snacks,weekday,none,monsoon,0.216,7,0.792,high,veg,1
+21,Vada,1,South_Indian,solo,Navi_Mumbai,North_Indian,0.202,435,3,South_Indian,snacks,weekday,none,winter,0.044,0,0.614,low,nonveg,0
+70,Milkshake,3,Beverages,group,South_Delhi,South_Indian,0.463,504,4,Beverages,dinner,weekend,none,monsoon,0.494,2,0.316,low,nonveg,0
+14,Vada,1,South_Indian,solo,South_Delhi,Fast_Food,0.229,362,2,South_Indian,snacks,weekday,birthday,winter,0.718,0,0.333,medium,nonveg,1
+154,Pizza,4,Fast_Food,group,South_Delhi,North_Indian,0.179,467,3,Fast_Food,lunch,weekday,none,summer,0.359,3,0.205,low,egg,0
+58,Spring Roll,1,Chinese,solo,Gurgaon,Desserts,0.355,392,1,Chinese,dinner,weekend,none,winter,0.337,2,0.797,medium,veg,1
+52,Biryani,3,North_Indian,group,Gurgaon,Chinese,0.256,328,1,North_Indian,lunch,weekday,none,summer,0.036,17,0.878,high,nonveg,1
+85,Brownie,1,Desserts,solo,Gurgaon,Desserts,0.335,557,4,Desserts,snacks,weekend,none,summer,0.071,0,0.782,low,nonveg,0
+122,Milkshake,1,Beverages,solo,Noida,South_Indian,0.236,512,3,Beverages,lunch,weekday,none,monsoon,0.432,0,0.815,medium,nonveg,0
+155,Choco Lava Cake,1,Desserts,solo,Noida,Beverages,0.352,437,3,Desserts,snacks,weekday,none,winter,0.491,0,0.88,low,egg,0
+167,Tea,1,Beverages,solo,Navi_Mumbai,Chinese,0.189,559,4,Beverages,lunch,weekday,none,monsoon,0.493,1,0.479,medium,dairy,1
+92,Fries,3,Fast_Food,group,Navi_Mumbai,Fast_Food,0.375,300,1,Fast_Food,breakfast,weekday,none,monsoon,0.288,0,0.598,high,egg,0
+38,Pepsi,2,Beverages,solo,South_Delhi,Chinese,0.274,440,2,Beverages,lunch,weekday,festival,summer,0.625,2,0.151,low,nonveg,0
+98,Raita,1,North_Indian,solo,Navi_Mumbai,Desserts,0.307,432,2,North_Indian,dinner,weekday,none,winter,0.461,0,0.393,medium,veg,0
+175,Sandwich,1,Fast_Food,solo,South_Delhi,North_Indian,0.252,398,2,Fast_Food,dinner,weekend,none,monsoon,0.456,6,0.809,high,nonveg,0
+147,Coke,2,Beverages,solo,Navi_Mumbai,Beverages,0.522,468,2,Beverages,dinner,weekday,festival,winter,0.716,1,0.646,medium,veg,1
+190,Nachos,1,Fast_Food,solo,South_Delhi,South_Indian,0.274,415,2,Fast_Food,dinner,weekend,none,monsoon,0.527,0,0.735,medium,egg,0
+18,Sambar,2,South_Indian,solo,South_Delhi,Fast_Food,0.429,508,3,South_Indian,lunch,weekday,none,summer,0.225,0,0.695,low,veg,1
+157,Biryani,3,North_Indian,group,South_Delhi,Fast_Food,0.075,328,1,North_Indian,dinner,weekend,none,winter,0.246,3,0.451,high,veg,0
+45,Garlic Bread,2,Fast_Food,solo,West_Delhi,Fast_Food,0.16,302,1,Fast_Food,breakfast,weekend,none,summer,0.061,0,0.517,medium,veg,0
+121,Burger,3,Fast_Food,group,South_Delhi,Desserts,0.224,570,4,Fast_Food,dinner,weekday,none,summer,0.449,0,0.343,medium,veg,0
+120,Spring Roll,3,Chinese,group,West_Delhi,Chinese,0.194,399,3,Chinese,lunch,weekend,none,winter,0.273,2,0.386,low,nonveg,0
+180,Chutney,1,South_Indian,solo,West_Delhi,Beverages,0.666,391,2,South_Indian,lunch,weekday,none,monsoon,0.284,2,0.376,high,veg,0
+20,Sandwich,2,Fast_Food,solo,Gurgaon,Chinese,0.608,500,3,Fast_Food,dinner,weekday,none,monsoon,0.152,0,0.439,low,veg,0
+199,Chutney,3,South_Indian,group,South_Delhi,Beverages,0.437,286,1,South_Indian,snacks,weekday,birthday,summer,0.186,0,0.505,medium,veg,0
+129,Garlic Bread,2,Fast_Food,solo,West_Delhi,Beverages,0.138,504,3,Fast_Food,lunch,weekend,festival,summer,0.259,1,0.274,medium,nonveg,0
+94,Milkshake,3,Beverages,group,Noida,Desserts,0.042,490,3,Beverages,dinner,weekday,none,winter,0.243,0,0.369,medium,nonveg,0
+177,Brownie,1,Desserts,solo,South_Delhi,Fast_Food,0.558,422,2,Desserts,snacks,weekday,none,monsoon,0.709,0,0.69,medium,nonveg,0
+107,Brownie,3,Desserts,group,West_Delhi,North_Indian,0.23,632,4,Desserts,snacks,weekday,festival,winter,0.451,1,0.706,medium,veg,0
+74,Spring Roll,2,Chinese,solo,West_Delhi,North_Indian,0.07,525,4,Chinese,breakfast,weekday,birthday,winter,0.13,0,0.453,low,dairy,0
+125,Coke,2,Beverages,solo,South_Delhi,Beverages,0.44,578,4,Beverages,dinner,weekday,none,winter,0.192,0,0.87,medium,veg,1
+7,Sandwich,3,Fast_Food,group,South_Delhi,Beverages,0.151,271,1,Fast_Food,snacks,weekend,none,winter,0.612,3,0.701,low,nonveg,0
+159,Biryani,2,North_Indian,solo,South_Delhi,Chinese,0.203,448,2,North_Indian,dinner,weekday,none,winter,0.202,2,0.344,low,nonveg,0
+140,Fried Rice,4,Chinese,group,Noida,Fast_Food,0.269,371,1,Chinese,dinner,weekend,birthday,winter,0.114,9,0.609,high,veg,1
+45,Pizza,2,Fast_Food,solo,West_Delhi,Beverages,0.356,323,1,Fast_Food,dinner,weekend,none,summer,0.315,2,0.531,low,veg,1
+39,Choco Lava Cake,2,Desserts,solo,West_Delhi,Beverages,0.293,251,1,Desserts,dinner,weekend,none,monsoon,0.323,5,0.689,low,veg,1
+24,Gulab Jamun,2,Desserts,solo,South_Delhi,Fast_Food,0.465,312,1,Desserts,dinner,weekday,anniversary,winter,0.193,0,0.238,low,nonveg,0
+192,Roti,3,North_Indian,group,Gurgaon,North_Indian,0.185,339,1,North_Indian,lunch,weekday,none,monsoon,0.212,0,0.598,high,nonveg,0
+184,Fried Rice,1,Chinese,solo,Navi_Mumbai,Fast_Food,0.35,384,1,Chinese,snacks,weekday,none,monsoon,0.131,5,0.589,medium,veg,1
+196,Rasgulla,2,Desserts,solo,Noida,Desserts,0.776,354,2,Desserts,lunch,weekend,none,summer,0.389,2,0.56,low,dairy,0
+152,Pepsi,1,Beverages,solo,Navi_Mumbai,South_Indian,0.371,446,2,Beverages,dinner,weekday,none,summer,0.142,2,0.537,low,veg,0
+44,Papad,1,North_Indian,solo,Gurgaon,Desserts,0.506,325,1,North_Indian,breakfast,weekday,none,summer,0.571,4,0.79,medium,veg,0
+47,Manchurian,2,Chinese,solo,Gurgaon,North_Indian,0.078,502,3,Chinese,dinner,weekday,none,summer,0.197,4,0.808,medium,veg,0
+14,Upma,1,South_Indian,solo,South_Delhi,South_Indian,0.664,352,2,South_Indian,snacks,weekday,none,summer,0.389,2,0.331,high,veg,0
+40,Gulab Jamun,1,Desserts,solo,West_Delhi,Beverages,0.435,368,2,Desserts,dinner,weekday,none,summer,0.034,0,0.533,low,veg,0
+47,Fried Rice,2,Chinese,solo,Gurgaon,Fast_Food,0.115,375,1,Chinese,lunch,weekday,none,winter,0.341,3,0.707,low,veg,0
+71,Pepsi,1,Beverages,solo,Navi_Mumbai,Desserts,0.104,454,2,Beverages,snacks,weekday,none,winter,0.348,0,0.535,low,veg,0
+4,Coke,1,Beverages,solo,Navi_Mumbai,North_Indian,0.203,387,2,Beverages,dinner,weekend,none,winter,0.292,0,0.32,low,dairy,0
+110,Coke,1,Beverages,solo,South_Delhi,North_Indian,0.029,430,2,Beverages,dinner,weekday,none,monsoon,0.085,7,0.447,medium,nonveg,1
+199,Sambar,3,South_Indian,group,South_Delhi,Desserts,0.213,488,3,South_Indian,dinner,weekday,none,summer,0.308,1,0.242,high,dairy,0
+153,Nachos,2,Fast_Food,solo,Gurgaon,Fast_Food,0.384,325,1,Fast_Food,lunch,weekday,none,winter,0.108,1,0.54,medium,dairy,0
+61,Garlic Bread,1,Fast_Food,solo,South_Delhi,South_Indian,0.472,402,2,Fast_Food,snacks,weekend,festival,monsoon,0.157,0,0.566,low,dairy,0
+76,Tea,3,Beverages,group,Gurgaon,Fast_Food,0.183,314,1,Beverages,snacks,weekend,none,winter,0.308,1,0.823,medium,veg,0
+130,Raita,2,North_Indian,solo,West_Delhi,North_Indian,0.481,344,1,North_Indian,breakfast,weekday,none,monsoon,0.062,6,0.198,low,nonveg,1
+15,Biryani,1,North_Indian,solo,Noida,Beverages,0.105,492,3,North_Indian,lunch,weekday,none,monsoon,0.196,1,0.252,high,egg,1
+178,Sandwich,3,Fast_Food,group,Navi_Mumbai,South_Indian,0.41,386,2,Fast_Food,breakfast,weekend,none,winter,0.549,0,0.399,high,nonveg,0
+21,Chutney,1,South_Indian,solo,Navi_Mumbai,Fast_Food,0.322,396,2,South_Indian,lunch,weekday,none,summer,0.508,0,0.777,low,nonveg,0
+92,Garlic Bread,3,Fast_Food,group,Navi_Mumbai,Chinese,0.311,436,2,Fast_Food,lunch,weekend,none,winter,0.357,1,0.618,high,veg,0
+177,Choco Lava Cake,1,Desserts,solo,South_Delhi,Fast_Food,0.328,525,3,Desserts,dinner,weekend,none,winter,0.338,3,0.613,high,nonveg,0
+152,Cold Coffee,1,Beverages,solo,Navi_Mumbai,Chinese,0.457,397,2,Beverages,dinner,weekend,none,summer,0.709,4,0.165,medium,veg,0
+110,Coke,1,Beverages,solo,South_Delhi,South_Indian,0.258,381,2,Beverages,snacks,weekday,festival,monsoon,0.115,2,0.341,medium,nonveg,1
+134,Fried Rice,3,Chinese,group,West_Delhi,Fast_Food,0.42,389,2,Chinese,lunch,weekday,none,summer,0.618,7,0.295,medium,veg,1
+116,Paneer Tikka,3,North_Indian,group,Navi_Mumbai,Desserts,0.401,356,1,North_Indian,breakfast,weekday,birthday,monsoon,0.53,6,0.42,high,veg,0
+7,Sandwich,3,Fast_Food,group,South_Delhi,Desserts,0.268,403,2,Fast_Food,dinner,weekday,none,monsoon,0.301,2,0.811,low,veg,1
+99,Lassi,1,Beverages,solo,West_Delhi,Chinese,0.291,424,2,Beverages,lunch,weekend,none,monsoon,0.624,4,0.816,low,veg,1
+2,Raita,2,North_Indian,solo,West_Delhi,South_Indian,0.429,467,3,North_Indian,lunch,weekday,none,winter,0.389,4,0.19,medium,dairy,1
+24,Kheer,2,Desserts,solo,South_Delhi,Desserts,0.768,300,1,Desserts,lunch,weekday,none,winter,0.344,6,0.728,medium,veg,0
+77,Gulab Jamun,1,Desserts,solo,West_Delhi,Beverages,0.145,422,3,Desserts,lunch,weekend,birthday,summer,0.373,0,0.372,medium,nonveg,0
+183,Chutney,3,South_Indian,group,West_Delhi,Beverages,0.31,326,1,South_Indian,dinner,weekend,anniversary,monsoon,0.404,0,0.334,medium,nonveg,0
+81,Choco Lava Cake,2,Desserts,solo,West_Delhi,North_Indian,0.206,570,4,Desserts,breakfast,weekday,none,winter,0.086,0,0.768,medium,veg,1
+95,Ice Cream,2,Desserts,solo,West_Delhi,North_Indian,0.364,261,1,Desserts,dinner,weekend,none,winter,0.12,3,0.219,medium,nonveg,1
+10,Fries,1,Fast_Food,solo,Navi_Mumbai,Chinese,0.194,488,3,Fast_Food,lunch,weekend,none,winter,0.83,3,0.529,medium,veg,0
+51,Spring Roll,3,Chinese,group,Noida,Beverages,0.39,371,1,Chinese,snacks,weekday,none,summer,0.303,10,0.11,high,nonveg,0
+12,Manchurian,3,Chinese,group,West_Delhi,Chinese,0.575,438,2,Chinese,lunch,weekend,none,winter,0.125,0,0.519,medium,nonveg,0
+120,Manchurian,3,Chinese,group,West_Delhi,South_Indian,0.283,589,4,Chinese,lunch,weekend,none,summer,0.145,2,0.532,low,veg,0
+39,Choco Lava Cake,2,Desserts,solo,West_Delhi,Chinese,0.308,480,2,Desserts,lunch,weekday,none,summer,0.274,1,0.593,medium,veg,0
+89,Pizza,2,Fast_Food,solo,West_Delhi,Fast_Food,0.372,385,2,Fast_Food,snacks,weekday,festival,summer,0.441,7,0.411,medium,dairy,0
+38,Milkshake,2,Beverages,solo,South_Delhi,Fast_Food,0.331,477,3,Beverages,dinner,weekday,none,monsoon,0.399,1,0.381,low,veg,0
+41,Salad,2,North_Indian,solo,Noida,South_Indian,0.208,541,3,North_Indian,snacks,weekday,none,summer,0.453,0,0.673,medium,veg,0
+118,Kheer,3,Desserts,group,Noida,Fast_Food,0.37,613,4,Desserts,lunch,weekday,none,monsoon,0.902,1,0.284,medium,veg,1
+32,Raita,1,North_Indian,solo,South_Delhi,Desserts,0.192,441,2,North_Indian,snacks,weekday,festival,winter,0.219,2,0.288,low,nonveg,0
+164,Choco Lava Cake,1,Desserts,solo,Navi_Mumbai,Fast_Food,0.189,422,1,Desserts,breakfast,weekday,anniversary,winter,0.131,0,0.24,medium,veg,0
+27,Lassi,2,Beverages,solo,Navi_Mumbai,Beverages,0.527,248,1,Beverages,lunch,weekend,none,winter,0.195,0,0.51,low,nonveg,1
+31,Chutney,1,South_Indian,solo,South_Delhi,Fast_Food,0.178,577,4,South_Indian,dinner,weekday,birthday,winter,0.658,0,0.3,high,nonveg,0
+199,Upma,3,South_Indian,group,South_Delhi,South_Indian,0.229,498,3,South_Indian,breakfast,weekday,none,winter,0.505,5,0.759,medium,veg,0
+127,Pizza,3,Fast_Food,group,Noida,Desserts,0.361,396,2,Fast_Food,dinner,weekday,none,monsoon,0.13,2,0.209,high,veg,0
+7,Burger,3,Fast_Food,group,South_Delhi,North_Indian,0.641,472,2,Fast_Food,dinner,weekend,none,monsoon,0.682,1,0.483,low,nonveg,0
+59,Dal Makhani,1,North_Indian,solo,West_Delhi,North_Indian,0.329,313,1,North_Indian,dinner,weekday,none,summer,0.523,5,0.211,medium,veg,1
+56,Lassi,1,Beverages,solo,Navi_Mumbai,Desserts,0.276,390,1,Beverages,dinner,weekday,anniversary,winter,0.259,2,0.321,medium,veg,1
+80,Coke,3,Beverages,group,Navi_Mumbai,South_Indian,0.273,462,2,Beverages,dinner,weekend,festival,monsoon,0.163,1,0.084,low,veg,1
+128,Pepsi,1,Beverages,solo,Gurgaon,Chinese,0.063,389,2,Beverages,snacks,weekday,none,monsoon,0.261,0,0.48,low,veg,0
+134,Chilli Paneer,3,Chinese,group,West_Delhi,Desserts,0.337,423,2,Chinese,breakfast,weekday,none,monsoon,0.765,2,0.515,low,nonveg,0
+67,Choco Lava Cake,3,Desserts,group,Noida,Desserts,0.445,493,3,Desserts,dinner,weekday,none,summer,0.433,2,0.449,high,dairy,1
+110,Tea,1,Beverages,solo,South_Delhi,Beverages,0.539,482,2,Beverages,lunch,weekend,none,monsoon,0.555,4,0.541,high,veg,0
+150,Vada,3,South_Indian,group,West_Delhi,Fast_Food,0.145,357,1,South_Indian,lunch,weekend,none,summer,0.575,2,0.267,high,veg,0
+116,Paneer Tikka,3,North_Indian,group,Navi_Mumbai,Beverages,0.485,398,2,North_Indian,dinner,weekday,none,winter,0.306,0,0.73,medium,nonveg,0
+108,Brownie,1,Desserts,solo,West_Delhi,South_Indian,0.079,409,2,Desserts,dinner,weekday,none,summer,0.244,1,0.762,medium,nonveg,1
+64,Pepsi,1,Beverages,solo,Noida,North_Indian,0.227,356,1,Beverages,dinner,weekday,none,monsoon,0.481,0,0.647,high,dairy,0
+145,Chutney,1,South_Indian,solo,Noida,Chinese,0.319,419,2,South_Indian,snacks,weekend,none,summer,0.531,4,0.413,low,veg,0
+176,Fried Rice,2,Chinese,solo,Navi_Mumbai,Beverages,0.148,468,3,Chinese,lunch,weekday,none,monsoon,0.133,0,0.216,low,nonveg,0
+44,Biryani,1,North_Indian,solo,Gurgaon,Fast_Food,0.188,354,1,North_Indian,dinner,weekday,none,monsoon,0.28,3,0.425,low,dairy,0
+185,Tea,2,Beverages,solo,Gurgaon,North_Indian,0.363,380,1,Beverages,snacks,weekday,none,winter,0.539,0,0.639,low,veg,1
+64,Milkshake,1,Beverages,solo,Noida,Chinese,0.25,364,1,Beverages,lunch,weekday,festival,winter,0.47,0,0.468,low,veg,0
+136,Rasgulla,2,Desserts,solo,South_Delhi,South_Indian,0.214,510,3,Desserts,lunch,weekday,anniversary,winter,0.281,0,0.132,low,dairy,0
+89,Nachos,2,Fast_Food,solo,West_Delhi,South_Indian,0.163,385,2,Fast_Food,snacks,weekday,none,monsoon,0.287,1,0.587,low,veg,0
+116,Raita,3,North_Indian,group,Navi_Mumbai,Fast_Food,0.187,441,2,North_Indian,lunch,weekday,none,summer,0.461,2,0.247,low,nonveg,1
+149,Roti,1,North_Indian,solo,West_Delhi,North_Indian,0.2,578,4,North_Indian,dinner,weekday,birthday,monsoon,0.137,4,0.239,low,veg,1
+117,Biryani,1,North_Indian,solo,Navi_Mumbai,Beverages,0.152,221,1,North_Indian,lunch,weekday,none,summer,0.175,1,0.409,low,veg,1
+144,Fries,1,Fast_Food,solo,Noida,Chinese,0.25,482,2,Fast_Food,lunch,weekend,none,monsoon,0.426,13,0.42,medium,nonveg,0
+124,Spring Roll,1,Chinese,solo,Noida,Chinese,0.096,634,4,Chinese,dinner,weekday,none,monsoon,0.477,0,0.314,medium,dairy,0
+46,Garlic Bread,1,Fast_Food,solo,Gurgaon,Chinese,0.076,442,2,Fast_Food,breakfast,weekend,none,winter,0.236,6,0.565,medium,nonveg,1
+86,Fried Rice,2,Chinese,solo,South_Delhi,Desserts,0.674,331,1,Chinese,dinner,weekday,anniversary,summer,0.705,2,0.987,medium,dairy,0
+171,Paneer Tikka,1,North_Indian,solo,Gurgaon,Chinese,0.079,459,2,North_Indian,lunch,weekday,festival,summer,0.57,1,0.119,low,veg,0
+158,Brownie,1,Desserts,solo,South_Delhi,Beverages,0.393,324,1,Desserts,lunch,weekend,festival,monsoon,0.503,8,0.39,high,nonveg,1
+172,Chilli Paneer,2,Chinese,solo,West_Delhi,Chinese,0.148,298,1,Chinese,breakfast,weekend,none,monsoon,0.458,0,0.421,low,veg,0
+5,Nachos,1,Fast_Food,solo,Navi_Mumbai,South_Indian,0.329,338,1,Fast_Food,lunch,weekday,none,summer,0.47,2,0.259,medium,nonveg,0
+173,Pepsi,1,Beverages,solo,Gurgaon,Chinese,0.238,497,3,Beverages,snacks,weekend,none,monsoon,0.482,5,0.645,low,veg,0
+186,Gulab Jamun,3,Desserts,group,Navi_Mumbai,Fast_Food,0.372,549,4,Desserts,lunch,weekday,none,summer,0.525,3,0.449,high,veg,0
+69,Brownie,4,Desserts,group,South_Delhi,North_Indian,0.351,608,4,Desserts,breakfast,weekday,none,summer,0.078,0,0.577,low,veg,1
+180,Vada,1,South_Indian,solo,West_Delhi,South_Indian,0.427,381,2,South_Indian,snacks,weekday,none,winter,0.372,4,0.625,low,egg,1
+109,Pizza,1,Fast_Food,solo,South_Delhi,Fast_Food,0.408,443,2,Fast_Food,lunch,weekend,none,winter,0.263,0,0.598,high,nonveg,0
+65,Choco Lava Cake,2,Desserts,solo,South_Delhi,Chinese,0.11,516,3,Desserts,lunch,weekend,none,summer,0.378,7,0.432,low,veg,0
+29,Roti,1,North_Indian,solo,South_Delhi,Chinese,0.456,415,2,North_Indian,dinner,weekday,none,monsoon,0.219,3,0.685,medium,nonveg,1
+88,Chutney,3,South_Indian,group,West_Delhi,North_Indian,0.515,529,4,South_Indian,lunch,weekend,none,monsoon,0.293,3,0.588,medium,nonveg,0
+86,Chilli Paneer,2,Chinese,solo,South_Delhi,Beverages,0.249,289,1,Chinese,dinner,weekday,none,winter,0.62,0,0.497,low,nonveg,0
+94,Coke,3,Beverages,group,Noida,Chinese,0.262,337,1,Beverages,lunch,weekday,none,monsoon,0.783,0,0.618,high,dairy,1
+149,Biryani,1,North_Indian,solo,West_Delhi,Chinese,0.282,447,2,North_Indian,dinner,weekday,festival,summer,0.319,2,0.6,low,veg,0
+143,Dal Makhani,1,North_Indian,solo,Noida,Fast_Food,0.205,347,1,North_Indian,snacks,weekday,none,winter,0.079,0,0.446,high,veg,0
+95,Kheer,2,Desserts,solo,West_Delhi,Chinese,0.155,567,4,Desserts,lunch,weekday,anniversary,monsoon,0.386,1,0.639,high,dairy,1
+137,Garlic Bread,2,Fast_Food,solo,Navi_Mumbai,Beverages,0.351,398,2,Fast_Food,lunch,weekday,anniversary,monsoon,0.354,5,0.586,medium,veg,0
+96,Sambar,2,South_Indian,solo,Navi_Mumbai,South_Indian,0.201,481,3,South_Indian,dinner,weekday,none,summer,0.029,0,0.815,medium,nonveg,0
+175,Garlic Bread,1,Fast_Food,solo,South_Delhi,Fast_Food,0.268,488,3,Fast_Food,lunch,weekend,none,winter,0.211,3,0.496,medium,dairy,0
+19,Burger,1,Fast_Food,solo,Noida,Desserts,0.055,348,1,Fast_Food,lunch,weekend,anniversary,winter,0.413,1,0.567,medium,nonveg,0
+143,Papad,1,North_Indian,solo,Noida,Beverages,0.33,353,2,North_Indian,dinner,weekday,none,winter,0.292,0,0.635,medium,nonveg,0
+130,Biryani,2,North_Indian,solo,West_Delhi,Chinese,0.242,502,3,North_Indian,lunch,weekday,none,summer,0.29,4,0.502,medium,veg,0
+157,Roti,3,North_Indian,group,South_Delhi,Chinese,0.154,312,1,North_Indian,lunch,weekday,none,monsoon,0.228,4,0.428,low,veg,1
+166,Garlic Bread,1,Fast_Food,solo,Noida,Desserts,0.21,360,2,Fast_Food,dinner,weekday,none,summer,0.51,4,0.745,low,nonveg,0
+23,Milkshake,1,Beverages,solo,Noida,South_Indian,0.507,318,1,Beverages,snacks,weekend,none,monsoon,0.294,0,0.273,medium,nonveg,0
+155,Brownie,1,Desserts,solo,Noida,North_Indian,0.136,332,1,Desserts,snacks,weekend,none,winter,0.417,4,0.749,low,nonveg,1
+35,Papad,3,North_Indian,group,Gurgaon,North_Indian,0.475,475,3,North_Indian,snacks,weekend,none,summer,0.459,3,0.618,low,veg,0
+199,Upma,3,South_Indian,group,South_Delhi,Beverages,0.371,455,2,South_Indian,dinner,weekday,anniversary,summer,0.401,0,0.733,medium,veg,0
+30,Sandwich,2,Fast_Food,solo,West_Delhi,Desserts,0.425,334,1,Fast_Food,breakfast,weekday,none,summer,0.188,4,0.253,medium,dairy,0
+64,Lassi,1,Beverages,solo,Noida,South_Indian,0.203,413,2,Beverages,lunch,weekday,none,monsoon,0.309,0,0.52,low,dairy,0
+109,Cheesy Dip,1,Fast_Food,solo,South_Delhi,Beverages,0.266,320,1,Fast_Food,lunch,weekend,none,summer,0.782,2,0.418,medium,veg,0
+117,Roti,1,North_Indian,solo,Navi_Mumbai,Fast_Food,0.433,513,3,North_Indian,lunch,weekend,none,summer,0.135,4,0.6,medium,nonveg,1
+186,Brownie,3,Desserts,group,Navi_Mumbai,North_Indian,0.064,465,3,Desserts,lunch,weekday,none,summer,0.341,0,0.508,high,veg,0
+135,Sandwich,1,Fast_Food,solo,Noida,North_Indian,0.098,535,3,Fast_Food,snacks,weekday,none,monsoon,0.111,0,0.585,low,veg,1
+16,Dosa,1,South_Indian,solo,Gurgaon,North_Indian,0.145,526,3,South_Indian,snacks,weekday,none,monsoon,0.18,5,0.405,high,veg,1
+132,Dal Makhani,1,North_Indian,solo,Noida,Chinese,0.152,305,1,North_Indian,dinner,weekend,none,monsoon,0.442,0,0.357,low,veg,0
+34,Chilli Paneer,4,Chinese,group,Gurgaon,Chinese,0.103,512,4,Chinese,dinner,weekday,festival,monsoon,0.316,1,0.647,low,veg,1
+67,Kheer,3,Desserts,group,Noida,Beverages,0.21,386,1,Desserts,lunch,weekday,none,monsoon,0.252,3,0.332,high,veg,1
+6,Chilli Paneer,1,Chinese,solo,South_Delhi,South_Indian,0.306,564,3,Chinese,lunch,weekday,festival,monsoon,0.227,0,0.335,medium,nonveg,0
+100,Lassi,1,Beverages,solo,Gurgaon,North_Indian,0.081,517,3,Beverages,lunch,weekday,none,winter,0.254,0,0.433,low,veg,1
+87,Pizza,2,Fast_Food,solo,Gurgaon,Chinese,0.109,451,3,Fast_Food,dinner,weekend,none,winter,0.4,2,0.295,medium,veg,0
+12,Manchurian,3,Chinese,group,West_Delhi,South_Indian,0.231,578,4,Chinese,lunch,weekend,festival,monsoon,0.058,1,0.619,low,nonveg,1
+122,Coke,1,Beverages,solo,Noida,South_Indian,0.054,366,1,Beverages,breakfast,weekend,none,monsoon,0.873,0,0.27,medium,nonveg,0
+117,Biryani,1,North_Indian,solo,Navi_Mumbai,South_Indian,0.493,289,1,North_Indian,lunch,weekend,none,winter,0.119,0,0.574,low,egg,0
+155,Ice Cream,1,Desserts,solo,Noida,Fast_Food,0.278,471,2,Desserts,lunch,weekday,none,summer,0.394,1,0.494,medium,veg,1
+142,Manchurian,2,Chinese,solo,South_Delhi,South_Indian,0.075,298,1,Chinese,dinner,weekday,none,summer,0.405,6,0.467,low,dairy,1
+51,Hakka Noodles,3,Chinese,group,Noida,Desserts,0.248,326,1,Chinese,dinner,weekday,none,monsoon,0.547,2,0.516,low,nonveg,0
+9,Kheer,2,Desserts,solo,Navi_Mumbai,Chinese,0.602,509,3,Desserts,snacks,weekday,none,winter,0.072,3,0.314,medium,veg,0
+13,Chilli Paneer,1,Chinese,solo,Navi_Mumbai,Desserts,0.256,518,3,Chinese,dinner,weekend,none,monsoon,0.581,1,0.232,low,veg,0
+82,Biryani,1,North_Indian,solo,Gurgaon,Chinese,0.511,387,2,North_Indian,snacks,weekday,none,monsoon,0.569,3,0.36,high,veg,0
+42,Fried Rice,1,Chinese,solo,Gurgaon,South_Indian,0.294,453,2,Chinese,lunch,weekday,festival,monsoon,0.215,0,0.555,medium,dairy,1
+42,Spring Roll,1,Chinese,solo,Gurgaon,Desserts,0.249,325,1,Chinese,lunch,weekday,birthday,summer,0.323,1,0.172,medium,nonveg,0
+110,Coke,1,Beverages,solo,South_Delhi,Chinese,0.127,474,2,Beverages,snacks,weekend,birthday,summer,0.438,0,0.266,medium,nonveg,0
+104,Papad,3,North_Indian,group,West_Delhi,South_Indian,0.241,482,3,North_Indian,lunch,weekend,none,monsoon,0.34,0,0.368,low,veg,0
+80,Coke,3,Beverages,group,Navi_Mumbai,Desserts,0.436,513,3,Beverages,dinner,weekend,none,monsoon,0.28,0,0.218,low,nonveg,0
+147,Pepsi,2,Beverages,solo,Navi_Mumbai,Fast_Food,0.285,399,1,Beverages,snacks,weekend,anniversary,summer,0.339,8,0.655,low,nonveg,0
+185,Cold Coffee,2,Beverages,solo,Gurgaon,Chinese,0.314,496,2,Beverages,lunch,weekday,none,winter,0.432,3,0.449,medium,veg,0
+127,Sandwich,3,Fast_Food,group,Noida,Desserts,0.385,472,2,Fast_Food,lunch,weekday,none,monsoon,0.3,4,0.479,medium,dairy,0
+106,Burger,2,Fast_Food,solo,Navi_Mumbai,South_Indian,0.058,447,2,Fast_Food,dinner,weekend,festival,winter,0.22,1,0.256,low,nonveg,0
+142,Manchurian,2,Chinese,solo,South_Delhi,Chinese,0.593,431,1,Chinese,dinner,weekday,none,winter,0.534,1,0.56,high,veg,1
+113,Cheesy Dip,3,Fast_Food,group,Navi_Mumbai,South_Indian,0.218,397,1,Fast_Food,dinner,weekday,none,monsoon,0.318,0,0.254,low,veg,1
+5,Sandwich,1,Fast_Food,solo,Navi_Mumbai,Fast_Food,0.181,567,4,Fast_Food,breakfast,weekend,anniversary,monsoon,0.414,2,0.506,high,veg,0
+48,Nachos,2,Fast_Food,solo,West_Delhi,South_Indian,0.56,329,2,Fast_Food,snacks,weekday,none,summer,0.381,5,0.349,medium,nonveg,0
+43,Lassi,3,Beverages,group,Navi_Mumbai,Fast_Food,0.267,346,2,Beverages,dinner,weekday,none,monsoon,0.486,0,0.534,low,veg,0
+151,Nachos,1,Fast_Food,solo,Navi_Mumbai,Chinese,0.078,322,1,Fast_Food,breakfast,weekday,festival,winter,0.074,0,0.613,low,nonveg,0
+196,Brownie,2,Desserts,solo,Noida,Beverages,0.11,494,3,Desserts,lunch,weekday,none,monsoon,0.314,3,0.485,low,veg,0
+76,Tea,3,Beverages,group,Gurgaon,North_Indian,0.096,447,2,Beverages,breakfast,weekday,none,winter,0.19,0,0.35,medium,veg,0
+21,Dosa,1,South_Indian,solo,Navi_Mumbai,Desserts,0.176,385,1,South_Indian,lunch,weekday,none,monsoon,0.466,1,0.462,low,veg,0
+6,Fried Rice,1,Chinese,solo,South_Delhi,South_Indian,0.5,402,1,Chinese,lunch,weekday,none,winter,0.083,4,0.499,low,veg,1
+5,Nachos,1,Fast_Food,solo,Navi_Mumbai,Beverages,0.544,577,4,Fast_Food,snacks,weekend,none,monsoon,0.208,0,0.662,low,nonveg,0
+136,Ice Cream,2,Desserts,solo,South_Delhi,North_Indian,0.506,408,2,Desserts,dinner,weekday,none,monsoon,0.31,0,0.894,medium,dairy,1
+139,Salad,4,North_Indian,group,West_Delhi,Fast_Food,0.216,401,2,North_Indian,lunch,weekday,birthday,winter,0.184,10,0.479,medium,nonveg,1
+105,Sandwich,1,Fast_Food,solo,Gurgaon,Chinese,0.133,259,1,Fast_Food,dinner,weekend,birthday,monsoon,0.063,0,0.784,medium,nonveg,0
+161,Lassi,2,Beverages,solo,West_Delhi,North_Indian,0.378,339,1,Beverages,dinner,weekday,festival,monsoon,0.488,7,0.443,medium,dairy,1
+23,Cold Coffee,1,Beverages,solo,Noida,Beverages,0.047,316,1,Beverages,dinner,weekend,none,monsoon,0.191,2,0.69,low,nonveg,1
+61,Sandwich,1,Fast_Food,solo,South_Delhi,Fast_Food,0.118,569,4,Fast_Food,dinner,weekend,none,monsoon,0.391,1,0.491,low,nonveg,0
+102,Spring Roll,1,Chinese,solo,Navi_Mumbai,Desserts,0.584,513,3,Chinese,snacks,weekday,none,winter,0.335,3,0.685,low,nonveg,1
+113,Pizza,3,Fast_Food,group,Navi_Mumbai,South_Indian,0.067,469,2,Fast_Food,breakfast,weekend,none,winter,0.365,1,0.516,medium,nonveg,0
+104,Roti,3,North_Indian,group,West_Delhi,North_Indian,0.504,366,1,North_Indian,dinner,weekday,none,winter,0.101,2,0.466,low,nonveg,1
+158,Ice Cream,1,Desserts,solo,South_Delhi,North_Indian,0.168,321,2,Desserts,lunch,weekday,none,summer,0.222,0,0.39,low,veg,0
+183,Idli,3,South_Indian,group,West_Delhi,North_Indian,0.221,454,2,South_Indian,dinner,weekday,none,summer,0.159,1,0.375,high,veg,1
+145,Vada,1,South_Indian,solo,Noida,Fast_Food,0.166,352,2,South_Indian,snacks,weekday,none,monsoon,0.159,1,0.475,medium,nonveg,0
+140,Chilli Paneer,4,Chinese,group,Noida,Beverages,0.113,577,3,Chinese,snacks,weekday,none,monsoon,0.437,0,0.283,medium,dairy,0
+130,Biryani,2,North_Indian,solo,West_Delhi,Beverages,0.292,348,2,North_Indian,lunch,weekday,none,winter,0.278,2,0.428,low,veg,0
+11,Papad,4,North_Indian,group,Navi_Mumbai,Desserts,0.349,484,3,North_Indian,breakfast,weekday,none,summer,0.298,1,0.556,medium,veg,0
+106,Sandwich,2,Fast_Food,solo,Navi_Mumbai,Chinese,0.291,475,4,Fast_Food,lunch,weekday,none,summer,0.361,3,0.665,low,veg,1
+4,Pepsi,1,Beverages,solo,Navi_Mumbai,North_Indian,0.03,479,2,Beverages,dinner,weekday,none,monsoon,0.415,0,0.437,high,dairy,0
+16,Upma,1,South_Indian,solo,Gurgaon,North_Indian,0.289,565,4,South_Indian,dinner,weekday,none,monsoon,0.142,2,0.551,medium,nonveg,0
+195,Dal Makhani,1,North_Indian,solo,Gurgaon,Fast_Food,0.331,318,1,North_Indian,dinner,weekday,festival,winter,0.117,3,0.487,low,veg,0
+118,Brownie,3,Desserts,group,Noida,Beverages,0.136,532,3,Desserts,dinner,weekend,none,monsoon,0.363,1,0.84,medium,nonveg,1
+141,Fried Rice,1,Chinese,solo,West_Delhi,Chinese,0.417,548,3,Chinese,snacks,weekend,none,monsoon,0.344,5,0.574,low,veg,1
+129,Fries,2,Fast_Food,solo,West_Delhi,Beverages,0.57,538,4,Fast_Food,snacks,weekend,festival,winter,0.482,4,0.766,medium,nonveg,1
+31,Idli,1,South_Indian,solo,South_Delhi,Desserts,0.312,365,1,South_Indian,lunch,weekday,none,summer,0.413,0,0.371,medium,veg,0
+46,Fries,1,Fast_Food,solo,Gurgaon,Chinese,0.24,528,3,Fast_Food,dinner,weekday,none,summer,0.561,2,0.258,medium,nonveg,0
+133,Paneer Tikka,1,North_Indian,solo,Gurgaon,Beverages,0.202,290,1,North_Indian,dinner,weekend,anniversary,monsoon,0.314,1,0.127,low,egg,0
+164,Ice Cream,1,Desserts,solo,Navi_Mumbai,Chinese,0.049,297,1,Desserts,dinner,weekday,none,winter,0.056,5,0.472,low,veg,0
+191,Milkshake,3,Beverages,group,Navi_Mumbai,Desserts,0.418,330,1,Beverages,lunch,weekend,none,monsoon,0.168,0,0.6,low,nonveg,0
+106,Garlic Bread,2,Fast_Food,solo,Navi_Mumbai,North_Indian,0.314,509,2,Fast_Food,lunch,weekday,anniversary,summer,0.294,0,0.251,high,nonveg,0
+1,Cheesy Dip,4,Fast_Food,group,Gurgaon,Desserts,0.125,589,4,Fast_Food,lunch,weekday,birthday,summer,0.472,3,0.315,medium,veg,0
+5,Cheesy Dip,1,Fast_Food,solo,Navi_Mumbai,South_Indian,0.389,472,3,Fast_Food,snacks,weekday,none,summer,0.32,2,0.703,medium,dairy,0
+25,Spring Roll,3,Chinese,group,South_Delhi,South_Indian,0.157,366,2,Chinese,snacks,weekday,none,monsoon,0.615,2,0.213,high,nonveg,0
+199,Dosa,3,South_Indian,group,South_Delhi,Beverages,0.293,519,3,South_Indian,lunch,weekday,birthday,monsoon,0.138,3,0.342,high,dairy,0
+17,Papad,2,North_Indian,solo,West_Delhi,Fast_Food,0.537,505,3,North_Indian,breakfast,weekend,none,winter,0.372,0,0.547,low,nonveg,0
+49,Gulab Jamun,1,Desserts,solo,Gurgaon,North_Indian,0.061,420,2,Desserts,dinner,weekend,none,winter,0.221,2,0.689,medium,veg,1
+99,Milkshake,1,Beverages,solo,West_Delhi,Desserts,0.356,397,2,Beverages,snacks,weekend,none,summer,0.296,0,0.703,low,veg,1
+3,Papad,2,North_Indian,solo,South_Delhi,Chinese,0.068,604,4,North_Indian,snacks,weekday,none,summer,0.13,2,0.37,low,dairy,0
+167,Pepsi,1,Beverages,solo,Navi_Mumbai,Chinese,0.141,339,1,Beverages,lunch,weekday,none,winter,0.099,0,0.798,low,nonveg,0
+72,Dosa,1,South_Indian,solo,Gurgaon,Chinese,0.218,336,1,South_Indian,lunch,weekday,festival,summer,0.111,14,0.688,low,veg,1
+80,Milkshake,3,Beverages,group,Navi_Mumbai,Desserts,0.044,348,1,Beverages,dinner,weekday,none,winter,0.512,0,0.619,low,veg,1
+79,Pepsi,1,Beverages,solo,Gurgaon,Chinese,0.026,414,1,Beverages,lunch,weekday,none,summer,0.339,1,0.522,medium,veg,1
+140,Manchurian,4,Chinese,group,Noida,North_Indian,0.142,357,2,Chinese,dinner,weekend,none,summer,0.278,11,0.195,medium,nonveg,1
+170,Paneer Tikka,2,North_Indian,solo,Gurgaon,Fast_Food,0.09,514,3,North_Indian,dinner,weekend,none,monsoon,0.959,5,0.546,low,dairy,0
+47,Manchurian,2,Chinese,solo,Gurgaon,North_Indian,0.212,397,2,Chinese,dinner,weekday,none,summer,0.534,0,0.453,low,veg,1
+57,Hakka Noodles,1,Chinese,solo,Navi_Mumbai,South_Indian,0.12,533,4,Chinese,lunch,weekday,none,winter,0.059,0,0.188,low,veg,1
+126,Cold Coffee,3,Beverages,group,South_Delhi,North_Indian,0.297,281,1,Beverages,lunch,weekend,none,monsoon,0.184,0,0.6,low,nonveg,0
+195,Dal Makhani,1,North_Indian,solo,Gurgaon,Chinese,0.301,383,2,North_Indian,snacks,weekend,none,monsoon,0.556,1,0.863,medium,nonveg,0
+72,Dosa,1,South_Indian,solo,Gurgaon,Fast_Food,0.52,398,2,South_Indian,breakfast,weekday,none,summer,0.356,3,0.405,low,veg,0
+113,Fries,3,Fast_Food,group,Navi_Mumbai,North_Indian,0.09,409,2,Fast_Food,lunch,weekday,none,summer,0.12,1,0.193,medium,dairy,0
+145,Upma,1,South_Indian,solo,Noida,Beverages,0.075,364,2,South_Indian,lunch,weekday,anniversary,monsoon,0.388,0,0.758,medium,nonveg,0
+68,Kheer,1,Desserts,solo,Gurgaon,Chinese,0.171,457,2,Desserts,lunch,weekend,anniversary,summer,0.356,4,0.436,low,nonveg,0
+190,Cheesy Dip,1,Fast_Food,solo,South_Delhi,South_Indian,0.138,501,4,Fast_Food,dinner,weekday,birthday,summer,0.471,4,0.263,medium,nonveg,0
+17,Paneer Tikka,2,North_Indian,solo,West_Delhi,Fast_Food,0.136,451,2,North_Indian,snacks,weekend,none,summer,0.2,1,0.659,medium,nonveg,0
+40,Rasgulla,1,Desserts,solo,West_Delhi,Chinese,0.162,484,3,Desserts,lunch,weekend,anniversary,monsoon,0.499,0,0.401,medium,veg,0
+185,Tea,2,Beverages,solo,Gurgaon,Chinese,0.324,351,2,Beverages,lunch,weekday,none,summer,0.19,0,0.176,medium,nonveg,0
+197,Dosa,3,South_Indian,group,South_Delhi,Chinese,0.295,344,1,South_Indian,lunch,weekend,none,monsoon,0.499,0,0.489,low,veg,0
+189,Raita,1,North_Indian,solo,Gurgaon,Fast_Food,0.069,359,2,North_Indian,snacks,weekday,none,monsoon,0.414,1,0.382,low,veg,0
+195,Raita,1,North_Indian,solo,Gurgaon,Desserts,0.137,366,2,North_Indian,dinner,weekday,festival,summer,0.679,0,0.383,medium,egg,0
+105,Nachos,1,Fast_Food,solo,Gurgaon,North_Indian,0.253,450,3,Fast_Food,dinner,weekday,anniversary,winter,0.36,2,0.098,medium,veg,0
+73,Garlic Bread,3,Fast_Food,group,Gurgaon,Fast_Food,0.496,288,1,Fast_Food,lunch,weekend,none,monsoon,0.182,0,0.32,low,dairy,0
+4,Lassi,1,Beverages,solo,Navi_Mumbai,North_Indian,0.563,376,2,Beverages,lunch,weekday,none,monsoon,0.403,3,0.384,medium,nonveg,1
+40,Ice Cream,1,Desserts,solo,West_Delhi,North_Indian,0.211,282,1,Desserts,dinner,weekday,none,monsoon,0.426,0,0.255,low,veg,0
+27,Cold Coffee,2,Beverages,solo,Navi_Mumbai,Fast_Food,0.038,263,1,Beverages,dinner,weekend,festival,monsoon,0.456,6,0.515,low,veg,0
+197,Vada,3,South_Indian,group,South_Delhi,Fast_Food,0.128,444,3,South_Indian,lunch,weekday,anniversary,monsoon,0.392,4,0.772,low,veg,1
+153,Sandwich,2,Fast_Food,solo,Gurgaon,Desserts,0.636,442,2,Fast_Food,dinner,weekend,anniversary,monsoon,0.32,1,0.635,low,egg,1
+111,Raita,1,North_Indian,solo,South_Delhi,Fast_Food,0.328,321,1,North_Indian,dinner,weekend,none,winter,0.267,7,0.311,medium,nonveg,0
+196,Ice Cream,2,Desserts,solo,Noida,Fast_Food,0.043,347,2,Desserts,dinner,weekday,birthday,monsoon,0.39,2,0.717,medium,nonveg,0
+38,Milkshake,2,Beverages,solo,South_Delhi,South_Indian,0.574,479,3,Beverages,lunch,weekday,none,winter,0.228,0,0.347,medium,veg,0
+18,Chutney,2,South_Indian,solo,South_Delhi,Fast_Food,0.267,497,3,South_Indian,snacks,weekday,none,winter,0.559,3,0.523,medium,nonveg,0
+51,Hakka Noodles,3,Chinese,group,Noida,South_Indian,0.683,364,2,Chinese,dinner,weekday,none,summer,0.347,15,0.309,medium,veg,0
+11,Salad,4,North_Indian,group,Navi_Mumbai,Beverages,0.395,523,3,North_Indian,lunch,weekday,none,monsoon,0.608,0,0.809,high,nonveg,0
+57,Hakka Noodles,1,Chinese,solo,Navi_Mumbai,Desserts,0.163,300,1,Chinese,lunch,weekday,none,monsoon,0.233,4,0.693,high,veg,1
+62,Cheesy Dip,3,Fast_Food,group,West_Delhi,South_Indian,0.195,319,1,Fast_Food,lunch,weekday,none,summer,0.221,2,0.554,low,dairy,0
+107,Gulab Jamun,3,Desserts,group,West_Delhi,South_Indian,0.279,294,1,Desserts,dinner,weekday,none,monsoon,0.241,4,0.446,low,dairy,0
+81,Brownie,2,Desserts,solo,West_Delhi,Beverages,0.301,511,3,Desserts,lunch,weekday,none,summer,0.593,12,0.234,high,dairy,1
+102,Spring Roll,1,Chinese,solo,Navi_Mumbai,Beverages,0.267,265,1,Chinese,lunch,weekday,none,winter,0.353,0,0.608,low,veg,1
+49,Choco Lava Cake,1,Desserts,solo,Gurgaon,North_Indian,0.223,417,3,Desserts,lunch,weekday,birthday,summer,0.661,1,0.248,low,veg,0
+171,Biryani,1,North_Indian,solo,Gurgaon,Beverages,0.387,341,1,North_Indian,lunch,weekday,none,winter,0.214,0,0.475,medium,veg,0
+34,Hakka Noodles,4,Chinese,group,Gurgaon,South_Indian,0.181,403,1,Chinese,snacks,weekend,none,summer,0.19,1,0.389,medium,veg,1
+83,Biryani,1,North_Indian,solo,Navi_Mumbai,North_Indian,0.393,434,1,North_Indian,breakfast,weekday,none,summer,0.47,4,0.761,low,veg,1
+181,Vada,1,South_Indian,solo,South_Delhi,South_Indian,0.358,423,2,South_Indian,lunch,weekend,none,monsoon,0.068,2,0.176,low,dairy,0
+179,Dal Makhani,1,North_Indian,solo,Navi_Mumbai,Desserts,0.174,335,1,North_Indian,dinner,weekend,festival,winter,0.32,4,0.375,high,veg,1
+135,Fries,1,Fast_Food,solo,Noida,Fast_Food,0.367,442,2,Fast_Food,lunch,weekend,none,monsoon,0.39,6,0.169,low,nonveg,0
+72,Idli,1,South_Indian,solo,Gurgaon,South_Indian,0.606,485,3,South_Indian,snacks,weekday,none,winter,0.282,1,0.405,low,veg,0
+64,Coke,1,Beverages,solo,Noida,Beverages,0.237,452,2,Beverages,dinner,weekday,none,winter,0.154,2,0.483,medium,veg,1
+4,Lassi,1,Beverages,solo,Navi_Mumbai,Fast_Food,0.419,505,3,Beverages,dinner,weekend,none,winter,0.473,1,0.449,medium,veg,1
+38,Milkshake,2,Beverages,solo,South_Delhi,Chinese,0.627,443,2,Beverages,dinner,weekend,birthday,monsoon,0.363,1,0.124,low,veg,0
+38,Milkshake,2,Beverages,solo,South_Delhi,Chinese,0.33,588,4,Beverages,breakfast,weekend,festival,winter,0.378,0,0.609,low,veg,1
+190,Burger,1,Fast_Food,solo,South_Delhi,Chinese,0.57,435,2,Fast_Food,lunch,weekday,none,monsoon,0.038,2,0.427,low,nonveg,1
+56,Milkshake,1,Beverages,solo,Navi_Mumbai,South_Indian,0.375,391,2,Beverages,snacks,weekday,none,monsoon,0.548,3,0.48,medium,dairy,0
+188,Vada,2,South_Indian,solo,South_Delhi,Fast_Food,0.278,359,2,South_Indian,lunch,weekday,birthday,monsoon,0.266,1,0.408,low,egg,1
+123,Sambar,1,South_Indian,solo,Noida,Fast_Food,0.395,356,1,South_Indian,breakfast,weekend,none,winter,0.719,2,0.596,medium,dairy,0
+117,Raita,1,North_Indian,solo,Navi_Mumbai,North_Indian,0.179,494,3,North_Indian,lunch,weekday,festival,monsoon,0.481,5,0.384,low,nonveg,1
+175,Fries,1,Fast_Food,solo,South_Delhi,South_Indian,0.318,390,1,Fast_Food,lunch,weekday,none,summer,0.142,2,0.693,low,veg,0
+103,Hakka Noodles,2,Chinese,solo,South_Delhi,South_Indian,0.392,539,3,Chinese,dinner,weekday,none,monsoon,0.125,3,0.439,high,nonveg,0
+193,Vada,2,South_Indian,solo,Navi_Mumbai,South_Indian,0.476,352,1,South_Indian,snacks,weekday,none,winter,0.26,4,0.51,low,veg,1
+76,Tea,3,Beverages,group,Gurgaon,Beverages,0.395,460,2,Beverages,lunch,weekday,none,winter,0.399,0,0.413,low,veg,1
+58,Fried Rice,1,Chinese,solo,Gurgaon,Beverages,0.327,394,2,Chinese,dinner,weekday,none,winter,0.267,2,0.626,high,nonveg,1
+79,Lassi,1,Beverages,solo,Gurgaon,Chinese,0.346,511,3,Beverages,dinner,weekday,festival,summer,0.469,0,0.568,high,veg,0
+184,Manchurian,1,Chinese,solo,Navi_Mumbai,Desserts,0.151,378,1,Chinese,dinner,weekday,none,winter,0.317,1,0.636,low,dairy,1
+137,Fries,2,Fast_Food,solo,Navi_Mumbai,Beverages,0.411,497,3,Fast_Food,lunch,weekday,none,summer,0.423,2,0.541,medium,nonveg,0
+17,Biryani,2,North_Indian,solo,West_Delhi,Beverages,0.165,437,2,North_Indian,dinner,weekday,none,monsoon,0.067,2,0.736,medium,veg,0
+157,Dal Makhani,3,North_Indian,group,South_Delhi,South_Indian,0.411,373,2,North_Indian,breakfast,weekend,birthday,monsoon,0.556,2,0.53,medium,veg,1
+140,Fried Rice,4,Chinese,group,Noida,Fast_Food,0.12,346,2,Chinese,dinner,weekend,none,summer,0.263,8,0.846,medium,veg,1
+84,Kheer,1,Desserts,solo,South_Delhi,Beverages,0.282,391,1,Desserts,breakfast,weekday,festival,winter,0.221,4,0.383,medium,veg,0
+110,Coke,1,Beverages,solo,South_Delhi,North_Indian,0.095,352,1,Beverages,lunch,weekday,none,summer,0.043,5,0.818,medium,veg,1
+160,Rasgulla,1,Desserts,solo,South_Delhi,Beverages,0.074,429,2,Desserts,snacks,weekday,none,winter,0.693,2,0.778,medium,veg,0
+122,Lassi,1,Beverages,solo,Noida,Chinese,0.376,467,3,Beverages,lunch,weekend,birthday,monsoon,0.541,0,0.576,medium,dairy,0
+145,Dosa,1,South_Indian,solo,Noida,Desserts,0.347,358,1,South_Indian,lunch,weekend,none,summer,0.288,9,0.526,medium,veg,0
+46,Nachos,1,Fast_Food,solo,Gurgaon,Chinese,0.272,431,2,Fast_Food,snacks,weekday,birthday,winter,0.452,5,0.616,medium,veg,1
+154,Fries,4,Fast_Food,group,South_Delhi,Chinese,0.209,279,1,Fast_Food,dinner,weekday,none,summer,0.475,1,0.246,low,veg,1
+62,Sandwich,3,Fast_Food,group,West_Delhi,North_Indian,0.082,322,1,Fast_Food,lunch,weekday,none,monsoon,0.153,9,0.613,high,egg,1
+48,Fries,2,Fast_Food,solo,West_Delhi,Chinese,0.186,321,1,Fast_Food,lunch,weekend,none,winter,0.198,1,0.377,high,veg,0
+190,Nachos,1,Fast_Food,solo,South_Delhi,South_Indian,0.522,359,2,Fast_Food,snacks,weekend,none,summer,0.162,3,0.387,low,dairy,0
+77,Gulab Jamun,1,Desserts,solo,West_Delhi,Fast_Food,0.151,458,3,Desserts,dinner,weekend,none,monsoon,0.315,5,0.684,medium,veg,1
+54,Pepsi,2,Beverages,solo,Navi_Mumbai,Chinese,0.191,291,1,Beverages,lunch,weekday,none,monsoon,0.336,11,0.582,low,nonveg,0
+88,Sambar,3,South_Indian,group,West_Delhi,Desserts,0.047,519,4,South_Indian,snacks,weekend,none,summer,0.296,2,0.461,medium,veg,0
+38,Lassi,2,Beverages,solo,South_Delhi,South_Indian,0.258,415,2,Beverages,lunch,weekday,none,monsoon,0.498,4,0.754,low,nonveg,0
+50,Dal Makhani,4,North_Indian,group,Noida,North_Indian,0.656,558,4,North_Indian,snacks,weekday,none,monsoon,0.254,3,0.405,high,veg,0
+27,Lassi,2,Beverages,solo,Navi_Mumbai,Beverages,0.399,410,2,Beverages,snacks,weekday,festival,winter,0.516,0,0.438,medium,nonveg,0
+197,Idli,3,South_Indian,group,South_Delhi,Fast_Food,0.321,437,3,South_Indian,lunch,weekend,none,summer,0.4,1,0.095,low,nonveg,0
+148,Coke,1,Beverages,solo,Noida,Chinese,0.199,459,2,Beverages,lunch,weekday,birthday,summer,0.505,10,0.323,medium,nonveg,1
+182,Salad,3,North_Indian,group,Gurgaon,Chinese,0.101,385,2,North_Indian,breakfast,weekday,festival,summer,0.445,3,0.396,medium,veg,0
+43,Cold Coffee,3,Beverages,group,Navi_Mumbai,South_Indian,0.496,341,2,Beverages,snacks,weekday,none,monsoon,0.127,2,0.435,medium,veg,0
+93,Paneer Tikka,2,North_Indian,solo,West_Delhi,Beverages,0.333,497,3,North_Indian,breakfast,weekday,birthday,summer,0.204,4,0.632,low,veg,1
+158,Kheer,1,Desserts,solo,South_Delhi,Desserts,0.646,296,1,Desserts,dinner,weekday,none,winter,0.479,4,0.834,high,egg,1
+158,Brownie,1,Desserts,solo,South_Delhi,North_Indian,0.169,469,2,Desserts,lunch,weekend,none,monsoon,0.249,0,0.456,low,dairy,1
+74,Fried Rice,2,Chinese,solo,West_Delhi,South_Indian,0.088,421,2,Chinese,lunch,weekday,none,monsoon,0.484,5,0.391,low,veg,0
+54,Pepsi,2,Beverages,solo,Navi_Mumbai,Fast_Food,0.435,274,1,Beverages,lunch,weekday,none,summer,0.117,1,0.369,medium,nonveg,1
+33,Fried Rice,3,Chinese,group,Gurgaon,North_Indian,0.124,429,2,Chinese,snacks,weekend,none,winter,0.125,1,0.347,low,nonveg,0
+163,Gulab Jamun,2,Desserts,solo,West_Delhi,South_Indian,0.546,442,2,Desserts,dinner,weekday,none,monsoon,0.492,4,0.721,low,veg,1
+103,Chilli Paneer,2,Chinese,solo,South_Delhi,South_Indian,0.361,473,2,Chinese,dinner,weekday,none,winter,0.36,1,0.679,low,dairy,1
+151,Cheesy Dip,1,Fast_Food,solo,Navi_Mumbai,Desserts,0.199,535,3,Fast_Food,lunch,weekday,none,summer,0.552,1,0.817,low,veg,0
+30,Sandwich,2,Fast_Food,solo,West_Delhi,Fast_Food,0.272,375,2,Fast_Food,lunch,weekend,none,summer,0.156,0,0.422,low,veg,0
+27,Lassi,2,Beverages,solo,Navi_Mumbai,Chinese,0.093,467,2,Beverages,lunch,weekend,none,monsoon,0.42,0,0.459,low,veg,1
+85,Choco Lava Cake,1,Desserts,solo,Gurgaon,Chinese,0.17,543,3,Desserts,breakfast,weekday,none,monsoon,0.344,1,0.669,low,veg,0
+37,Milkshake,1,Beverages,solo,Gurgaon,Chinese,0.136,524,2,Beverages,snacks,weekday,none,monsoon,0.377,1,0.31,low,veg,0
+40,Gulab Jamun,1,Desserts,solo,West_Delhi,North_Indian,0.355,429,3,Desserts,dinner,weekday,anniversary,winter,0.334,3,0.794,low,nonveg,1
+108,Choco Lava Cake,1,Desserts,solo,West_Delhi,Fast_Food,0.131,402,2,Desserts,snacks,weekday,none,winter,0.446,0,0.4,medium,dairy,0
+89,Garlic Bread,2,Fast_Food,solo,West_Delhi,Beverages,0.397,372,1,Fast_Food,breakfast,weekday,none,monsoon,0.227,4,0.227,high,egg,0
+189,Paneer Tikka,1,North_Indian,solo,Gurgaon,North_Indian,0.107,584,3,North_Indian,snacks,weekday,festival,monsoon,0.306,0,0.335,low,egg,0
+96,Chutney,2,South_Indian,solo,Navi_Mumbai,Desserts,0.581,427,2,South_Indian,lunch,weekday,none,summer,0.601,1,0.37,low,veg,0
+136,Rasgulla,2,Desserts,solo,South_Delhi,Chinese,0.117,371,2,Desserts,breakfast,weekday,none,monsoon,0.549,1,0.69,low,veg,0
+136,Gulab Jamun,2,Desserts,solo,South_Delhi,Fast_Food,0.138,337,1,Desserts,lunch,weekday,festival,monsoon,0.645,4,0.38,high,nonveg,0
+168,Rasgulla,1,Desserts,solo,Navi_Mumbai,South_Indian,0.059,485,4,Desserts,breakfast,weekday,none,summer,0.686,8,0.227,medium,nonveg,1
+26,Rasgulla,1,Desserts,solo,Gurgaon,South_Indian,0.675,360,1,Desserts,lunch,weekday,none,monsoon,0.126,0,0.515,low,nonveg,0
+103,Fried Rice,2,Chinese,solo,South_Delhi,South_Indian,0.467,320,1,Chinese,lunch,weekday,festival,monsoon,0.325,7,0.328,high,egg,0
+147,Lassi,2,Beverages,solo,Navi_Mumbai,Fast_Food,0.165,315,1,Beverages,breakfast,weekend,none,winter,0.091,0,0.556,low,egg,0
+124,Fried Rice,1,Chinese,solo,Noida,Beverages,0.135,313,1,Chinese,lunch,weekday,birthday,monsoon,0.172,3,0.697,low,nonveg,0
+185,Lassi,2,Beverages,solo,Gurgaon,North_Indian,0.448,375,1,Beverages,breakfast,weekday,none,monsoon,0.73,3,0.661,medium,dairy,0
+68,Brownie,1,Desserts,solo,Gurgaon,Desserts,0.585,450,2,Desserts,lunch,weekday,none,monsoon,0.451,4,0.458,medium,veg,0
+168,Gulab Jamun,1,Desserts,solo,Navi_Mumbai,Desserts,0.111,320,1,Desserts,dinner,weekday,birthday,monsoon,0.42,5,0.539,medium,veg,0
+60,Rasgulla,1,Desserts,solo,Noida,Desserts,0.552,515,3,Desserts,snacks,weekday,none,monsoon,0.053,10,0.761,high,veg,0
+26,Rasgulla,1,Desserts,solo,Gurgaon,North_Indian,0.057,347,1,Desserts,lunch,weekend,none,monsoon,0.583,0,0.57,medium,nonveg,0
+169,Upma,2,South_Indian,solo,Gurgaon,Beverages,0.4,347,1,South_Indian,dinner,weekday,none,monsoon,0.302,0,0.475,medium,egg,1
+11,Paneer Tikka,4,North_Indian,group,Navi_Mumbai,Desserts,0.112,468,3,North_Indian,snacks,weekday,none,summer,0.325,9,0.514,low,nonveg,1
+113,Cheesy Dip,3,Fast_Food,group,Navi_Mumbai,Fast_Food,0.126,304,1,Fast_Food,lunch,weekday,festival,summer,0.472,1,0.579,medium,veg,0
+11,Biryani,4,North_Indian,group,Navi_Mumbai,Beverages,0.522,386,2,North_Indian,breakfast,weekday,none,monsoon,0.144,0,0.33,high,veg,0
+16,Vada,1,South_Indian,solo,Gurgaon,Beverages,0.137,578,4,South_Indian,dinner,weekend,none,summer,0.35,11,0.833,medium,veg,0
+121,Cheesy Dip,3,Fast_Food,group,South_Delhi,Desserts,0.05,340,1,Fast_Food,snacks,weekday,none,winter,0.163,3,0.274,low,dairy,0
+24,Kheer,2,Desserts,solo,South_Delhi,Beverages,0.091,404,2,Desserts,breakfast,weekday,none,summer,0.194,4,0.659,low,veg,1
+80,Milkshake,3,Beverages,group,Navi_Mumbai,Beverages,0.327,449,3,Beverages,snacks,weekend,none,monsoon,0.31,1,0.288,low,veg,0
+78,Brownie,1,Desserts,solo,South_Delhi,Beverages,0.379,398,2,Desserts,snacks,weekday,none,winter,0.294,5,0.652,high,veg,1
+132,Dal Makhani,1,North_Indian,solo,Noida,North_Indian,0.381,356,1,North_Indian,lunch,weekday,none,monsoon,0.365,1,0.404,low,veg,0
+55,Ice Cream,3,Desserts,group,Gurgaon,South_Indian,0.584,350,2,Desserts,snacks,weekday,none,winter,0.402,0,0.605,high,veg,1
+52,Biryani,3,North_Indian,group,Gurgaon,Beverages,0.191,385,1,North_Indian,dinner,weekday,none,summer,0.408,5,0.428,high,nonveg,1
+2,Roti,2,North_Indian,solo,West_Delhi,Chinese,0.147,607,4,North_Indian,dinner,weekday,none,winter,0.566,2,0.404,low,egg,0
+101,Spring Roll,2,Chinese,solo,Gurgaon,Chinese,0.499,441,2,Chinese,dinner,weekday,none,summer,0.163,1,0.67,low,dairy,0
+196,Brownie,2,Desserts,solo,Noida,Desserts,0.019,378,2,Desserts,snacks,weekday,none,summer,0.149,6,0.464,low,veg,1
+38,Lassi,2,Beverages,solo,South_Delhi,Beverages,0.359,584,4,Beverages,lunch,weekday,none,winter,0.805,2,0.716,low,nonveg,1
+21,Chutney,1,South_Indian,solo,Navi_Mumbai,South_Indian,0.243,311,1,South_Indian,snacks,weekday,none,winter,0.036,8,0.59,medium,nonveg,0
+112,Burger,3,Fast_Food,group,Gurgaon,South_Indian,0.213,653,4,Fast_Food,breakfast,weekday,none,monsoon,0.254,2,0.489,medium,nonveg,0
+105,Sandwich,1,Fast_Food,solo,Gurgaon,Fast_Food,0.232,320,1,Fast_Food,breakfast,weekday,none,winter,0.63,1,0.476,low,dairy,0
+111,Roti,1,North_Indian,solo,South_Delhi,Chinese,0.6,371,2,North_Indian,lunch,weekday,birthday,summer,0.29,0,0.461,medium,nonveg,0
+153,Fries,2,Fast_Food,solo,Gurgaon,Chinese,0.604,389,2,Fast_Food,dinner,weekend,birthday,summer,0.265,1,0.695,medium,dairy,1
+144,Burger,1,Fast_Food,solo,Noida,Fast_Food,0.162,578,4,Fast_Food,lunch,weekday,none,summer,0.511,2,0.414,low,nonveg,0
+59,Paneer Tikka,1,North_Indian,solo,West_Delhi,Chinese,0.219,384,1,North_Indian,lunch,weekday,anniversary,monsoon,0.073,2,0.683,high,veg,0
+7,Garlic Bread,3,Fast_Food,group,South_Delhi,North_Indian,0.139,578,4,Fast_Food,lunch,weekday,none,summer,0.122,6,0.269,medium,veg,0
+29,Papad,1,North_Indian,solo,South_Delhi,South_Indian,0.327,515,3,North_Indian,dinner,weekday,none,monsoon,0.181,1,0.526,medium,veg,0
+21,Chutney,1,South_Indian,solo,Navi_Mumbai,South_Indian,0.071,292,1,South_Indian,dinner,weekday,none,summer,0.388,0,0.795,medium,nonveg,1
+130,Papad,2,North_Indian,solo,West_Delhi,North_Indian,0.051,526,4,North_Indian,dinner,weekend,none,winter,0.505,4,0.665,low,nonveg,1
+123,Upma,1,South_Indian,solo,Noida,Chinese,0.208,543,3,South_Indian,snacks,weekday,none,winter,0.435,0,0.074,low,dairy,0
+117,Paneer Tikka,1,North_Indian,solo,Navi_Mumbai,Chinese,0.15,369,2,North_Indian,lunch,weekday,none,summer,0.619,0,0.655,medium,nonveg,0
+23,Coke,1,Beverages,solo,Noida,Chinese,0.048,390,2,Beverages,dinner,weekday,none,monsoon,0.091,1,0.233,medium,nonveg,0
+6,Spring Roll,1,Chinese,solo,South_Delhi,North_Indian,0.669,294,1,Chinese,snacks,weekday,none,summer,0.074,1,0.674,low,dairy,0
+154,Sandwich,4,Fast_Food,group,South_Delhi,South_Indian,0.291,363,1,Fast_Food,breakfast,weekday,none,summer,0.333,0,0.706,medium,veg,0
+76,Coke,3,Beverages,group,Gurgaon,South_Indian,0.407,400,2,Beverages,lunch,weekday,none,winter,0.359,1,0.396,medium,nonveg,0
+135,Sandwich,1,Fast_Food,solo,Noida,Beverages,0.02,504,3,Fast_Food,snacks,weekend,none,monsoon,0.32,1,0.109,low,nonveg,0
+138,Garlic Bread,1,Fast_Food,solo,South_Delhi,South_Indian,0.446,554,4,Fast_Food,snacks,weekday,none,monsoon,0.188,2,0.577,low,veg,0
+165,Pizza,3,Fast_Food,group,Navi_Mumbai,Fast_Food,0.152,272,1,Fast_Food,lunch,weekday,none,winter,0.398,3,0.601,medium,dairy,1
+80,Pepsi,3,Beverages,group,Navi_Mumbai,South_Indian,0.087,491,3,Beverages,snacks,weekend,none,monsoon,0.703,4,0.387,low,veg,1
+153,Fries,2,Fast_Food,solo,Gurgaon,Chinese,0.017,316,1,Fast_Food,dinner,weekday,none,winter,0.531,9,0.413,low,veg,1
+95,Gulab Jamun,2,Desserts,solo,West_Delhi,Chinese,0.497,501,3,Desserts,lunch,weekday,none,summer,0.306,2,0.08,low,nonveg,0
+114,Raita,2,North_Indian,solo,Gurgaon,Desserts,0.082,328,2,North_Indian,lunch,weekday,none,summer,0.192,4,0.422,medium,veg,0
+132,Paneer Tikka,1,North_Indian,solo,Noida,Desserts,0.05,325,1,North_Indian,dinner,weekend,none,winter,0.326,2,0.403,low,veg,0
+101,Hakka Noodles,2,Chinese,solo,Gurgaon,Chinese,0.301,408,1,Chinese,lunch,weekday,none,monsoon,0.722,5,0.75,medium,dairy,1
+140,Spring Roll,4,Chinese,group,Noida,Desserts,0.08,346,1,Chinese,dinner,weekday,none,winter,0.04,0,0.44,medium,nonveg,0
+193,Upma,2,South_Indian,solo,Navi_Mumbai,Beverages,0.663,468,2,South_Indian,breakfast,weekday,none,monsoon,0.628,6,0.757,high,veg,1
+24,Gulab Jamun,2,Desserts,solo,South_Delhi,North_Indian,0.376,337,1,Desserts,dinner,weekday,none,summer,0.536,7,0.573,low,veg,1
+169,Sambar,2,South_Indian,solo,Gurgaon,South_Indian,0.268,531,4,South_Indian,breakfast,weekday,none,winter,0.607,1,0.587,medium,dairy,1
+110,Tea,1,Beverages,solo,South_Delhi,South_Indian,0.629,463,2,Beverages,lunch,weekday,none,summer,0.408,0,0.695,high,veg,1
+178,Burger,3,Fast_Food,group,Navi_Mumbai,Desserts,0.182,382,3,Fast_Food,snacks,weekday,none,monsoon,0.622,2,0.404,medium,nonveg,0
+181,Sambar,1,South_Indian,solo,South_Delhi,Desserts,0.462,417,2,South_Indian,snacks,weekend,festival,summer,0.616,12,0.71,medium,veg,1
+114,Biryani,2,North_Indian,solo,Gurgaon,Fast_Food,0.096,491,3,North_Indian,dinner,weekday,anniversary,summer,0.583,5,0.579,low,veg,1
+95,Choco Lava Cake,2,Desserts,solo,West_Delhi,South_Indian,0.514,333,1,Desserts,breakfast,weekday,none,winter,0.415,1,0.426,medium,nonveg,1
+18,Upma,2,South_Indian,solo,South_Delhi,Chinese,0.328,392,1,South_Indian,dinner,weekend,none,summer,0.364,4,0.527,low,veg,1
+151,Sandwich,1,Fast_Food,solo,Navi_Mumbai,Desserts,0.443,450,2,Fast_Food,dinner,weekday,none,summer,0.329,3,0.201,medium,nonveg,0
+41,Paneer Tikka,2,North_Indian,solo,Noida,Desserts,0.268,459,3,North_Indian,lunch,weekday,none,winter,0.277,0,0.419,low,nonveg,0
+100,Pepsi,1,Beverages,solo,Gurgaon,Chinese,0.34,327,2,Beverages,dinner,weekday,none,monsoon,0.203,1,0.5,high,veg,0
+84,Choco Lava Cake,1,Desserts,solo,South_Delhi,South_Indian,0.154,479,2,Desserts,dinner,weekday,none,monsoon,0.457,2,0.553,medium,veg,0
+112,Fries,3,Fast_Food,group,Gurgaon,Desserts,0.459,298,1,Fast_Food,lunch,weekday,none,monsoon,0.173,1,0.667,high,veg,0
+3,Raita,2,North_Indian,solo,South_Delhi,Chinese,0.427,279,1,North_Indian,snacks,weekday,none,monsoon,0.221,2,0.681,medium,dairy,1
+154,Sandwich,4,Fast_Food,group,South_Delhi,South_Indian,0.6,408,2,Fast_Food,snacks,weekday,none,winter,0.396,2,0.494,medium,nonveg,0
+17,Papad,2,North_Indian,solo,West_Delhi,Fast_Food,0.251,276,1,North_Indian,lunch,weekday,none,winter,0.576,0,0.891,low,nonveg,0
+112,Fries,3,Fast_Food,group,Gurgaon,Beverages,0.495,305,1,Fast_Food,dinner,weekday,none,summer,0.251,0,0.285,high,veg,0
+22,Sambar,1,South_Indian,solo,South_Delhi,Desserts,0.039,519,4,South_Indian,lunch,weekday,none,winter,0.357,4,0.66,medium,nonveg,0
+133,Papad,1,North_Indian,solo,Gurgaon,Beverages,0.407,550,4,North_Indian,dinner,weekday,none,monsoon,0.518,4,0.605,high,veg,1
+69,Choco Lava Cake,4,Desserts,group,South_Delhi,Fast_Food,0.077,270,1,Desserts,lunch,weekday,festival,monsoon,0.687,1,0.705,medium,nonveg,1
+102,Spring Roll,1,Chinese,solo,Navi_Mumbai,South_Indian,0.24,461,2,Chinese,lunch,weekend,anniversary,monsoon,0.245,7,0.705,medium,nonveg,1
+108,Kheer,1,Desserts,solo,West_Delhi,Desserts,0.062,461,3,Desserts,dinner,weekday,none,summer,0.16,2,0.306,medium,veg,0
+3,Salad,2,North_Indian,solo,South_Delhi,Fast_Food,0.075,310,1,North_Indian,dinner,weekend,none,monsoon,0.34,5,0.497,high,dairy,1
+24,Ice Cream,2,Desserts,solo,South_Delhi,North_Indian,0.348,492,3,Desserts,lunch,weekday,none,monsoon,0.316,4,0.715,high,veg,1
+62,Nachos,3,Fast_Food,group,West_Delhi,Beverages,0.328,304,1,Fast_Food,dinner,weekday,none,monsoon,0.311,0,0.691,medium,veg,0
+30,Cheesy Dip,2,Fast_Food,solo,West_Delhi,Chinese,0.084,392,1,Fast_Food,lunch,weekday,anniversary,summer,0.141,4,0.264,high,nonveg,1
+181,Chutney,1,South_Indian,solo,South_Delhi,North_Indian,0.415,281,1,South_Indian,breakfast,weekend,birthday,summer,0.133,0,0.667,low,veg,1
+72,Upma,1,South_Indian,solo,Gurgaon,Beverages,0.306,471,3,South_Indian,lunch,weekend,none,summer,0.303,1,0.571,low,veg,0
+173,Pepsi,1,Beverages,solo,Gurgaon,Fast_Food,0.275,533,3,Beverages,lunch,weekday,none,winter,0.345,10,0.451,medium,nonveg,1
+86,Manchurian,2,Chinese,solo,South_Delhi,Chinese,0.259,492,3,Chinese,breakfast,weekend,none,summer,0.629,1,0.737,low,veg,1
+21,Sambar,1,South_Indian,solo,Navi_Mumbai,Beverages,0.298,462,2,South_Indian,snacks,weekday,none,summer,0.494,3,0.62,low,veg,0
+106,Garlic Bread,2,Fast_Food,solo,Navi_Mumbai,Desserts,0.418,310,1,Fast_Food,lunch,weekday,none,monsoon,0.459,6,0.486,medium,egg,0
+18,Sambar,2,South_Indian,solo,South_Delhi,Beverages,0.415,520,3,South_Indian,snacks,weekday,none,monsoon,0.471,0,0.453,low,dairy,0
+79,Coke,1,Beverages,solo,Gurgaon,Beverages,0.301,458,3,Beverages,snacks,weekend,anniversary,summer,0.63,4,0.414,low,veg,0
+85,Kheer,1,Desserts,solo,Gurgaon,North_Indian,0.568,443,3,Desserts,lunch,weekday,none,monsoon,0.049,0,0.484,medium,dairy,0
+20,Fries,2,Fast_Food,solo,Gurgaon,Beverages,0.038,393,2,Fast_Food,breakfast,weekday,festival,winter,0.536,1,0.721,medium,nonveg,0
+66,Chilli Paneer,1,Chinese,solo,Noida,Chinese,0.572,381,1,Chinese,snacks,weekend,none,winter,0.605,1,0.713,low,veg,1
+160,Rasgulla,1,Desserts,solo,South_Delhi,Chinese,0.071,534,3,Desserts,dinner,weekday,none,monsoon,0.355,8,0.334,low,veg,0
+144,Fries,1,Fast_Food,solo,Noida,Desserts,0.524,365,1,Fast_Food,snacks,weekday,none,winter,0.248,1,0.637,low,veg,0
+172,Manchurian,2,Chinese,solo,West_Delhi,Desserts,0.414,465,2,Chinese,breakfast,weekday,none,winter,0.264,6,0.601,low,veg,0
+173,Pepsi,1,Beverages,solo,Gurgaon,North_Indian,0.38,365,1,Beverages,lunch,weekend,none,winter,0.151,0,0.412,high,veg,1
+5,Sandwich,1,Fast_Food,solo,Navi_Mumbai,South_Indian,0.542,406,1,Fast_Food,lunch,weekend,none,summer,0.164,8,0.584,medium,nonveg,1
+184,Manchurian,1,Chinese,solo,Navi_Mumbai,South_Indian,0.268,495,2,Chinese,lunch,weekday,festival,monsoon,0.403,4,0.326,medium,nonveg,0
+117,Roti,1,North_Indian,solo,Navi_Mumbai,Beverages,0.415,381,2,North_Indian,lunch,weekday,none,monsoon,0.455,0,0.507,low,dairy,0
+49,Ice Cream,1,Desserts,solo,Gurgaon,South_Indian,0.359,605,4,Desserts,dinner,weekday,none,winter,0.511,0,0.428,low,nonveg,1
+106,Fries,2,Fast_Food,solo,Navi_Mumbai,Desserts,0.271,554,3,Fast_Food,lunch,weekend,none,monsoon,0.379,2,0.755,medium,veg,1
+53,Paneer Tikka,3,North_Indian,group,West_Delhi,South_Indian,0.254,316,1,North_Indian,dinner,weekend,none,summer,0.44,1,0.176,high,veg,0
+80,Tea,3,Beverages,group,Navi_Mumbai,Beverages,0.239,531,4,Beverages,lunch,weekday,none,monsoon,0.633,5,0.725,medium,veg,1
+194,Dal Makhani,1,North_Indian,solo,Gurgaon,Chinese,0.407,365,2,North_Indian,dinner,weekday,none,winter,0.375,0,0.538,medium,veg,0
+9,Rasgulla,2,Desserts,solo,Navi_Mumbai,South_Indian,0.16,358,2,Desserts,dinner,weekend,anniversary,summer,0.34,3,0.727,low,veg,1
+198,Fries,3,Fast_Food,group,Noida,Beverages,0.188,456,3,Fast_Food,dinner,weekend,none,summer,0.162,5,0.472,low,veg,0
+178,Fries,3,Fast_Food,group,Navi_Mumbai,Chinese,0.126,441,2,Fast_Food,breakfast,weekday,none,monsoon,0.583,1,0.386,low,nonveg,1
+51,Manchurian,3,Chinese,group,Noida,Beverages,0.109,424,2,Chinese,dinner,weekday,none,winter,0.329,3,0.707,high,nonveg,0
+129,Burger,2,Fast_Food,solo,West_Delhi,North_Indian,0.271,327,1,Fast_Food,dinner,weekday,none,monsoon,0.547,3,0.156,low,veg,0
+9,Brownie,2,Desserts,solo,Navi_Mumbai,Desserts,0.111,381,1,Desserts,dinner,weekend,none,monsoon,0.642,0,0.44,medium,nonveg,0
+119,Paneer Tikka,2,North_Indian,solo,Noida,North_Indian,0.061,432,2,North_Indian,lunch,weekday,none,summer,0.32,11,0.235,medium,veg,1
+115,Tea,3,Beverages,group,Noida,Beverages,0.59,413,2,Beverages,lunch,weekend,none,monsoon,0.276,2,0.632,medium,nonveg,0
+181,Idli,1,South_Indian,solo,South_Delhi,North_Indian,0.206,318,1,South_Indian,dinner,weekend,birthday,summer,0.215,0,0.451,medium,dairy,0
+188,Chutney,2,South_Indian,solo,South_Delhi,Desserts,0.261,409,2,South_Indian,snacks,weekend,none,summer,0.585,8,0.556,medium,veg,0
+55,Choco Lava Cake,3,Desserts,group,Gurgaon,North_Indian,0.464,318,1,Desserts,dinner,weekday,none,summer,0.17,0,0.429,medium,veg,0
+16,Dosa,1,South_Indian,solo,Gurgaon,Chinese,0.3,373,2,South_Indian,dinner,weekday,none,winter,0.448,0,0.636,high,veg,1
+78,Choco Lava Cake,1,Desserts,solo,South_Delhi,Chinese,0.452,540,4,Desserts,snacks,weekend,festival,summer,0.305,3,0.675,medium,egg,0
+117,Salad,1,North_Indian,solo,Navi_Mumbai,North_Indian,0.543,247,1,North_Indian,snacks,weekday,none,summer,0.442,0,0.452,high,nonveg,0
+125,Tea,2,Beverages,solo,South_Delhi,North_Indian,0.075,331,1,Beverages,snacks,weekday,none,winter,0.121,5,0.345,low,nonveg,1
+195,Salad,1,North_Indian,solo,Gurgaon,Chinese,0.362,609,3,North_Indian,lunch,weekday,birthday,winter,0.45,1,0.438,high,nonveg,1
+148,Cold Coffee,1,Beverages,solo,Noida,North_Indian,0.699,301,1,Beverages,snacks,weekday,none,winter,0.218,6,0.432,low,veg,0
+192,Paneer Tikka,3,North_Indian,group,Gurgaon,South_Indian,0.472,310,1,North_Indian,lunch,weekday,anniversary,monsoon,0.34,1,0.274,medium,veg,0
+46,Pizza,1,Fast_Food,solo,Gurgaon,Fast_Food,0.046,532,4,Fast_Food,lunch,weekday,none,monsoon,0.576,3,0.745,high,dairy,0
+39,Kheer,2,Desserts,solo,West_Delhi,North_Indian,0.264,321,1,Desserts,dinner,weekend,none,monsoon,0.416,0,0.871,medium,veg,0
+30,Nachos,2,Fast_Food,solo,West_Delhi,Beverages,0.557,474,3,Fast_Food,breakfast,weekday,none,summer,0.215,3,0.311,high,veg,0
+38,Pepsi,2,Beverages,solo,South_Delhi,Chinese,0.419,499,3,Beverages,dinner,weekend,festival,summer,0.274,2,0.209,low,veg,1
+147,Coke,2,Beverages,solo,Navi_Mumbai,Chinese,0.232,329,1,Beverages,dinner,weekend,festival,winter,0.127,3,0.308,medium,dairy,1
+168,Rasgulla,1,Desserts,solo,Navi_Mumbai,Beverages,0.542,380,2,Desserts,dinner,weekday,none,winter,0.395,1,0.192,high,dairy,0
+43,Coke,3,Beverages,group,Navi_Mumbai,Fast_Food,0.162,462,2,Beverages,snacks,weekday,birthday,winter,0.524,0,0.613,low,veg,0
+151,Sandwich,1,Fast_Food,solo,Navi_Mumbai,Desserts,0.269,391,2,Fast_Food,lunch,weekday,none,summer,0.248,2,0.622,medium,egg,0
+77,Brownie,1,Desserts,solo,West_Delhi,South_Indian,0.114,336,1,Desserts,dinner,weekday,none,winter,0.436,0,0.558,high,veg,0
+147,Cold Coffee,2,Beverages,solo,Navi_Mumbai,Desserts,0.215,504,3,Beverages,breakfast,weekday,anniversary,monsoon,0.404,0,0.791,medium,veg,0
+97,Ice Cream,2,Desserts,solo,Noida,North_Indian,0.134,393,2,Desserts,dinner,weekday,none,monsoon,0.208,0,0.578,high,veg,1
+52,Dal Makhani,3,North_Indian,group,Gurgaon,South_Indian,0.185,330,1,North_Indian,snacks,weekday,none,summer,0.168,0,0.671,low,veg,1
+46,Cheesy Dip,1,Fast_Food,solo,Gurgaon,Fast_Food,0.838,311,1,Fast_Food,lunch,weekday,none,winter,0.372,0,0.485,low,veg,0
+87,Burger,2,Fast_Food,solo,Gurgaon,Beverages,0.199,478,3,Fast_Food,lunch,weekday,none,winter,0.478,2,0.612,low,nonveg,0
+144,Nachos,1,Fast_Food,solo,Noida,South_Indian,0.033,561,4,Fast_Food,dinner,weekday,none,monsoon,0.287,3,0.288,low,nonveg,0
+163,Rasgulla,2,Desserts,solo,West_Delhi,Fast_Food,0.061,384,2,Desserts,snacks,weekday,none,monsoon,0.733,1,0.46,medium,egg,0
+65,Brownie,2,Desserts,solo,South_Delhi,South_Indian,0.171,365,2,Desserts,lunch,weekday,none,monsoon,0.113,2,0.69,medium,veg,0
+177,Choco Lava Cake,1,Desserts,solo,South_Delhi,North_Indian,0.056,451,3,Desserts,dinner,weekend,none,summer,0.362,6,0.674,high,egg,0
+117,Raita,1,North_Indian,solo,Navi_Mumbai,Beverages,0.237,401,2,North_Indian,lunch,weekday,none,winter,0.527,2,0.769,medium,veg,1
+87,Cheesy Dip,2,Fast_Food,solo,Gurgaon,Chinese,0.438,247,1,Fast_Food,lunch,weekday,none,monsoon,0.681,4,0.237,low,veg,1
+151,Fries,1,Fast_Food,solo,Navi_Mumbai,Fast_Food,0.445,459,2,Fast_Food,lunch,weekday,none,winter,0.515,0,0.641,low,nonveg,1
+105,Nachos,1,Fast_Food,solo,Gurgaon,Fast_Food,0.399,382,1,Fast_Food,dinner,weekday,anniversary,summer,0.182,0,0.752,medium,veg,0
+182,Roti,3,North_Indian,group,Gurgaon,Chinese,0.078,393,2,North_Indian,dinner,weekend,none,winter,0.3,1,0.85,high,veg,0
+140,Fried Rice,4,Chinese,group,Noida,Fast_Food,0.151,499,3,Chinese,lunch,weekend,none,winter,0.2,1,0.414,high,dairy,1
+124,Spring Roll,1,Chinese,solo,Noida,North_Indian,0.147,377,2,Chinese,dinner,weekend,none,winter,0.382,0,0.562,high,nonveg,0
+193,Vada,2,South_Indian,solo,Navi_Mumbai,South_Indian,0.378,318,1,South_Indian,dinner,weekend,none,winter,0.277,3,0.258,medium,veg,1
+115,Tea,3,Beverages,group,Noida,Beverages,0.287,376,2,Beverages,lunch,weekday,none,monsoon,0.34,1,0.672,medium,nonveg,1
+177,Gulab Jamun,1,Desserts,solo,South_Delhi,South_Indian,0.378,337,1,Desserts,dinner,weekend,none,monsoon,0.209,0,0.4,medium,veg,0
+41,Paneer Tikka,2,North_Indian,solo,Noida,Beverages,0.461,516,3,North_Indian,dinner,weekend,none,summer,0.215,5,0.386,low,nonveg,1
+156,Gulab Jamun,2,Desserts,solo,Navi_Mumbai,Beverages,0.108,351,1,Desserts,dinner,weekday,none,summer,0.32,1,0.471,low,veg,0
+142,Spring Roll,2,Chinese,solo,South_Delhi,South_Indian,0.535,595,4,Chinese,dinner,weekend,festival,summer,0.672,1,0.595,high,veg,0
+164,Ice Cream,1,Desserts,solo,Navi_Mumbai,Beverages,0.021,492,3,Desserts,dinner,weekday,none,monsoon,0.337,3,0.144,medium,veg,0
+153,Nachos,2,Fast_Food,solo,Gurgaon,South_Indian,0.276,351,1,Fast_Food,dinner,weekday,none,monsoon,0.325,1,0.606,low,dairy,0
+180,Dosa,1,South_Indian,solo,West_Delhi,Beverages,0.29,440,3,South_Indian,lunch,weekend,none,winter,0.13,0,0.794,high,veg,0
+148,Lassi,1,Beverages,solo,Noida,Desserts,0.23,342,1,Beverages,snacks,weekday,festival,summer,0.554,2,0.3,low,nonveg,1
+19,Burger,1,Fast_Food,solo,Noida,North_Indian,0.389,503,3,Fast_Food,snacks,weekday,none,winter,0.185,2,0.607,medium,veg,0
+65,Rasgulla,2,Desserts,solo,South_Delhi,Chinese,0.402,447,2,Desserts,lunch,weekend,none,monsoon,0.122,13,0.39,medium,dairy,1
+31,Upma,1,South_Indian,solo,South_Delhi,South_Indian,0.603,300,1,South_Indian,breakfast,weekday,none,winter,0.218,4,0.423,medium,veg,0
+168,Choco Lava Cake,1,Desserts,solo,Navi_Mumbai,Desserts,0.195,391,2,Desserts,lunch,weekday,none,winter,0.439,0,0.206,low,nonveg,0
+137,Cheesy Dip,2,Fast_Food,solo,Navi_Mumbai,Desserts,0.284,323,2,Fast_Food,lunch,weekend,none,monsoon,0.346,4,0.326,low,veg,0
+33,Fried Rice,3,Chinese,group,Gurgaon,North_Indian,0.34,449,2,Chinese,dinner,weekday,none,monsoon,0.65,5,0.647,medium,veg,1
+0,Tea,1,Beverages,solo,South_Delhi,Fast_Food,0.333,388,2,Beverages,breakfast,weekend,none,monsoon,0.076,5,0.503,high,nonveg,0
+42,Spring Roll,1,Chinese,solo,Gurgaon,Desserts,0.018,582,4,Chinese,dinner,weekday,none,monsoon,0.429,3,0.246,medium,nonveg,0
+137,Fries,2,Fast_Food,solo,Navi_Mumbai,Fast_Food,0.173,392,1,Fast_Food,dinner,weekend,none,monsoon,0.324,1,0.673,low,nonveg,1
+184,Hakka Noodles,1,Chinese,solo,Navi_Mumbai,Fast_Food,0.282,403,1,Chinese,dinner,weekday,anniversary,monsoon,0.254,2,0.111,high,nonveg,1
+183,Upma,3,South_Indian,group,West_Delhi,North_Indian,0.092,514,3,South_Indian,lunch,weekend,festival,monsoon,0.312,1,0.324,medium,dairy,0
+49,Kheer,1,Desserts,solo,Gurgaon,North_Indian,0.321,405,1,Desserts,lunch,weekday,none,summer,0.082,1,0.639,low,nonveg,1
+59,Paneer Tikka,1,North_Indian,solo,West_Delhi,Desserts,0.306,371,1,North_Indian,lunch,weekday,festival,winter,0.151,1,0.693,high,veg,0
+157,Biryani,3,North_Indian,group,South_Delhi,Beverages,0.04,405,2,North_Indian,lunch,weekday,none,summer,0.14,1,0.804,high,veg,1
+11,Salad,4,North_Indian,group,Navi_Mumbai,Desserts,0.14,270,1,North_Indian,breakfast,weekday,none,winter,0.472,3,0.255,low,veg,0
+78,Gulab Jamun,1,Desserts,solo,South_Delhi,Desserts,0.75,368,2,Desserts,lunch,weekday,none,winter,0.585,0,0.511,high,dairy,0
+89,Cheesy Dip,2,Fast_Food,solo,West_Delhi,Fast_Food,0.283,457,2,Fast_Food,breakfast,weekend,none,winter,0.111,3,0.674,medium,veg,1
+147,Pepsi,2,Beverages,solo,Navi_Mumbai,Desserts,0.254,394,2,Beverages,lunch,weekday,none,winter,0.388,2,0.434,low,veg,0
+91,Garlic Bread,2,Fast_Food,solo,Noida,Desserts,0.092,334,1,Fast_Food,dinner,weekday,festival,summer,0.101,6,0.178,medium,nonveg,0
+171,Raita,1,North_Indian,solo,Gurgaon,Chinese,0.41,317,1,North_Indian,breakfast,weekday,none,monsoon,0.302,9,0.239,low,nonveg,1
+116,Papad,3,North_Indian,group,Navi_Mumbai,South_Indian,0.127,406,2,North_Indian,snacks,weekend,none,monsoon,0.345,0,0.45,low,veg,1
+49,Gulab Jamun,1,Desserts,solo,Gurgaon,Chinese,0.407,434,2,Desserts,lunch,weekday,none,winter,0.708,0,0.6,low,nonveg,0
+110,Coke,1,Beverages,solo,South_Delhi,Beverages,0.145,450,3,Beverages,lunch,weekday,none,summer,0.28,1,0.593,low,veg,0
+148,Tea,1,Beverages,solo,Noida,Fast_Food,0.378,404,2,Beverages,breakfast,weekday,festival,summer,0.563,0,0.744,low,veg,0
+14,Sambar,1,South_Indian,solo,South_Delhi,South_Indian,0.232,475,2,South_Indian,lunch,weekday,none,monsoon,0.287,0,0.575,high,veg,0
+70,Coke,3,Beverages,group,South_Delhi,Desserts,0.309,294,1,Beverages,lunch,weekend,none,summer,0.377,0,0.714,low,veg,1
+30,Pizza,2,Fast_Food,solo,West_Delhi,Chinese,0.712,424,2,Fast_Food,snacks,weekday,none,summer,0.041,0,0.338,low,nonveg,0
+76,Lassi,3,Beverages,group,Gurgaon,Chinese,0.18,354,1,Beverages,lunch,weekend,festival,summer,0.184,0,0.81,high,dairy,0
+149,Papad,1,North_Indian,solo,West_Delhi,North_Indian,0.396,282,1,North_Indian,lunch,weekday,none,monsoon,0.438,4,0.47,medium,nonveg,1
+144,Nachos,1,Fast_Food,solo,Noida,Beverages,0.094,309,1,Fast_Food,snacks,weekday,festival,winter,0.108,5,0.206,medium,dairy,0
+179,Paneer Tikka,1,North_Indian,solo,Navi_Mumbai,Chinese,0.203,371,2,North_Indian,dinner,weekday,none,winter,0.539,5,0.584,medium,nonveg,0
+192,Papad,3,North_Indian,group,Gurgaon,Chinese,0.096,302,1,North_Indian,dinner,weekday,none,winter,0.446,1,0.723,medium,nonveg,0
+195,Biryani,1,North_Indian,solo,Gurgaon,Beverages,0.158,429,2,North_Indian,dinner,weekend,none,monsoon,0.509,1,0.15,medium,nonveg,1
+52,Papad,3,North_Indian,group,Gurgaon,Desserts,0.12,274,1,North_Indian,lunch,weekday,festival,summer,0.574,1,0.745,low,nonveg,0
+91,Nachos,2,Fast_Food,solo,Noida,South_Indian,0.335,460,3,Fast_Food,lunch,weekday,birthday,summer,0.318,0,0.596,low,veg,1
+195,Roti,1,North_Indian,solo,Gurgaon,Desserts,0.531,380,1,North_Indian,lunch,weekday,none,winter,0.3,0,0.75,medium,veg,1
+52,Raita,3,North_Indian,group,Gurgaon,North_Indian,0.539,486,3,North_Indian,dinner,weekday,none,monsoon,0.147,7,0.439,high,veg,1
+38,Pepsi,2,Beverages,solo,South_Delhi,Fast_Food,0.079,468,3,Beverages,snacks,weekday,birthday,summer,0.486,4,0.62,low,dairy,1
+191,Lassi,3,Beverages,group,Navi_Mumbai,Chinese,0.087,385,1,Beverages,snacks,weekday,none,monsoon,0.582,6,0.595,high,veg,0
+8,Salad,2,North_Indian,solo,West_Delhi,Desserts,0.413,526,3,North_Indian,lunch,weekend,none,winter,0.372,0,0.29,medium,nonveg,0
+133,Raita,1,North_Indian,solo,Gurgaon,Chinese,0.022,482,3,North_Indian,lunch,weekend,none,summer,0.285,2,0.35,high,veg,0
+28,Idli,2,South_Indian,solo,Navi_Mumbai,Chinese,0.464,269,1,South_Indian,lunch,weekday,none,winter,0.336,1,0.236,high,nonveg,0
+6,Fried Rice,1,Chinese,solo,South_Delhi,South_Indian,0.398,323,1,Chinese,snacks,weekday,none,summer,0.183,1,0.075,high,veg,0
+182,Salad,3,North_Indian,group,Gurgaon,Fast_Food,0.119,422,2,North_Indian,lunch,weekday,none,summer,0.55,10,0.8,low,veg,0
+98,Papad,1,North_Indian,solo,Navi_Mumbai,Beverages,0.394,208,1,North_Indian,breakfast,weekday,none,winter,0.305,8,0.477,medium,veg,0
+69,Kheer,4,Desserts,group,South_Delhi,Fast_Food,0.226,407,2,Desserts,dinner,weekend,none,summer,0.099,8,0.154,medium,dairy,1
+0,Pepsi,1,Beverages,solo,South_Delhi,Fast_Food,0.457,377,1,Beverages,dinner,weekday,none,summer,0.39,1,0.339,high,dairy,0
+0,Tea,1,Beverages,solo,South_Delhi,Fast_Food,0.444,403,2,Beverages,breakfast,weekend,none,winter,0.296,0,0.556,low,nonveg,0
+17,Raita,2,North_Indian,solo,West_Delhi,Beverages,0.436,408,2,North_Indian,snacks,weekend,none,monsoon,0.226,2,0.466,medium,nonveg,0
+56,Coke,1,Beverages,solo,Navi_Mumbai,North_Indian,0.506,463,3,Beverages,breakfast,weekday,festival,monsoon,0.752,0,0.489,low,dairy,0
+109,Pizza,1,Fast_Food,solo,South_Delhi,Chinese,0.343,371,1,Fast_Food,dinner,weekday,none,winter,0.288,3,0.416,low,veg,0
+109,Burger,1,Fast_Food,solo,South_Delhi,Desserts,0.171,270,1,Fast_Food,lunch,weekday,none,summer,0.59,9,0.543,medium,dairy,0
+177,Gulab Jamun,1,Desserts,solo,South_Delhi,North_Indian,0.242,525,3,Desserts,lunch,weekday,none,monsoon,0.167,1,0.575,medium,nonveg,1
+107,Brownie,3,Desserts,group,West_Delhi,North_Indian,0.075,258,1,Desserts,breakfast,weekday,none,monsoon,0.234,7,0.891,medium,veg,1
+107,Kheer,3,Desserts,group,West_Delhi,South_Indian,0.259,499,3,Desserts,dinner,weekday,none,monsoon,0.498,1,0.556,medium,nonveg,0
+82,Raita,1,North_Indian,solo,Gurgaon,Beverages,0.113,317,1,North_Indian,lunch,weekend,none,winter,0.135,0,0.163,high,nonveg,0
+64,Pepsi,1,Beverages,solo,Noida,South_Indian,0.263,290,1,Beverages,lunch,weekend,festival,summer,0.165,9,0.766,high,dairy,1
+138,Nachos,1,Fast_Food,solo,South_Delhi,Desserts,0.409,437,3,Fast_Food,dinner,weekend,birthday,summer,0.298,0,0.561,medium,nonveg,0
+193,Sambar,2,South_Indian,solo,Navi_Mumbai,South_Indian,0.522,344,1,South_Indian,lunch,weekend,festival,winter,0.26,4,0.388,low,veg,1
+109,Pizza,1,Fast_Food,solo,South_Delhi,Desserts,0.098,373,1,Fast_Food,dinner,weekend,none,monsoon,0.232,1,0.684,high,veg,1
+129,Nachos,2,Fast_Food,solo,West_Delhi,North_Indian,0.223,357,1,Fast_Food,dinner,weekday,none,monsoon,0.243,5,0.386,low,veg,1
+177,Choco Lava Cake,1,Desserts,solo,South_Delhi,Chinese,0.086,441,2,Desserts,dinner,weekend,none,monsoon,0.746,2,0.358,medium,veg,0
+150,Sambar,3,South_Indian,group,West_Delhi,Fast_Food,0.143,476,3,South_Indian,lunch,weekday,none,winter,0.413,4,0.195,low,nonveg,0
+101,Spring Roll,2,Chinese,solo,Gurgaon,Desserts,0.398,223,1,Chinese,lunch,weekday,none,winter,0.494,2,0.244,medium,dairy,0
+114,Salad,2,North_Indian,solo,Gurgaon,Chinese,0.203,302,1,North_Indian,lunch,weekday,none,winter,0.472,3,0.296,low,veg,0
+90,Rasgulla,1,Desserts,solo,South_Delhi,South_Indian,0.161,533,3,Desserts,breakfast,weekend,none,winter,0.026,2,0.519,high,veg,0
+29,Roti,1,North_Indian,solo,South_Delhi,Desserts,0.119,561,4,North_Indian,snacks,weekend,none,winter,0.36,11,0.338,medium,nonveg,0
+175,Burger,1,Fast_Food,solo,South_Delhi,North_Indian,0.636,416,2,Fast_Food,lunch,weekday,none,winter,0.219,1,0.416,low,veg,0
+152,Cold Coffee,1,Beverages,solo,Navi_Mumbai,North_Indian,0.062,419,2,Beverages,lunch,weekday,none,winter,0.432,3,0.21,low,veg,0
+45,Pizza,2,Fast_Food,solo,West_Delhi,Desserts,0.343,520,3,Fast_Food,dinner,weekday,birthday,winter,0.522,1,0.789,low,veg,0
+74,Spring Roll,2,Chinese,solo,West_Delhi,Desserts,0.454,382,1,Chinese,dinner,weekend,none,monsoon,0.799,0,0.464,medium,veg,1
+17,Roti,2,North_Indian,solo,West_Delhi,Chinese,0.378,514,3,North_Indian,lunch,weekend,none,summer,0.485,1,0.484,medium,veg,0
+83,Paneer Tikka,1,North_Indian,solo,Navi_Mumbai,North_Indian,0.268,325,1,North_Indian,dinner,weekend,none,winter,0.399,0,0.452,low,nonveg,0
+162,Hakka Noodles,2,Chinese,solo,South_Delhi,Chinese,0.18,369,1,Chinese,dinner,weekend,none,winter,0.158,0,0.645,medium,nonveg,0
+137,Pizza,2,Fast_Food,solo,Navi_Mumbai,Desserts,0.34,594,4,Fast_Food,snacks,weekend,none,monsoon,0.042,6,0.791,high,nonveg,1
+146,Idli,2,South_Indian,solo,Noida,Fast_Food,0.362,356,1,South_Indian,dinner,weekday,none,winter,0.501,0,0.413,medium,nonveg,0
+160,Ice Cream,1,Desserts,solo,South_Delhi,Beverages,0.231,372,2,Desserts,snacks,weekday,none,monsoon,0.076,4,0.32,medium,nonveg,1
+172,Chilli Paneer,2,Chinese,solo,West_Delhi,Fast_Food,0.432,384,2,Chinese,breakfast,weekday,none,summer,0.151,0,0.61,low,dairy,0
+19,Burger,1,Fast_Food,solo,Noida,Desserts,0.443,338,2,Fast_Food,lunch,weekday,anniversary,monsoon,0.641,0,0.601,medium,veg,0
+57,Chilli Paneer,1,Chinese,solo,Navi_Mumbai,North_Indian,0.319,353,1,Chinese,lunch,weekday,none,winter,0.461,4,0.594,medium,dairy,1
+0,Pepsi,1,Beverages,solo,South_Delhi,South_Indian,0.355,421,3,Beverages,lunch,weekend,none,winter,0.319,0,0.42,low,dairy,0
+59,Biryani,1,North_Indian,solo,West_Delhi,North_Indian,0.548,561,4,North_Indian,snacks,weekend,none,summer,0.277,1,0.562,low,veg,0
+36,Chutney,1,South_Indian,solo,West_Delhi,Fast_Food,0.277,448,2,South_Indian,lunch,weekday,none,monsoon,0.506,1,0.106,low,veg,0
+179,Papad,1,North_Indian,solo,Navi_Mumbai,Chinese,0.365,424,2,North_Indian,dinner,weekend,none,summer,0.359,1,0.196,high,veg,0
+164,Choco Lava Cake,1,Desserts,solo,Navi_Mumbai,Desserts,0.625,261,1,Desserts,dinner,weekday,anniversary,monsoon,0.066,0,0.354,medium,nonveg,0
+196,Rasgulla,2,Desserts,solo,Noida,Chinese,0.27,349,2,Desserts,lunch,weekday,none,summer,0.146,3,0.738,medium,egg,1
+58,Chilli Paneer,1,Chinese,solo,Gurgaon,South_Indian,0.105,482,2,Chinese,breakfast,weekend,none,winter,0.109,1,0.565,high,nonveg,0
+87,Garlic Bread,2,Fast_Food,solo,Gurgaon,Chinese,0.295,504,3,Fast_Food,snacks,weekday,none,monsoon,0.241,22,0.812,high,veg,0
+156,Choco Lava Cake,2,Desserts,solo,Navi_Mumbai,South_Indian,0.188,234,1,Desserts,dinner,weekend,anniversary,winter,0.325,2,0.632,medium,veg,1
+124,Manchurian,1,Chinese,solo,Noida,South_Indian,0.224,367,2,Chinese,snacks,weekday,none,monsoon,0.348,0,0.229,medium,nonveg,0
+90,Ice Cream,1,Desserts,solo,South_Delhi,Chinese,0.284,302,1,Desserts,dinner,weekday,none,summer,0.609,5,0.346,medium,nonveg,1
+51,Spring Roll,3,Chinese,group,Noida,South_Indian,0.161,490,2,Chinese,lunch,weekend,none,summer,0.193,7,0.44,low,egg,0
+34,Manchurian,4,Chinese,group,Gurgaon,South_Indian,0.189,510,3,Chinese,snacks,weekday,festival,winter,0.52,5,0.398,medium,veg,0
+48,Pizza,2,Fast_Food,solo,West_Delhi,Desserts,0.349,291,1,Fast_Food,breakfast,weekday,none,summer,0.358,2,0.712,medium,veg,0
+78,Choco Lava Cake,1,Desserts,solo,South_Delhi,North_Indian,0.239,457,2,Desserts,snacks,weekday,none,summer,0.538,13,0.43,high,veg,0
+176,Manchurian,2,Chinese,solo,Navi_Mumbai,Desserts,0.426,364,2,Chinese,breakfast,weekday,none,monsoon,0.344,7,0.246,medium,veg,1
+28,Upma,2,South_Indian,solo,Navi_Mumbai,Beverages,0.159,388,2,South_Indian,snacks,weekday,none,winter,0.222,0,0.543,low,veg,0
+98,Paneer Tikka,1,North_Indian,solo,Navi_Mumbai,North_Indian,0.348,341,2,North_Indian,lunch,weekend,none,summer,0.251,5,0.455,low,veg,1
+119,Paneer Tikka,2,North_Indian,solo,Noida,North_Indian,0.115,422,2,North_Indian,snacks,weekend,festival,winter,0.536,10,0.446,medium,veg,0
+68,Kheer,1,Desserts,solo,Gurgaon,North_Indian,0.261,476,3,Desserts,lunch,weekday,festival,winter,0.119,1,0.166,medium,veg,0
+178,Sandwich,3,Fast_Food,group,Navi_Mumbai,Beverages,0.497,329,1,Fast_Food,lunch,weekend,none,monsoon,0.698,9,0.686,high,veg,1
+169,Vada,2,South_Indian,solo,Gurgaon,South_Indian,0.17,557,4,South_Indian,lunch,weekday,none,winter,0.057,4,0.693,medium,dairy,1
+142,Spring Roll,2,Chinese,solo,South_Delhi,Chinese,0.221,475,2,Chinese,breakfast,weekend,none,summer,0.574,0,0.732,medium,egg,0
+199,Chutney,3,South_Indian,group,South_Delhi,South_Indian,0.23,359,2,South_Indian,snacks,weekday,festival,summer,0.285,2,0.317,low,veg,0
+140,Fried Rice,4,Chinese,group,Noida,Beverages,0.389,345,1,Chinese,dinner,weekday,none,monsoon,0.299,0,0.715,low,veg,1
+43,Milkshake,3,Beverages,group,Navi_Mumbai,North_Indian,0.525,458,3,Beverages,lunch,weekend,none,monsoon,0.442,3,0.496,low,nonveg,0
+2,Salad,2,North_Indian,solo,West_Delhi,Fast_Food,0.08,393,1,North_Indian,dinner,weekday,none,monsoon,0.127,2,0.751,low,nonveg,1
+124,Hakka Noodles,1,Chinese,solo,Noida,Fast_Food,0.289,504,3,Chinese,snacks,weekday,none,monsoon,0.532,0,0.622,low,veg,0
+143,Biryani,1,North_Indian,solo,Noida,Fast_Food,0.238,641,4,North_Indian,dinner,weekday,none,winter,0.717,2,0.586,low,veg,1
+192,Roti,3,North_Indian,group,Gurgaon,Beverages,0.372,542,3,North_Indian,lunch,weekend,none,summer,0.484,2,0.308,high,nonveg,0
+50,Biryani,4,North_Indian,group,Noida,Beverages,0.432,454,3,North_Indian,lunch,weekday,none,summer,0.394,5,0.252,low,veg,0
+4,Coke,1,Beverages,solo,Navi_Mumbai,North_Indian,0.332,576,4,Beverages,lunch,weekday,none,monsoon,0.845,3,0.511,low,veg,0
+84,Ice Cream,1,Desserts,solo,South_Delhi,South_Indian,0.035,409,2,Desserts,snacks,weekday,none,summer,0.291,1,0.729,high,nonveg,1
+142,Chilli Paneer,2,Chinese,solo,South_Delhi,Beverages,0.406,535,3,Chinese,dinner,weekend,none,monsoon,0.298,4,0.414,medium,veg,0
+58,Chilli Paneer,1,Chinese,solo,Gurgaon,Chinese,0.225,522,3,Chinese,dinner,weekend,none,monsoon,0.546,0,0.229,low,veg,0
+162,Spring Roll,2,Chinese,solo,South_Delhi,Fast_Food,0.134,484,2,Chinese,lunch,weekend,none,summer,0.358,1,0.423,low,veg,0
+24,Kheer,2,Desserts,solo,South_Delhi,Desserts,0.093,344,1,Desserts,snacks,weekend,none,winter,0.092,0,0.463,medium,dairy,0
+114,Biryani,2,North_Indian,solo,Gurgaon,Fast_Food,0.193,464,3,North_Indian,dinner,weekday,none,monsoon,0.307,1,0.616,low,egg,0
+27,Cold Coffee,2,Beverages,solo,Navi_Mumbai,South_Indian,0.442,422,2,Beverages,lunch,weekday,festival,monsoon,0.037,1,0.865,medium,nonveg,1
+108,Brownie,1,Desserts,solo,West_Delhi,Fast_Food,0.334,597,4,Desserts,lunch,weekend,anniversary,monsoon,0.009,2,0.643,high,egg,1
+130,Papad,2,North_Indian,solo,West_Delhi,Beverages,0.02,432,3,North_Indian,dinner,weekday,none,monsoon,0.519,2,0.557,high,dairy,1
+20,Garlic Bread,2,Fast_Food,solo,Gurgaon,North_Indian,0.275,453,2,Fast_Food,lunch,weekday,none,summer,0.264,1,0.422,medium,nonveg,0
+90,Gulab Jamun,1,Desserts,solo,South_Delhi,Desserts,0.177,427,2,Desserts,dinner,weekday,none,summer,0.195,1,0.233,high,veg,1
+29,Roti,1,North_Indian,solo,South_Delhi,North_Indian,0.027,338,1,North_Indian,snacks,weekday,none,monsoon,0.286,4,0.457,high,veg,0
+86,Chilli Paneer,2,Chinese,solo,South_Delhi,South_Indian,0.152,543,2,Chinese,lunch,weekday,none,winter,0.562,4,0.475,low,veg,0
+57,Manchurian,1,Chinese,solo,Navi_Mumbai,Chinese,0.167,320,1,Chinese,snacks,weekday,none,summer,0.306,1,0.197,low,veg,0
+166,Fries,1,Fast_Food,solo,Noida,Chinese,0.403,461,3,Fast_Food,breakfast,weekday,none,winter,0.528,1,0.723,medium,nonveg,1
+45,Sandwich,2,Fast_Food,solo,West_Delhi,North_Indian,0.597,530,4,Fast_Food,snacks,weekday,none,monsoon,0.302,3,0.512,low,nonveg,0
+127,Burger,3,Fast_Food,group,Noida,South_Indian,0.413,344,1,Fast_Food,dinner,weekday,none,monsoon,0.15,3,0.193,low,egg,0
+190,Cheesy Dip,1,Fast_Food,solo,South_Delhi,Fast_Food,0.137,315,1,Fast_Food,dinner,weekday,none,monsoon,0.332,2,0.338,high,veg,0
+81,Choco Lava Cake,2,Desserts,solo,West_Delhi,Fast_Food,0.512,404,2,Desserts,dinner,weekday,none,summer,0.515,11,0.461,low,nonveg,1
+158,Ice Cream,1,Desserts,solo,South_Delhi,Chinese,0.569,322,1,Desserts,lunch,weekday,festival,winter,0.183,4,0.451,low,dairy,1
+43,Tea,3,Beverages,group,Navi_Mumbai,Chinese,0.513,380,2,Beverages,snacks,weekend,none,summer,0.212,8,0.395,high,dairy,0
+147,Cold Coffee,2,Beverages,solo,Navi_Mumbai,Fast_Food,0.526,453,2,Beverages,lunch,weekday,none,monsoon,0.375,1,0.486,low,veg,1
+62,Burger,3,Fast_Food,group,West_Delhi,Fast_Food,0.594,471,3,Fast_Food,snacks,weekday,none,winter,0.322,1,0.5,medium,veg,0
+184,Spring Roll,1,Chinese,solo,Navi_Mumbai,Beverages,0.126,523,4,Chinese,lunch,weekday,none,winter,0.213,5,0.541,low,nonveg,0
+0,Tea,1,Beverages,solo,South_Delhi,Fast_Food,0.292,456,3,Beverages,dinner,weekend,none,monsoon,0.389,5,0.925,medium,nonveg,0
+14,Dosa,1,South_Indian,solo,South_Delhi,North_Indian,0.132,409,2,South_Indian,lunch,weekday,none,summer,0.317,2,0.684,high,egg,0
+120,Chilli Paneer,3,Chinese,group,West_Delhi,Chinese,0.088,448,2,Chinese,lunch,weekend,none,winter,0.438,0,0.617,low,nonveg,0
+114,Biryani,2,North_Indian,solo,Gurgaon,Fast_Food,0.268,435,2,North_Indian,dinner,weekend,none,monsoon,0.05,5,0.293,low,veg,0
+156,Brownie,2,Desserts,solo,Navi_Mumbai,Desserts,0.121,434,2,Desserts,dinner,weekend,none,monsoon,0.209,2,0.881,low,dairy,1
+153,Nachos,2,Fast_Food,solo,Gurgaon,Fast_Food,0.399,506,3,Fast_Food,dinner,weekend,none,summer,0.06,1,0.637,high,dairy,0
+126,Lassi,3,Beverages,group,South_Delhi,Fast_Food,0.332,522,3,Beverages,dinner,weekday,festival,summer,0.192,5,0.518,medium,veg,0
+95,Kheer,2,Desserts,solo,West_Delhi,North_Indian,0.499,478,2,Desserts,snacks,weekend,none,monsoon,0.282,5,0.303,medium,veg,0
+107,Ice Cream,3,Desserts,group,West_Delhi,Fast_Food,0.568,426,3,Desserts,dinner,weekend,none,winter,0.418,18,0.798,low,veg,0
+141,Fried Rice,1,Chinese,solo,West_Delhi,Desserts,0.208,523,3,Chinese,lunch,weekday,none,summer,0.101,2,0.833,high,nonveg,0
+120,Chilli Paneer,3,Chinese,group,West_Delhi,Chinese,0.137,387,2,Chinese,breakfast,weekend,none,monsoon,0.548,4,0.538,high,veg,0
+58,Chilli Paneer,1,Chinese,solo,Gurgaon,South_Indian,0.413,458,2,Chinese,snacks,weekend,birthday,winter,0.425,4,0.762,high,nonveg,1
+151,Cheesy Dip,1,Fast_Food,solo,Navi_Mumbai,Beverages,0.021,511,3,Fast_Food,lunch,weekend,none,summer,0.387,2,0.434,low,nonveg,0
+93,Papad,2,North_Indian,solo,West_Delhi,Beverages,0.633,631,4,North_Indian,snacks,weekday,none,monsoon,0.212,1,0.224,medium,dairy,0
+177,Gulab Jamun,1,Desserts,solo,South_Delhi,Desserts,0.286,291,1,Desserts,dinner,weekday,none,monsoon,0.65,1,0.409,high,dairy,1
+3,Paneer Tikka,2,North_Indian,solo,South_Delhi,Fast_Food,0.079,392,1,North_Indian,lunch,weekday,none,summer,0.704,0,0.525,low,veg,1
+43,Milkshake,3,Beverages,group,Navi_Mumbai,North_Indian,0.173,297,1,Beverages,lunch,weekday,none,summer,0.154,2,0.334,medium,veg,0
+76,Lassi,3,Beverages,group,Gurgaon,Desserts,0.263,454,3,Beverages,lunch,weekend,none,monsoon,0.245,0,0.525,high,veg,0
+162,Chilli Paneer,2,Chinese,solo,South_Delhi,Chinese,0.325,391,2,Chinese,snacks,weekday,none,winter,0.46,10,0.282,low,nonveg,0
+128,Coke,1,Beverages,solo,Gurgaon,Beverages,0.231,304,1,Beverages,lunch,weekday,festival,winter,0.221,1,0.603,medium,dairy,1
+151,Cheesy Dip,1,Fast_Food,solo,Navi_Mumbai,Chinese,0.155,365,2,Fast_Food,dinner,weekend,none,winter,0.22,1,0.774,high,veg,1
+34,Fried Rice,4,Chinese,group,Gurgaon,South_Indian,0.173,315,1,Chinese,dinner,weekday,none,monsoon,0.072,6,0.486,low,veg,1
+18,Sambar,2,South_Indian,solo,South_Delhi,Chinese,0.249,508,3,South_Indian,snacks,weekday,none,summer,0.637,0,0.478,low,veg,0
+29,Salad,1,North_Indian,solo,South_Delhi,Desserts,0.236,416,2,North_Indian,snacks,weekend,none,monsoon,0.378,0,0.279,medium,veg,0
+177,Ice Cream,1,Desserts,solo,South_Delhi,Fast_Food,0.332,257,1,Desserts,breakfast,weekday,none,monsoon,0.441,0,0.497,high,nonveg,0
+12,Manchurian,3,Chinese,group,West_Delhi,North_Indian,0.555,344,1,Chinese,lunch,weekday,none,monsoon,0.543,3,0.68,medium,veg,0
+142,Hakka Noodles,2,Chinese,solo,South_Delhi,Fast_Food,0.413,469,3,Chinese,dinner,weekday,none,winter,0.548,0,0.289,low,veg,1
+80,Pepsi,3,Beverages,group,Navi_Mumbai,Chinese,0.115,614,4,Beverages,lunch,weekday,none,monsoon,0.419,2,0.518,medium,dairy,0
+199,Chutney,3,South_Indian,group,South_Delhi,North_Indian,0.521,377,2,South_Indian,lunch,weekend,none,monsoon,0.1,0,0.527,high,veg,0
+131,Ice Cream,1,Desserts,solo,Noida,South_Indian,0.297,368,2,Desserts,dinner,weekday,none,winter,0.48,2,0.402,low,dairy,0
+91,Pizza,2,Fast_Food,solo,Noida,Fast_Food,0.196,518,4,Fast_Food,dinner,weekday,none,summer,0.641,3,0.205,medium,veg,0
+63,Lassi,1,Beverages,solo,West_Delhi,Chinese,0.099,409,2,Beverages,lunch,weekday,anniversary,winter,0.241,1,0.325,low,veg,0
+98,Papad,1,North_Indian,solo,Navi_Mumbai,South_Indian,0.419,287,1,North_Indian,snacks,weekday,none,summer,0.039,1,0.659,high,veg,1
+74,Fried Rice,2,Chinese,solo,West_Delhi,Fast_Food,0.403,350,1,Chinese,snacks,weekday,none,summer,0.168,0,0.133,low,nonveg,0
+144,Garlic Bread,1,Fast_Food,solo,Noida,Chinese,0.315,389,2,Fast_Food,dinner,weekend,none,monsoon,0.315,4,0.615,medium,nonveg,1
+164,Kheer,1,Desserts,solo,Navi_Mumbai,Desserts,0.282,283,1,Desserts,snacks,weekend,none,winter,0.295,2,0.653,medium,veg,0
+125,Coke,2,Beverages,solo,South_Delhi,Fast_Food,0.391,288,1,Beverages,dinner,weekend,none,summer,0.16,0,0.593,medium,egg,0
+31,Vada,1,South_Indian,solo,South_Delhi,Desserts,0.287,423,2,South_Indian,dinner,weekend,festival,summer,0.311,8,0.432,medium,nonveg,0
+182,Raita,3,North_Indian,group,Gurgaon,Desserts,0.253,411,2,North_Indian,dinner,weekend,none,winter,0.274,1,0.254,medium,veg,1
+104,Papad,3,North_Indian,group,West_Delhi,Chinese,0.545,473,2,North_Indian,lunch,weekend,none,summer,0.634,3,0.681,high,veg,0
+190,Fries,1,Fast_Food,solo,South_Delhi,Chinese,0.27,553,4,Fast_Food,snacks,weekday,none,winter,0.47,7,0.656,medium,veg,1
+22,Dosa,1,South_Indian,solo,South_Delhi,Beverages,0.474,535,3,South_Indian,dinner,weekend,none,monsoon,0.159,0,0.604,low,veg,0
+72,Idli,1,South_Indian,solo,Gurgaon,Desserts,0.179,596,4,South_Indian,dinner,weekday,anniversary,monsoon,0.306,0,0.411,medium,dairy,1
+156,Rasgulla,2,Desserts,solo,Navi_Mumbai,Beverages,0.517,260,1,Desserts,snacks,weekday,none,winter,0.277,5,0.372,high,nonveg,1
+120,Fried Rice,3,Chinese,group,West_Delhi,North_Indian,0.363,333,1,Chinese,dinner,weekend,none,winter,0.542,3,0.74,high,nonveg,1
+154,Fries,4,Fast_Food,group,South_Delhi,South_Indian,0.123,564,4,Fast_Food,lunch,weekend,none,winter,0.475,0,0.098,high,veg,0
+102,Fried Rice,1,Chinese,solo,Navi_Mumbai,Fast_Food,0.34,495,3,Chinese,lunch,weekday,anniversary,summer,0.395,3,0.184,medium,nonveg,0
+100,Milkshake,1,Beverages,solo,Gurgaon,South_Indian,0.157,398,2,Beverages,snacks,weekday,anniversary,winter,0.307,10,0.417,low,veg,0
+62,Fries,3,Fast_Food,group,West_Delhi,Chinese,0.085,325,1,Fast_Food,lunch,weekday,none,summer,0.558,6,0.563,high,veg,0
+56,Lassi,1,Beverages,solo,Navi_Mumbai,South_Indian,0.506,344,1,Beverages,snacks,weekend,festival,summer,0.746,2,0.55,low,nonveg,0
+20,Nachos,2,Fast_Food,solo,Gurgaon,Beverages,0.055,391,2,Fast_Food,dinner,weekday,none,winter,0.533,0,0.444,low,veg,0
+138,Sandwich,1,Fast_Food,solo,South_Delhi,Desserts,0.166,425,2,Fast_Food,breakfast,weekday,none,summer,0.337,0,0.295,medium,dairy,0
+124,Spring Roll,1,Chinese,solo,Noida,Fast_Food,0.212,324,1,Chinese,lunch,weekday,none,summer,0.265,0,0.528,medium,dairy,0
+49,Brownie,1,Desserts,solo,Gurgaon,Fast_Food,0.255,572,4,Desserts,breakfast,weekday,none,winter,0.563,0,0.157,medium,veg,1
+105,Fries,1,Fast_Food,solo,Gurgaon,Desserts,0.526,373,2,Fast_Food,dinner,weekday,none,winter,0.465,4,0.317,medium,veg,1
+144,Cheesy Dip,1,Fast_Food,solo,Noida,South_Indian,0.276,327,2,Fast_Food,dinner,weekday,none,winter,0.224,5,0.466,medium,veg,0
+144,Fries,1,Fast_Food,solo,Noida,Chinese,0.486,603,4,Fast_Food,lunch,weekend,none,monsoon,0.111,3,0.28,low,veg,0
+171,Raita,1,North_Indian,solo,Gurgaon,North_Indian,0.2,532,3,North_Indian,snacks,weekday,none,winter,0.267,2,0.512,medium,veg,0
+156,Brownie,2,Desserts,solo,Navi_Mumbai,Desserts,0.343,336,2,Desserts,lunch,weekday,none,monsoon,0.19,1,0.276,medium,nonveg,0
+183,Idli,3,South_Indian,group,West_Delhi,Chinese,0.191,274,1,South_Indian,lunch,weekday,none,winter,0.577,3,0.613,low,nonveg,1
+106,Burger,2,Fast_Food,solo,Navi_Mumbai,Chinese,0.12,352,1,Fast_Food,snacks,weekday,none,winter,0.129,0,0.878,medium,veg,0
+64,Lassi,1,Beverages,solo,Noida,Beverages,0.196,428,2,Beverages,breakfast,weekday,none,monsoon,0.265,3,0.726,low,nonveg,0
+155,Choco Lava Cake,1,Desserts,solo,Noida,Chinese,0.076,561,3,Desserts,dinner,weekend,none,monsoon,0.331,2,0.469,medium,veg,0
+166,Cheesy Dip,1,Fast_Food,solo,Noida,North_Indian,0.455,441,2,Fast_Food,lunch,weekend,none,winter,0.346,1,0.798,high,nonveg,0
+195,Dal Makhani,1,North_Indian,solo,Gurgaon,South_Indian,0.383,333,1,North_Indian,dinner,weekday,none,winter,0.243,2,0.148,medium,dairy,0
+70,Lassi,3,Beverages,group,South_Delhi,Fast_Food,0.565,501,3,Beverages,dinner,weekday,birthday,monsoon,0.28,4,0.646,medium,veg,0
+171,Roti,1,North_Indian,solo,Gurgaon,Desserts,0.312,383,1,North_Indian,dinner,weekend,anniversary,monsoon,0.322,7,0.414,medium,nonveg,1
+42,Fried Rice,1,Chinese,solo,Gurgaon,Beverages,0.223,373,2,Chinese,dinner,weekday,none,monsoon,0.282,2,0.756,low,dairy,1
+7,Pizza,3,Fast_Food,group,South_Delhi,Beverages,0.522,330,1,Fast_Food,breakfast,weekday,festival,winter,0.676,5,0.1,low,veg,0
+90,Choco Lava Cake,1,Desserts,solo,South_Delhi,North_Indian,0.345,422,2,Desserts,dinner,weekday,none,winter,0.096,2,0.569,low,nonveg,0
+41,Papad,2,North_Indian,solo,Noida,South_Indian,0.26,429,2,North_Indian,dinner,weekday,none,monsoon,0.139,1,0.635,medium,veg,1
+98,Biryani,1,North_Indian,solo,Navi_Mumbai,Chinese,0.375,384,1,North_Indian,snacks,weekend,none,monsoon,0.405,1,0.658,low,veg,1
+129,Garlic Bread,2,Fast_Food,solo,West_Delhi,North_Indian,0.199,397,1,Fast_Food,snacks,weekday,none,monsoon,0.022,0,0.361,high,veg,0
+198,Fries,3,Fast_Food,group,Noida,North_Indian,0.296,579,4,Fast_Food,lunch,weekday,festival,winter,0.55,1,0.175,high,nonveg,1
+29,Salad,1,North_Indian,solo,South_Delhi,North_Indian,0.312,465,3,North_Indian,dinner,weekday,none,monsoon,0.413,0,0.935,high,veg,1
+45,Garlic Bread,2,Fast_Food,solo,West_Delhi,Chinese,0.27,331,1,Fast_Food,lunch,weekday,none,summer,0.361,5,0.677,medium,veg,1
+190,Garlic Bread,1,Fast_Food,solo,South_Delhi,Desserts,0.282,464,2,Fast_Food,snacks,weekday,festival,winter,0.097,1,0.547,medium,dairy,0
+146,Upma,2,South_Indian,solo,Noida,Chinese,0.112,433,2,South_Indian,lunch,weekend,festival,monsoon,0.295,4,0.722,high,nonveg,1
+95,Kheer,2,Desserts,solo,West_Delhi,Beverages,0.409,365,2,Desserts,breakfast,weekday,none,winter,0.578,0,0.237,low,dairy,0
+23,Tea,1,Beverages,solo,Noida,Fast_Food,0.372,477,3,Beverages,lunch,weekday,none,winter,0.408,3,0.665,medium,veg,0
+38,Cold Coffee,2,Beverages,solo,South_Delhi,Desserts,0.335,518,3,Beverages,dinner,weekend,anniversary,monsoon,0.202,1,0.091,low,veg,0
+80,Cold Coffee,3,Beverages,group,Navi_Mumbai,Fast_Food,0.36,406,2,Beverages,lunch,weekday,festival,summer,0.799,0,0.536,medium,veg,0
+72,Idli,1,South_Indian,solo,Gurgaon,Beverages,0.353,348,1,South_Indian,dinner,weekday,none,monsoon,0.592,11,0.592,medium,veg,1
+23,Lassi,1,Beverages,solo,Noida,North_Indian,0.46,324,1,Beverages,lunch,weekday,festival,monsoon,0.186,8,0.639,medium,nonveg,1
+98,Raita,1,North_Indian,solo,Navi_Mumbai,Fast_Food,0.374,296,1,North_Indian,lunch,weekday,none,monsoon,0.181,0,0.725,medium,veg,1
+52,Salad,3,North_Indian,group,Gurgaon,Beverages,0.412,335,1,North_Indian,dinner,weekday,festival,monsoon,0.338,6,0.408,high,nonveg,0
+49,Ice Cream,1,Desserts,solo,Gurgaon,South_Indian,0.491,410,2,Desserts,snacks,weekday,none,winter,0.652,1,0.444,low,veg,0
+86,Hakka Noodles,2,Chinese,solo,South_Delhi,Fast_Food,0.321,432,2,Chinese,dinner,weekday,festival,summer,0.381,0,0.72,high,veg,0
+105,Fries,1,Fast_Food,solo,Gurgaon,North_Indian,0.492,333,1,Fast_Food,lunch,weekday,none,monsoon,0.43,3,0.58,medium,veg,0
+113,Nachos,3,Fast_Food,group,Navi_Mumbai,Desserts,0.081,465,2,Fast_Food,breakfast,weekday,anniversary,monsoon,0.189,0,0.427,medium,nonveg,0
+0,Tea,1,Beverages,solo,South_Delhi,Beverages,0.427,434,2,Beverages,dinner,weekend,none,monsoon,0.684,1,0.424,low,veg,0
+125,Pepsi,2,Beverages,solo,South_Delhi,Chinese,0.161,353,1,Beverages,lunch,weekend,none,winter,0.459,7,0.269,medium,dairy,0
+84,Ice Cream,1,Desserts,solo,South_Delhi,Chinese,0.176,450,2,Desserts,lunch,weekday,none,monsoon,0.29,3,0.488,medium,veg,0
+114,Raita,2,North_Indian,solo,Gurgaon,Beverages,0.013,367,2,North_Indian,dinner,weekday,none,monsoon,0.357,0,0.695,high,nonveg,0
+57,Fried Rice,1,Chinese,solo,Navi_Mumbai,South_Indian,0.476,609,4,Chinese,lunch,weekend,none,summer,0.205,0,0.682,medium,nonveg,1
+69,Ice Cream,4,Desserts,group,South_Delhi,Fast_Food,0.147,455,2,Desserts,lunch,weekend,none,winter,0.45,1,0.604,low,nonveg,0
+9,Ice Cream,2,Desserts,solo,Navi_Mumbai,Fast_Food,0.213,488,3,Desserts,lunch,weekday,none,summer,0.328,5,0.293,low,egg,0
+82,Papad,1,North_Indian,solo,Gurgaon,Beverages,0.272,386,2,North_Indian,lunch,weekend,none,summer,0.131,0,0.738,low,veg,1
+60,Brownie,1,Desserts,solo,Noida,South_Indian,0.264,398,2,Desserts,snacks,weekend,none,winter,0.282,0,0.665,medium,nonveg,0
+174,Spring Roll,2,Chinese,solo,Gurgaon,North_Indian,0.215,495,2,Chinese,lunch,weekend,none,monsoon,0.626,0,0.592,medium,veg,0
+163,Ice Cream,2,Desserts,solo,West_Delhi,South_Indian,0.206,312,1,Desserts,dinner,weekday,none,winter,0.195,1,0.682,medium,veg,1
+106,Pizza,2,Fast_Food,solo,Navi_Mumbai,Chinese,0.487,370,2,Fast_Food,dinner,weekend,none,monsoon,0.05,1,0.934,medium,dairy,0
+44,Salad,1,North_Indian,solo,Gurgaon,Chinese,0.281,484,3,North_Indian,snacks,weekday,anniversary,winter,0.092,1,0.137,medium,veg,0
+19,Pizza,1,Fast_Food,solo,Noida,South_Indian,0.197,344,1,Fast_Food,dinner,weekday,none,summer,0.269,0,0.511,low,veg,1
+141,Hakka Noodles,1,Chinese,solo,West_Delhi,Fast_Food,0.135,442,3,Chinese,dinner,weekday,none,winter,0.582,0,0.587,high,nonveg,1
+40,Choco Lava Cake,1,Desserts,solo,West_Delhi,Fast_Food,0.227,491,3,Desserts,dinner,weekend,none,monsoon,0.069,0,0.634,medium,veg,0
+141,Fried Rice,1,Chinese,solo,West_Delhi,Beverages,0.445,239,1,Chinese,dinner,weekend,none,summer,0.457,8,0.49,low,veg,1
+79,Tea,1,Beverages,solo,Gurgaon,North_Indian,0.22,449,2,Beverages,snacks,weekday,none,monsoon,0.222,3,0.425,low,nonveg,1
+17,Roti,2,North_Indian,solo,West_Delhi,South_Indian,0.543,536,3,North_Indian,lunch,weekday,festival,monsoon,0.112,2,0.617,high,veg,0
+56,Milkshake,1,Beverages,solo,Navi_Mumbai,Chinese,0.125,440,2,Beverages,lunch,weekday,none,summer,0.373,0,0.757,low,nonveg,1
+132,Papad,1,North_Indian,solo,Noida,Chinese,0.484,300,1,North_Indian,lunch,weekday,none,monsoon,0.439,2,0.421,medium,veg,0
+89,Burger,2,Fast_Food,solo,West_Delhi,North_Indian,0.346,278,1,Fast_Food,dinner,weekend,none,monsoon,0.411,8,0.783,medium,nonveg,1
+69,Choco Lava Cake,4,Desserts,group,South_Delhi,Chinese,0.512,382,2,Desserts,lunch,weekend,festival,winter,0.044,7,0.683,medium,veg,1
+11,Biryani,4,North_Indian,group,Navi_Mumbai,Beverages,0.474,328,1,North_Indian,snacks,weekend,none,monsoon,0.387,3,0.608,low,veg,0
+121,Burger,3,Fast_Food,group,South_Delhi,Chinese,0.415,339,1,Fast_Food,lunch,weekday,none,monsoon,0.056,1,0.657,low,veg,1
+159,Dal Makhani,2,North_Indian,solo,South_Delhi,Chinese,0.27,387,1,North_Indian,dinner,weekend,none,summer,0.45,2,0.511,low,veg,1
+110,Cold Coffee,1,Beverages,solo,South_Delhi,North_Indian,0.468,460,2,Beverages,lunch,weekday,none,summer,0.169,3,0.674,high,veg,0
+163,Brownie,2,Desserts,solo,West_Delhi,Beverages,0.078,289,1,Desserts,lunch,weekend,none,summer,0.202,0,0.51,medium,veg,0
+59,Raita,1,North_Indian,solo,West_Delhi,Fast_Food,0.26,294,1,North_Indian,lunch,weekend,none,monsoon,0.219,2,0.695,low,nonveg,0
+59,Roti,1,North_Indian,solo,West_Delhi,South_Indian,0.391,472,2,North_Indian,dinner,weekday,none,winter,0.181,1,0.27,medium,nonveg,0
+87,Burger,2,Fast_Food,solo,Gurgaon,Chinese,0.528,291,1,Fast_Food,dinner,weekend,none,summer,0.458,1,0.646,high,veg,0
+56,Lassi,1,Beverages,solo,Navi_Mumbai,Beverages,0.213,375,2,Beverages,dinner,weekday,none,winter,0.504,1,0.419,medium,nonveg,1
+180,Upma,1,South_Indian,solo,West_Delhi,Beverages,0.114,535,3,South_Indian,dinner,weekend,anniversary,winter,0.039,2,0.497,low,dairy,1
+84,Kheer,1,Desserts,solo,South_Delhi,Chinese,0.439,360,1,Desserts,dinner,weekday,festival,monsoon,0.517,0,0.545,high,veg,1
+76,Milkshake,3,Beverages,group,Gurgaon,Desserts,0.118,488,2,Beverages,lunch,weekend,none,summer,0.114,0,0.479,low,veg,0
+47,Manchurian,2,Chinese,solo,Gurgaon,South_Indian,0.212,306,1,Chinese,dinner,weekend,none,winter,0.126,0,0.496,medium,veg,0
+98,Raita,1,North_Indian,solo,Navi_Mumbai,North_Indian,0.694,483,3,North_Indian,dinner,weekend,none,monsoon,0.491,0,0.721,medium,veg,1
+160,Choco Lava Cake,1,Desserts,solo,South_Delhi,South_Indian,0.228,336,1,Desserts,breakfast,weekday,none,monsoon,0.728,5,0.431,low,veg,0
+154,Sandwich,4,Fast_Food,group,South_Delhi,Fast_Food,0.159,453,2,Fast_Food,lunch,weekend,none,monsoon,0.218,2,0.501,low,veg,0
+156,Rasgulla,2,Desserts,solo,Navi_Mumbai,South_Indian,0.241,561,3,Desserts,lunch,weekday,none,summer,0.389,3,0.316,low,nonveg,0
+124,Fried Rice,1,Chinese,solo,Noida,South_Indian,0.137,389,2,Chinese,lunch,weekday,festival,summer,0.128,0,0.292,low,egg,0
+178,Burger,3,Fast_Food,group,Navi_Mumbai,South_Indian,0.29,324,1,Fast_Food,snacks,weekend,none,monsoon,0.169,7,0.444,medium,egg,1
+6,Fried Rice,1,Chinese,solo,South_Delhi,Desserts,0.139,513,3,Chinese,lunch,weekday,none,winter,0.619,1,0.415,low,nonveg,0
+113,Garlic Bread,3,Fast_Food,group,Navi_Mumbai,Desserts,0.086,337,1,Fast_Food,dinner,weekday,festival,summer,0.076,1,0.667,low,nonveg,0
+113,Sandwich,3,Fast_Food,group,Navi_Mumbai,Chinese,0.22,471,2,Fast_Food,dinner,weekday,anniversary,winter,0.236,10,0.124,low,nonveg,0
+99,Pepsi,1,Beverages,solo,West_Delhi,Chinese,0.312,365,1,Beverages,lunch,weekday,birthday,monsoon,0.773,1,0.699,high,veg,1
+32,Raita,1,North_Indian,solo,South_Delhi,Beverages,0.464,448,2,North_Indian,lunch,weekday,anniversary,monsoon,0.185,3,0.561,low,nonveg,1
+22,Idli,1,South_Indian,solo,South_Delhi,Desserts,0.258,551,4,South_Indian,snacks,weekday,none,summer,0.697,1,0.637,medium,veg,0
+99,Milkshake,1,Beverages,solo,West_Delhi,South_Indian,0.469,392,1,Beverages,snacks,weekday,birthday,summer,0.399,0,0.508,low,veg,0
+12,Fried Rice,3,Chinese,group,West_Delhi,South_Indian,0.43,503,3,Chinese,snacks,weekday,festival,winter,0.094,1,0.382,low,nonveg,0
+96,Upma,2,South_Indian,solo,Navi_Mumbai,Fast_Food,0.184,250,1,South_Indian,lunch,weekend,festival,winter,0.204,1,0.814,low,veg,0
+147,Coke,2,Beverages,solo,Navi_Mumbai,Chinese,0.155,508,3,Beverages,lunch,weekend,birthday,summer,0.537,1,0.595,low,dairy,0
+109,Burger,1,Fast_Food,solo,South_Delhi,Chinese,0.522,397,2,Fast_Food,breakfast,weekday,none,monsoon,0.127,1,0.598,low,veg,0
+76,Tea,3,Beverages,group,Gurgaon,Beverages,0.228,300,1,Beverages,snacks,weekend,none,winter,0.242,1,0.383,medium,veg,0
+108,Ice Cream,1,Desserts,solo,West_Delhi,Beverages,0.164,537,3,Desserts,lunch,weekend,none,winter,0.089,5,0.472,high,veg,1
+190,Garlic Bread,1,Fast_Food,solo,South_Delhi,Beverages,0.363,604,4,Fast_Food,dinner,weekday,none,winter,0.327,4,0.69,medium,veg,1
+86,Spring Roll,2,Chinese,solo,South_Delhi,North_Indian,0.259,408,2,Chinese,lunch,weekday,festival,summer,0.125,1,0.607,low,nonveg,1
+1,Sandwich,4,Fast_Food,group,Gurgaon,Fast_Food,0.542,407,2,Fast_Food,lunch,weekday,none,summer,0.191,0,0.342,low,veg,0
+108,Brownie,1,Desserts,solo,West_Delhi,Fast_Food,0.387,357,1,Desserts,lunch,weekday,birthday,winter,0.156,3,0.845,high,veg,1
+117,Roti,1,North_Indian,solo,Navi_Mumbai,Desserts,0.087,410,1,North_Indian,lunch,weekday,none,winter,0.646,12,0.526,high,egg,1
+137,Burger,2,Fast_Food,solo,Navi_Mumbai,Chinese,0.373,544,4,Fast_Food,lunch,weekday,none,monsoon,0.503,1,0.496,low,dairy,0
+47,Spring Roll,2,Chinese,solo,Gurgaon,Desserts,0.414,357,1,Chinese,dinner,weekday,none,monsoon,0.299,2,0.38,high,nonveg,1
+73,Pizza,3,Fast_Food,group,Gurgaon,Desserts,0.138,475,4,Fast_Food,lunch,weekend,none,summer,0.898,5,0.649,low,veg,1
+68,Brownie,1,Desserts,solo,Gurgaon,Desserts,0.399,287,1,Desserts,dinner,weekday,festival,winter,0.53,3,0.665,low,nonveg,1
+186,Kheer,3,Desserts,group,Navi_Mumbai,Fast_Food,0.528,322,1,Desserts,lunch,weekday,anniversary,monsoon,0.124,5,0.243,medium,veg,1
+152,Milkshake,1,Beverages,solo,Navi_Mumbai,Desserts,0.179,525,3,Beverages,snacks,weekday,none,summer,0.296,1,0.464,medium,dairy,0
+55,Ice Cream,3,Desserts,group,Gurgaon,Fast_Food,0.091,524,4,Desserts,lunch,weekday,none,monsoon,0.27,6,0.444,low,veg,0
+25,Fried Rice,3,Chinese,group,South_Delhi,South_Indian,0.236,417,2,Chinese,breakfast,weekday,none,summer,0.141,0,0.584,high,veg,0
+42,Spring Roll,1,Chinese,solo,Gurgaon,South_Indian,0.672,330,1,Chinese,breakfast,weekday,none,winter,0.156,0,0.638,high,veg,0
+100,Coke,1,Beverages,solo,Gurgaon,Chinese,0.27,306,1,Beverages,lunch,weekday,none,summer,0.468,4,0.69,low,veg,1
+21,Idli,1,South_Indian,solo,Navi_Mumbai,North_Indian,0.323,396,2,South_Indian,snacks,weekday,none,monsoon,0.391,0,0.499,low,nonveg,0
+159,Raita,2,North_Indian,solo,South_Delhi,Beverages,0.387,319,1,North_Indian,snacks,weekday,none,winter,0.083,1,0.494,medium,veg,0
+190,Cheesy Dip,1,Fast_Food,solo,South_Delhi,Beverages,0.255,299,1,Fast_Food,snacks,weekend,anniversary,monsoon,0.564,8,0.155,medium,veg,1
+121,Nachos,3,Fast_Food,group,South_Delhi,Chinese,0.295,326,1,Fast_Food,snacks,weekend,none,summer,0.613,6,0.376,high,dairy,1
+199,Upma,3,South_Indian,group,South_Delhi,North_Indian,0.286,387,1,South_Indian,snacks,weekday,none,summer,0.049,1,0.907,low,dairy,0
+80,Pepsi,3,Beverages,group,Navi_Mumbai,Fast_Food,0.162,470,2,Beverages,lunch,weekday,none,monsoon,0.675,5,0.523,medium,veg,0
+54,Lassi,2,Beverages,solo,Navi_Mumbai,Desserts,0.284,442,2,Beverages,lunch,weekday,none,winter,0.246,1,0.467,medium,dairy,0
+144,Sandwich,1,Fast_Food,solo,Noida,Desserts,0.29,375,2,Fast_Food,lunch,weekday,none,summer,0.115,2,0.512,medium,veg,0
+195,Paneer Tikka,1,North_Indian,solo,Gurgaon,Beverages,0.277,606,4,North_Indian,lunch,weekday,none,winter,0.424,0,0.539,high,veg,0
+60,Brownie,1,Desserts,solo,Noida,Desserts,0.207,534,3,Desserts,lunch,weekday,none,winter,0.319,3,0.327,low,dairy,1
+46,Cheesy Dip,1,Fast_Food,solo,Gurgaon,Desserts,0.483,271,1,Fast_Food,dinner,weekend,none,monsoon,0.714,1,0.202,low,veg,0
+14,Dosa,1,South_Indian,solo,South_Delhi,North_Indian,0.054,398,1,South_Indian,snacks,weekday,birthday,winter,0.482,8,0.173,medium,dairy,0
+55,Gulab Jamun,3,Desserts,group,Gurgaon,South_Indian,0.465,322,2,Desserts,dinner,weekend,festival,monsoon,0.323,0,0.493,low,veg,0
+88,Idli,3,South_Indian,group,West_Delhi,Beverages,0.285,365,1,South_Indian,lunch,weekday,none,summer,0.254,1,0.491,low,veg,0
+123,Idli,1,South_Indian,solo,Noida,North_Indian,0.308,453,2,South_Indian,snacks,weekend,none,monsoon,0.154,0,0.604,medium,nonveg,1
+53,Paneer Tikka,3,North_Indian,group,West_Delhi,North_Indian,0.082,397,2,North_Indian,lunch,weekday,anniversary,monsoon,0.426,0,0.614,low,dairy,0
+159,Dal Makhani,2,North_Indian,solo,South_Delhi,Chinese,0.235,455,3,North_Indian,snacks,weekday,none,summer,0.356,0,0.689,high,dairy,0
+131,Kheer,1,Desserts,solo,Noida,Beverages,0.187,352,1,Desserts,dinner,weekend,none,winter,0.22,2,0.867,medium,nonveg,0
+194,Salad,1,North_Indian,solo,Gurgaon,Chinese,0.287,344,1,North_Indian,dinner,weekday,none,winter,0.153,1,0.59,high,nonveg,1
+28,Sambar,2,South_Indian,solo,Navi_Mumbai,Fast_Food,0.229,548,3,South_Indian,breakfast,weekday,none,monsoon,0.52,0,0.819,low,nonveg,0
+133,Papad,1,North_Indian,solo,Gurgaon,Fast_Food,0.118,485,3,North_Indian,dinner,weekday,festival,winter,0.387,1,0.624,low,veg,1
+103,Chilli Paneer,2,Chinese,solo,South_Delhi,Beverages,0.073,418,2,Chinese,dinner,weekday,festival,winter,0.406,3,0.718,low,dairy,1
+87,Nachos,2,Fast_Food,solo,Gurgaon,South_Indian,0.105,358,2,Fast_Food,breakfast,weekday,festival,winter,0.57,1,0.563,medium,nonveg,0
+47,Spring Roll,2,Chinese,solo,Gurgaon,South_Indian,0.257,664,4,Chinese,snacks,weekend,none,monsoon,0.43,2,0.343,low,nonveg,1
+187,Pizza,2,Fast_Food,solo,Navi_Mumbai,Beverages,0.318,383,2,Fast_Food,lunch,weekday,none,summer,0.305,0,0.663,medium,veg,0
+6,Spring Roll,1,Chinese,solo,South_Delhi,Beverages,0.322,352,2,Chinese,dinner,weekend,none,monsoon,0.375,2,0.613,medium,nonveg,1
+35,Salad,3,North_Indian,group,Gurgaon,South_Indian,0.305,413,2,North_Indian,dinner,weekday,none,summer,0.119,1,0.351,medium,nonveg,0
+180,Upma,1,South_Indian,solo,West_Delhi,Chinese,0.312,473,2,South_Indian,lunch,weekday,none,summer,0.387,0,0.719,high,veg,1
+167,Milkshake,1,Beverages,solo,Navi_Mumbai,North_Indian,0.491,393,2,Beverages,lunch,weekday,none,winter,0.557,1,0.359,medium,veg,0
+126,Lassi,3,Beverages,group,South_Delhi,South_Indian,0.17,388,2,Beverages,lunch,weekend,none,winter,0.102,0,0.703,medium,dairy,1
+157,Paneer Tikka,3,North_Indian,group,South_Delhi,Desserts,0.591,412,2,North_Indian,dinner,weekend,none,monsoon,0.89,4,0.818,low,nonveg,0
+124,Fried Rice,1,Chinese,solo,Noida,Desserts,0.11,405,1,Chinese,dinner,weekend,none,winter,0.385,11,0.531,low,nonveg,1
+71,Lassi,1,Beverages,solo,Navi_Mumbai,Beverages,0.108,334,1,Beverages,lunch,weekend,none,summer,0.399,2,0.333,low,dairy,0
+162,Hakka Noodles,2,Chinese,solo,South_Delhi,Fast_Food,0.267,349,2,Chinese,lunch,weekend,none,monsoon,0.226,5,0.097,low,veg,1
+151,Cheesy Dip,1,Fast_Food,solo,Navi_Mumbai,Chinese,0.326,364,1,Fast_Food,snacks,weekday,none,summer,0.224,4,0.681,low,nonveg,0
+39,Gulab Jamun,2,Desserts,solo,West_Delhi,North_Indian,0.182,441,2,Desserts,dinner,weekend,none,winter,0.246,6,0.486,medium,veg,1
+63,Milkshake,1,Beverages,solo,West_Delhi,Fast_Food,0.14,324,1,Beverages,lunch,weekday,none,winter,0.203,6,0.338,low,nonveg,0
+79,Pepsi,1,Beverages,solo,Gurgaon,Beverages,0.316,501,2,Beverages,breakfast,weekday,birthday,summer,0.226,8,0.483,high,veg,1
+15,Salad,1,North_Indian,solo,Noida,South_Indian,0.456,298,1,North_Indian,snacks,weekend,none,summer,0.462,2,0.24,medium,egg,0
+118,Brownie,3,Desserts,group,Noida,Fast_Food,0.572,274,1,Desserts,lunch,weekend,festival,monsoon,0.375,13,0.721,medium,egg,1
+119,Paneer Tikka,2,North_Indian,solo,Noida,South_Indian,0.242,538,3,North_Indian,breakfast,weekday,none,summer,0.356,0,0.774,high,veg,0
+181,Vada,1,South_Indian,solo,South_Delhi,Beverages,0.33,270,1,South_Indian,lunch,weekend,none,monsoon,0.128,8,0.302,medium,dairy,0
+5,Burger,1,Fast_Food,solo,Navi_Mumbai,Fast_Food,0.226,363,2,Fast_Food,snacks,weekend,birthday,winter,0.529,0,0.452,low,nonveg,0
+38,Cold Coffee,2,Beverages,solo,South_Delhi,South_Indian,0.116,392,2,Beverages,lunch,weekday,none,monsoon,0.238,1,0.277,high,veg,0
+129,Nachos,2,Fast_Food,solo,West_Delhi,North_Indian,0.175,379,1,Fast_Food,snacks,weekday,none,winter,0.5,0,0.751,medium,veg,0
+139,Salad,4,North_Indian,group,West_Delhi,Fast_Food,0.213,347,1,North_Indian,lunch,weekday,none,monsoon,0.5,2,0.789,medium,veg,0
+181,Dosa,1,South_Indian,solo,South_Delhi,Fast_Food,0.383,423,2,South_Indian,lunch,weekday,none,summer,0.084,2,0.77,low,dairy,1
+69,Ice Cream,4,Desserts,group,South_Delhi,Fast_Food,0.183,374,1,Desserts,lunch,weekday,none,summer,0.406,2,0.735,medium,veg,0
+144,Sandwich,1,Fast_Food,solo,Noida,North_Indian,0.486,447,3,Fast_Food,snacks,weekday,none,monsoon,0.108,1,0.357,high,egg,0
+144,Nachos,1,Fast_Food,solo,Noida,Chinese,0.265,593,4,Fast_Food,lunch,weekday,none,summer,0.316,2,0.492,medium,veg,0
+138,Pizza,1,Fast_Food,solo,South_Delhi,Beverages,0.323,271,1,Fast_Food,dinner,weekday,none,winter,0.154,0,0.385,high,veg,0
+130,Papad,2,North_Indian,solo,West_Delhi,Fast_Food,0.511,622,4,North_Indian,dinner,weekday,none,winter,0.136,0,0.672,medium,nonveg,0
+90,Choco Lava Cake,1,Desserts,solo,South_Delhi,North_Indian,0.362,350,2,Desserts,lunch,weekday,none,winter,0.17,2,0.515,medium,nonveg,0
+152,Coke,1,Beverages,solo,Navi_Mumbai,North_Indian,0.049,584,4,Beverages,dinner,weekday,none,winter,0.186,0,0.716,high,veg,0
+119,Biryani,2,North_Indian,solo,Noida,Beverages,0.258,424,2,North_Indian,lunch,weekday,none,summer,0.398,2,0.383,low,veg,0
+112,Pizza,3,Fast_Food,group,Gurgaon,South_Indian,0.671,449,2,Fast_Food,dinner,weekend,none,winter,0.274,1,0.518,low,nonveg,0
+27,Lassi,2,Beverages,solo,Navi_Mumbai,North_Indian,0.285,476,3,Beverages,dinner,weekday,festival,winter,0.369,2,0.599,high,veg,1
+44,Papad,1,North_Indian,solo,Gurgaon,North_Indian,0.359,575,4,North_Indian,snacks,weekday,birthday,monsoon,0.47,6,0.358,low,nonveg,1
+169,Chutney,2,South_Indian,solo,Gurgaon,North_Indian,0.386,343,1,South_Indian,dinner,weekday,none,summer,0.393,19,0.545,high,veg,0
+113,Sandwich,3,Fast_Food,group,Navi_Mumbai,Desserts,0.483,415,2,Fast_Food,lunch,weekday,none,summer,0.599,1,0.846,low,veg,0
+89,Sandwich,2,Fast_Food,solo,West_Delhi,Beverages,0.23,301,1,Fast_Food,lunch,weekday,none,summer,0.427,6,0.396,low,nonveg,1
+94,Milkshake,3,Beverages,group,Noida,South_Indian,0.04,315,1,Beverages,snacks,weekday,none,monsoon,0.297,0,0.51,low,nonveg,0
+70,Pepsi,3,Beverages,group,South_Delhi,Beverages,0.519,301,2,Beverages,dinner,weekday,none,monsoon,0.201,5,0.789,low,veg,1
+37,Pepsi,1,Beverages,solo,Gurgaon,Chinese,0.218,293,1,Beverages,snacks,weekday,none,monsoon,0.255,4,0.707,high,veg,1
+179,Salad,1,North_Indian,solo,Navi_Mumbai,Chinese,0.421,558,4,North_Indian,dinner,weekend,none,summer,0.618,6,0.64,medium,nonveg,1
+192,Biryani,3,North_Indian,group,Gurgaon,Fast_Food,0.212,398,1,North_Indian,dinner,weekend,none,summer,0.305,2,0.359,low,nonveg,0
+26,Gulab Jamun,1,Desserts,solo,Gurgaon,Desserts,0.214,339,2,Desserts,dinner,weekday,none,monsoon,0.694,0,0.84,medium,veg,0
+196,Ice Cream,2,Desserts,solo,Noida,South_Indian,0.065,521,3,Desserts,dinner,weekday,none,winter,0.642,1,0.374,medium,egg,1
+55,Brownie,3,Desserts,group,Gurgaon,North_Indian,0.574,371,1,Desserts,snacks,weekday,none,summer,0.277,3,0.159,high,nonveg,0
+164,Brownie,1,Desserts,solo,Navi_Mumbai,Beverages,0.071,390,1,Desserts,lunch,weekday,none,summer,0.074,2,0.565,medium,nonveg,1
+182,Roti,3,North_Indian,group,Gurgaon,Desserts,0.33,426,2,North_Indian,lunch,weekday,anniversary,monsoon,0.331,1,0.446,medium,veg,0
+117,Raita,1,North_Indian,solo,Navi_Mumbai,Beverages,0.243,416,2,North_Indian,dinner,weekday,none,monsoon,0.173,4,0.477,low,nonveg,0
+69,Brownie,4,Desserts,group,South_Delhi,Beverages,0.38,420,2,Desserts,lunch,weekday,none,summer,0.307,2,0.414,medium,veg,0
+86,Manchurian,2,Chinese,solo,South_Delhi,North_Indian,0.238,464,2,Chinese,lunch,weekday,festival,monsoon,0.394,0,0.396,medium,veg,0
+101,Chilli Paneer,2,Chinese,solo,Gurgaon,Desserts,0.379,582,4,Chinese,dinner,weekday,festival,summer,0.467,0,0.555,medium,nonveg,1
+34,Spring Roll,4,Chinese,group,Gurgaon,South_Indian,0.174,410,2,Chinese,dinner,weekend,none,monsoon,0.434,3,0.821,low,nonveg,0
+64,Coke,1,Beverages,solo,Noida,North_Indian,0.421,396,2,Beverages,snacks,weekend,none,winter,0.301,1,0.267,medium,nonveg,0
+39,Ice Cream,2,Desserts,solo,West_Delhi,Fast_Food,0.186,519,3,Desserts,dinner,weekend,none,summer,0.166,0,0.199,low,veg,0
+139,Dal Makhani,4,North_Indian,group,West_Delhi,Beverages,0.205,328,1,North_Indian,lunch,weekday,none,monsoon,0.218,2,0.566,low,nonveg,0
+175,Pizza,1,Fast_Food,solo,South_Delhi,Desserts,0.072,531,3,Fast_Food,dinner,weekday,none,summer,0.534,1,0.621,low,veg,0
+17,Paneer Tikka,2,North_Indian,solo,West_Delhi,South_Indian,0.32,594,4,North_Indian,lunch,weekday,none,summer,0.48,2,0.661,low,veg,0
+64,Milkshake,1,Beverages,solo,Noida,Desserts,0.206,295,1,Beverages,lunch,weekday,none,winter,0.403,2,0.613,medium,veg,0
+142,Manchurian,2,Chinese,solo,South_Delhi,Desserts,0.296,435,2,Chinese,lunch,weekday,anniversary,monsoon,0.153,0,0.221,low,veg,1
+155,Rasgulla,1,Desserts,solo,Noida,Chinese,0.3,525,4,Desserts,breakfast,weekday,none,summer,0.49,0,0.304,low,dairy,1
+32,Biryani,1,North_Indian,solo,South_Delhi,Desserts,0.184,458,2,North_Indian,dinner,weekend,none,summer,0.297,1,0.532,high,veg,0
+182,Biryani,3,North_Indian,group,Gurgaon,South_Indian,0.389,404,2,North_Indian,dinner,weekend,none,summer,0.252,1,0.469,medium,veg,0
+192,Biryani,3,North_Indian,group,Gurgaon,Fast_Food,0.338,263,1,North_Indian,lunch,weekday,none,winter,0.418,2,0.171,low,veg,0
+87,Sandwich,2,Fast_Food,solo,Gurgaon,South_Indian,0.065,491,3,Fast_Food,lunch,weekday,none,monsoon,0.105,3,0.418,medium,veg,0
+128,Cold Coffee,1,Beverages,solo,Gurgaon,Desserts,0.231,487,2,Beverages,lunch,weekday,none,winter,0.442,4,0.407,low,nonveg,0
+100,Milkshake,1,Beverages,solo,Gurgaon,Beverages,0.126,474,2,Beverages,dinner,weekend,none,winter,0.677,3,0.236,low,egg,0
+169,Dosa,2,South_Indian,solo,Gurgaon,Beverages,0.337,456,3,South_Indian,snacks,weekday,none,monsoon,0.399,0,0.632,low,veg,0
+190,Sandwich,1,Fast_Food,solo,South_Delhi,Desserts,0.387,412,1,Fast_Food,lunch,weekend,none,summer,0.28,0,0.754,low,veg,0
+90,Brownie,1,Desserts,solo,South_Delhi,Fast_Food,0.21,382,1,Desserts,dinner,weekend,anniversary,winter,0.366,1,0.33,low,dairy,0
+120,Hakka Noodles,3,Chinese,group,West_Delhi,Desserts,0.091,342,1,Chinese,breakfast,weekend,festival,summer,0.282,0,0.612,high,veg,0
+195,Papad,1,North_Indian,solo,Gurgaon,North_Indian,0.526,455,3,North_Indian,lunch,weekday,none,monsoon,0.147,6,0.144,high,veg,0
+173,Lassi,1,Beverages,solo,Gurgaon,Chinese,0.244,378,1,Beverages,dinner,weekday,none,monsoon,0.377,1,0.267,low,veg,0
+56,Cold Coffee,1,Beverages,solo,Navi_Mumbai,Beverages,0.144,273,1,Beverages,lunch,weekday,birthday,monsoon,0.365,1,0.652,low,nonveg,1
+70,Cold Coffee,3,Beverages,group,South_Delhi,Fast_Food,0.599,322,1,Beverages,lunch,weekend,none,winter,0.418,10,0.539,low,veg,1
+138,Nachos,1,Fast_Food,solo,South_Delhi,Chinese,0.42,383,2,Fast_Food,breakfast,weekday,birthday,monsoon,0.861,0,0.161,high,veg,0
